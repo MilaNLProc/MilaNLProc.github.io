@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embeddings | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/embeddings/</link>
+      <atom:link href="https://milanlproc.github.io/tags/embeddings/index.xml" rel="self" type="application/rss+xml" />
+    <description>embeddings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>embeddings</title>
+      <link>https://milanlproc.github.io/tags/embeddings/</link>
+    </image>
+    
+    <item>
+      <title>Visualizing Regional Language Variation Across Europe on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2020_eutwitter/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_eutwitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Regional Variation with Distributed Place Representations and Geographic Retrofitting</title>
+      <link>https://milanlproc.github.io/publication/2018_gsa/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2018_gsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

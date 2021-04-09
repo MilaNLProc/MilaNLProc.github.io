@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Representation learning | MilaNLP Lab @ Bocconi University</title>
+    <title>representation learning | MilaNLP Lab @ Bocconi University</title>
     <link>https://milanlproc.github.io/tags/representation-learning/</link>
       <atom:link href="https://milanlproc.github.io/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Representation learning</description>
+    <description>representation learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Representation learning</title>
+      <title>representation learning</title>
       <link>https://milanlproc.github.io/tags/representation-learning/</link>
     </image>
     
@@ -21,10 +21,26 @@
     </item>
     
     <item>
+      <title>Visualizing Regional Language Variation Across Europe on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2020_eutwitter/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_eutwitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What the [MASK]? Making Sense of Language-Specific BERT Models</title>
       <link>https://milanlproc.github.io/publication/2020_bertlang/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2020_bertlang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Regional Variation with Distributed Place Representations and Geographic Retrofitting</title>
+      <link>https://milanlproc.github.io/publication/2018_gsa/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2018_gsa/</guid>
       <description></description>
     </item>
     
