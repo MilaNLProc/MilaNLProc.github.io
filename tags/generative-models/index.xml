@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>generative models | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/generative-models/</link>
+      <atom:link href="https://milanlproc.github.io/tags/generative-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>generative models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>generative models</title>
+      <link>https://milanlproc.github.io/tags/generative-models/</link>
+    </image>
+    
+    <item>
+      <title>Comparing Bayesian Models of Annotation</title>
+      <link>https://milanlproc.github.io/publication/2018_bayes/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2018_bayes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
