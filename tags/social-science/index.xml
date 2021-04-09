@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social science | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/social-science/</link>
+      <atom:link href="https://milanlproc.github.io/tags/social-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>social science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>social science</title>
+      <link>https://milanlproc.github.io/tags/social-science/</link>
+    </image>
+    
+    <item>
+      <title>Text Analysis in Python for Social Scientists – Discovery and Exploration</title>
+      <link>https://milanlproc.github.io/publication/2020_nlpss/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_nlpss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

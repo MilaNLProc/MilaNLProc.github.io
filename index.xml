@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Text Analysis in Python for Social Scientists – Discovery and Exploration</title>
+      <link>https://milanlproc.github.io/publication/2020_nlpss/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_nlpss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview</title>
       <link>https://milanlproc.github.io/publication/2020_bias/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -99,6 +107,14 @@ Given the concerns about growing polarization and the spread of misinformation, 
 &lt;p&gt;Our second two metrics, incivility, and intolerance, will help Twitter identify and address abuse and targeted harassment. Incivility measures the presence of anti-normative intensity in conversation, including the use of profanity and vulgarity. However, recognizing that such anti-normative communication sometimes serves justifiable&amp;ndash;and in some cases, even beneficial&amp;ndash;ends, we distinguish this concept from intolerance. Targeted attacks on individuals or groups, particularly when carried out based on gender, sexuality, race, ethnicity, religion, or ability, threaten the fundamental democratic principles of equality and freedom.&lt;/p&gt;
 &lt;p&gt;To classify these measures at scale, we draw upon existing work in various computational fields, notably natural language processing and network analysis, but take this work further in addressing the metrics outlined here. Moreover, beyond merely detecting and measuring mutual recognition, diversity of perspectives, incivility, and intolerance, we propose to study the effects these four phenomena have on users. In doing so, we offer a theoretically and empirically driven approach that will help Twitter diagnose the conversation&amp;rsquo;s relative health on its platform.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Case for Soft Loss Functions</title>
+      <link>https://milanlproc.github.io/publication/2020_aaai_softlabels/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_aaai_softlabels/</guid>
+      <description></description>
     </item>
     
     <item>
