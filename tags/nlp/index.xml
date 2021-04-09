@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/tags/nlp/</link>
       <atom:link href="https://milanlproc.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>nlp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>nlp</title>
       <link>https://milanlproc.github.io/tags/nlp/</link>
     </image>
+    
+    <item>
+      <title>HONEST: Measuring Hurtful Sentence Completion in Language Models</title>
+      <link>https://milanlproc.github.io/publication/2021_honest/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021_honest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FEEL-IT: Emotion and Sentiment Classification for the Italian Language</title>
+      <link>https://milanlproc.github.io/publication/2021_feelit/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021_feelit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
