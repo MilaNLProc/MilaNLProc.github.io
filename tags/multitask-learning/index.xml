@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/multitask-learning/</link>
       <atom:link href="https://milanlproc.github.io/tags/multitask-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>multitask learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>multitask learning</title>
       <link>https://milanlproc.github.io/tags/multitask-learning/</link>
     </image>
+    
+    <item>
+      <title>Geolocation with Attention-Based Multitask Learning Models</title>
+      <link>https://milanlproc.github.io/publication/2019_geo_mtl/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2019_geo_mtl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting News Headline Popularity with Syntactic and Semantic Knowledge Using Multi-Task Learning</title>
