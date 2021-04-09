@@ -24,10 +24,10 @@
   
     
   
-  <meta name="description" content="Text is everywhere, and it is a fantastic resource for social scientists. However, because it is so abundant, and because language is so variable, it is often difficult to extract the information we want. There is a whole subfield of AI concerned with text analysis (natural language processing). Many of the basic analysis methods developed are now readily available as Python implementations. This Element will teach you when to use which method, the mathematical background of how it works, and the Python code to implement it.">
+  <meta name="description" content="Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2020_nlpss/">
+  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2021_eacl_decour/">
 
   
 
@@ -250,7 +250,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://milanlproc.github.io/publication/2020_nlpss/">
+  <link rel="canonical" href="https://milanlproc.github.io/publication/2021_eacl_decour/">
 
   
   
@@ -258,20 +258,21 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="MilaNLP Lab @ Bocconi University">
-  <meta property="og:url" content="https://milanlproc.github.io/publication/2020_nlpss/">
-  <meta property="og:title" content="Text Analysis in Python for Social Scientists – Discovery and Exploration | MilaNLP Lab @ Bocconi University">
-  <meta property="og:description" content="Text is everywhere, and it is a fantastic resource for social scientists. However, because it is so abundant, and because language is so variable, it is often difficult to extract the information we want. There is a whole subfield of AI concerned with text analysis (natural language processing). Many of the basic analysis methods developed are now readily available as Python implementations. This Element will teach you when to use which method, the mathematical background of how it works, and the Python code to implement it."><meta property="og:image" content="https://milanlproc.github.io/publication/2020_nlpss/featured.jpg">
-  <meta property="twitter:image" content="https://milanlproc.github.io/publication/2020_nlpss/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://milanlproc.github.io/publication/2021_eacl_decour/">
+  <meta property="og:title" content="BERTective: Language Models and Contextual Information for Deception Detection | MilaNLP Lab @ Bocconi University">
+  <meta property="og:description" content="Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-02-29T14:48:20&#43;01:00">
+      <meta property="article:published_time" content="2021-04-09T01:41:26&#43;01:00">
     
-    <meta property="article:modified_time" content="2020-12-16T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-04-09T00:00:00&#43;00:00">
   
 
   
@@ -293,20 +294,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://milanlproc.github.io/publication/2020_nlpss/"
+    "@id": "https://milanlproc.github.io/publication/2021_eacl_decour/"
   },
-  "headline": "Text Analysis in Python for Social Scientists – Discovery and Exploration",
+  "headline": "BERTective: Language Models and Contextual Information for Deception Detection",
   
-  "image": [
-    "https://milanlproc.github.io/publication/2020_nlpss/featured.jpg"
-  ],
-  
-  "datePublished": "2020-02-29T14:48:20+01:00",
-  "dateModified": "2020-12-16T00:00:00Z",
+  "datePublished": "2021-04-09T01:41:26+01:00",
+  "dateModified": "2021-04-09T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Dirk Hovy"
+    "name": "Tommaso Fornaciari"
   },
   
   "publisher": {
@@ -317,7 +314,7 @@
       "url": "https://milanlproc.github.io/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Text is everywhere, and it is a fantastic resource for social scientists. However, because it is so abundant, and because language is so variable, it is often difficult to extract the information we want. There is a whole subfield of AI concerned with text analysis (natural language processing). Many of the basic analysis methods developed are now readily available as Python implementations. This Element will teach you when to use which method, the mathematical background of how it works, and the Python code to implement it."
+  "description": "Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations."
 }
 </script>
 
@@ -335,7 +332,7 @@
 
 
 
-  <title>Text Analysis in Python for Social Scientists – Discovery and Exploration | MilaNLP Lab @ Bocconi University</title>
+  <title>BERTective: Language Models and Contextual Information for Deception Detection | MilaNLP Lab @ Bocconi University</title>
 
 </head>
 
@@ -572,24 +569,18 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
-  <h1>Text Analysis in Python for Social Scientists – Discovery and Exploration</h1>
+  <h1>BERTective: Language Models and Contextual Information for Deception Detection</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
@@ -602,7 +593,7 @@
     
 
   
-  <span><a href="/authors/dirk-hovy/">Dirk Hovy</a></span>
+  <span><a href="/authors/tommaso-fornaciari/">Tommaso Fornaciari</a></span>, <span><a href="/authors/federico-bianchi/">Federico Bianchi</a></span>, <span><a href="/authors/dirk-hovy/">Dirk Hovy</a></span>, <span><a href="/authors/massimo-poesio/">Massimo Poesio</a></span>
   </div>
   
   
@@ -613,7 +604,7 @@
     
       
     
-    December 2020
+    April 2021
   </span>
   
 
@@ -630,75 +621,22 @@
 
 </div>
 
-  
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2020_nlpss/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 180px; max-height: 271px;">
-  <div style="position: relative">
-    <img src="/publication/2020_nlpss/featured.jpg" alt="" class="featured-image">
-    <span class="article-header-caption">Sources and Types of Predictive Biases</span>
-  </div>
 </div>
 
 
@@ -707,7 +645,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Text is everywhere, and it is a fantastic resource for social scientists. However, because it is so abundant, and because language is so variable, it is often difficult to extract the information we want. There is a whole subfield of AI concerned with text analysis (natural language processing). Many of the basic analysis methods developed are now readily available as Python implementations. This Element will teach you when to use which method, the mathematical background of how it works, and the Python code to implement it.</p>
+    <p class="pub-abstract">Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations.</p>
     
 
     
@@ -719,8 +657,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#5">
-              Book
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -737,7 +675,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Cambridge Core Elements in Quantitative and Computational Methods for the Social Sciences</div>
+          <div class="col-12 col-md-9">Proceedings of the 2021 Conference of the European Chapter of the Association for Computational Linguistics</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -753,18 +691,6 @@
 
 
 
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/text-analysis/">text analysis</a>
-  
-  <a class="badge badge-light" href="/tags/social-science/">social science</a>
-  
-  <a class="badge badge-light" href="/tags/nlp/">NLP</a>
-  
-  <a class="badge badge-light" href="/tags/python/">Python</a>
-  
-</div>
-
 
 
 <div class="share-box" aria-hidden="true">
@@ -778,7 +704,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2020_nlpss/&amp;text=Text%20Analysis%20in%20Python%20for%20Social%20Scientists%20%e2%80%93%20Discovery%20and%20Exploration" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2021_eacl_decour/&amp;text=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -791,7 +717,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2020_nlpss/&amp;t=Text%20Analysis%20in%20Python%20for%20Social%20Scientists%20%e2%80%93%20Discovery%20and%20Exploration" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2021_eacl_decour/&amp;t=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -804,7 +730,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Text%20Analysis%20in%20Python%20for%20Social%20Scientists%20%e2%80%93%20Discovery%20and%20Exploration&amp;body=https://milanlproc.github.io/publication/2020_nlpss/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection&amp;body=https://milanlproc.github.io/publication/2021_eacl_decour/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -817,7 +743,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2020_nlpss/&amp;title=Text%20Analysis%20in%20Python%20for%20Social%20Scientists%20%e2%80%93%20Discovery%20and%20Exploration" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2021_eacl_decour/&amp;title=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -830,7 +756,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Text%20Analysis%20in%20Python%20for%20Social%20Scientists%20%e2%80%93%20Discovery%20and%20Exploration%20https://milanlproc.github.io/publication/2020_nlpss/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection%20https://milanlproc.github.io/publication/2021_eacl_decour/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -843,7 +769,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2020_nlpss/&amp;title=Text%20Analysis%20in%20Python%20for%20Social%20Scientists%20%e2%80%93%20Discovery%20and%20Exploration" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2021_eacl_decour/&amp;title=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -879,7 +805,91 @@
     
 
     <div class="media-body">
+      <h5 class="card-title"><a href="/authors/tommaso-fornaciari/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/federico-bianchi/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
       <h5 class="card-title"><a href="/authors/dirk-hovy/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/massimo-poesio/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -902,23 +912,6 @@
 
 
   
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/2020_mt/">“You Sound Just Like Your Father” Commercial Machine Translation Systems Include Stylistic Biases</a></li>
-      
-      <li><a href="/publication/2020_helpful/">Helpful or Hierarchical? Predicting the Communicative Strategies of Chat Participants, and their Impact on Success</a></li>
-      
-      <li><a href="/publication/2020_bias/">Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview</a></li>
-      
-      <li><a href="/publication/2020_bertlang/">What the [MASK]? Making Sense of Language-Specific BERT Models</a></li>
-      
-      <li><a href="/publication/2020_crosslingual_topic_model/">Cross-lingual Contextualized Topic Models with Zero-shot Learning</a></li>
-      
-    </ul>
-  </div>
   
 
 
