@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexandra Uma | MilaNLP Lab @ Bocconi University</title>
-    <link>https://milanlproc.github.io/authors/alexandra-uma/</link>
-      <atom:link href="https://milanlproc.github.io/authors/alexandra-uma/index.xml" rel="self" type="application/rss+xml" />
-    <description>Alexandra Uma</description>
+    <title>machine learning | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/machine-learning/</link>
+      <atom:link href="https://milanlproc.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Alexandra Uma</title>
-      <link>https://milanlproc.github.io/authors/alexandra-uma/</link>
+      <title>machine learning</title>
+      <link>https://milanlproc.github.io/tags/machine-learning/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://milanlproc.github.io/publication/2020_loss/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2020_loss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Case for Soft Loss Functions</title>
-      <link>https://milanlproc.github.io/publication/2020_aaai_softlabels/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2020_aaai_softlabels/</guid>
       <description></description>
     </item>
     
