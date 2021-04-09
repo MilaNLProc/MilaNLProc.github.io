@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tommaso Fornaciari | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/tommaso-fornaciari/</link>
+      <atom:link href="https://milanlproc.github.io/authors/tommaso-fornaciari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tommaso Fornaciari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tommaso Fornaciari</title>
+      <link>https://milanlproc.github.io/authors/tommaso-fornaciari/</link>
+    </image>
+    
+    <item>
+      <title>Helpful or Hierarchical? Predicting the Communicative Strategies of Chat Participants, and their Impact on Success</title>
+      <link>https://milanlproc.github.io/publication/2020_helpful/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_helpful/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
