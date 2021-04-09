@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geolocation | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/geolocation/</link>
+      <atom:link href="https://milanlproc.github.io/tags/geolocation/index.xml" rel="self" type="application/rss+xml" />
+    <description>geolocation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>geolocation</title>
+      <link>https://milanlproc.github.io/tags/geolocation/</link>
+    </image>
+    
+    <item>
+      <title>Geolocation with Attention-Based Multitask Learning Models</title>
+      <link>https://milanlproc.github.io/publication/2019_geo_mtl/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2019_geo_mtl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
