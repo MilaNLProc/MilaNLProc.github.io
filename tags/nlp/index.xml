@@ -109,5 +109,21 @@ Given the concerns about growing polarization and the spread of misinformation, 
 </description>
     </item>
     
+    <item>
+      <title>Hey Siri. Ok Google. Alexa: A topic modeling of user reviews for smart speakers</title>
+      <link>https://milanlproc.github.io/publication/2019_siri/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2019_siri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women’s Syntactic Resilience and Men’s Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing</title>
+      <link>https://milanlproc.github.io/publication/2019_luck/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2019_luck/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
