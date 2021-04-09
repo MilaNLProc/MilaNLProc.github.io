@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>BERTective: Language Models and Contextual Information for Deception Detection</title>
+      <link>https://milanlproc.github.io/publication/2021_eacl_decour/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021_eacl_decour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Text Analysis in Python for Social Scientists – Discovery and Exploration</title>
       <link>https://milanlproc.github.io/publication/2020_nlpss/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
@@ -118,10 +126,50 @@ Given the concerns about growing polarization and the spread of misinformation, 
     </item>
     
     <item>
+      <title>A Case for Soft Loss Functions</title>
+      <link>https://milanlproc.github.io/publication/2020_aaai_softlabels/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_aaai_softlabels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake opinion detection: how similar are crowdsourced datasets to real data?</title>
+      <link>https://milanlproc.github.io/publication/2020_lre/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_lre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dense Node Representation for Geolocation</title>
+      <link>https://milanlproc.github.io/publication/2019_m2v/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2019_m2v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geolocation with Attention-Based Multitask Learning Models</title>
+      <link>https://milanlproc.github.io/publication/2019_geo_mtl/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2019_geo_mtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hey Siri. Ok Google. Alexa: A topic modeling of user reviews for smart speakers</title>
       <link>https://milanlproc.github.io/publication/2019_siri/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2019_siri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Linguistic Areas for Geolocation</title>
+      <link>https://milanlproc.github.io/publication/2019_p2c/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2019_p2c/</guid>
       <description></description>
     </item>
     

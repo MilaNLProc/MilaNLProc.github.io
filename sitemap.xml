@@ -41,6 +41,9 @@
     <loc>https://milanlproc.github.io/tags/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/tags/dataset/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/tags/emotion-detection/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,6 +57,9 @@
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2021_eacl_decour/</loc>
+    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/deception-detection/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/massimo-poesio/</loc>
@@ -116,7 +122,7 @@
     <loc>https://milanlproc.github.io/authors/silvia-terragni/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/topic-model/</loc>
+    <loc>https://milanlproc.github.io/tags/topic-modeling/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication_types/6/</loc>
@@ -218,7 +224,13 @@
     <loc>https://milanlproc.github.io/authors/alexandra-uma/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/tags/annotation/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/authors/barbara-plank/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/disagreement/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2020_lre/</loc>
@@ -227,11 +239,17 @@
     <loc>https://milanlproc.github.io/authors/letitia-cagnina/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/tags/loss-function/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/authors/paolo-rosso/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/silviu-paun/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/clustering/</loc>
+    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2019_m2v/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
@@ -255,9 +273,6 @@
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/smart-speakers/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/topic-modeling/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/aparna-garimella/</loc>
@@ -290,6 +305,9 @@
     <loc>https://milanlproc.github.io/authors/diego-ubfal/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/tags/economics/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/authors/gaia-rubera/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -308,9 +326,6 @@
     <loc>https://milanlproc.github.io/publication/2018_emnlp_retro/</loc>
     <lastmod>2018-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/annotation/</loc>
-    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/bob-carpenter/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -324,9 +339,6 @@
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/daniel-hardt/</loc>
-    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/disagreement/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/generative-models/</loc>
