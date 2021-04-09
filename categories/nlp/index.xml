@@ -1,58 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MilaNLP Lab @ Bocconi University</title>
-    <link>https://milanlproc.github.io/</link>
-      <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <title>nlp | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/categories/nlp/</link>
+      <atom:link href="https://milanlproc.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>nlp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>MilaNLP Lab @ Bocconi University</title>
-      <link>https://milanlproc.github.io/</link>
+      <title>nlp</title>
+      <link>https://milanlproc.github.io/categories/nlp/</link>
     </image>
-    
-    <item>
-      <title>HONEST: Measuring Hurtful Sentence Completion in Language Models</title>
-      <link>https://milanlproc.github.io/publication/2021_honest/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2021_honest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FEEL-IT: Emotion and Sentiment Classification for the Italian Language</title>
-      <link>https://milanlproc.github.io/publication/2021_feelit/</link>
-      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2021_feelit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
-      <link>https://milanlproc.github.io/publication/2020_crosslingual_topic_model/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2020_crosslingual_topic_model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What the [MASK]? Making Sense of Language-Specific BERT Models</title>
-      <link>https://milanlproc.github.io/publication/2020_bertlang/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2020_bertlang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INTEGRATOR</title>
-      <link>https://milanlproc.github.io/project/integrator/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/project/integrator/</guid>
-      <description>&lt;p&gt;Dirk Hovy, scientific director of DMI and Associate Professor of computer science, has won an ERC starting grant of 1.5mln euros. His project introduces demographic factors into language processing systems, which will improve algorithmic performance, avoid racism, sexism, and ageism, and open up new applications.
-What if I wrote that “winning an ERC Grant, Dirk Hovy got a sick result?”. Those familiar with the use of “sick” as a synonym for “great” or “awesome” among teenagers would think that Bocconi Knowledge hired a very young writer (or someone posing as such). The rest would think I went crazy. Current artificial intelligence-based language systems wouldn’t have a clue. “Natural language processing (NLP) technologies,” Prof. Hovy says, “fail to account for demographics both in understanding language and in generating it. And this failure prevents us from reaching human-like performance. It limits possible future applications and it introduces systematic bias against underrepresented demographic groups”.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>MiMac</title>
@@ -75,30 +33,6 @@ Given the concerns about growing polarization and the spread of misinformation, 
 &lt;p&gt;Our second two metrics, incivility, and intolerance, will help Twitter identify and address abuse and targeted harassment. Incivility measures the presence of anti-normative intensity in conversation, including the use of profanity and vulgarity. However, recognizing that such anti-normative communication sometimes serves justifiable&amp;ndash;and in some cases, even beneficial&amp;ndash;ends, we distinguish this concept from intolerance. Targeted attacks on individuals or groups, particularly when carried out based on gender, sexuality, race, ethnicity, religion, or ability, threaten the fundamental democratic principles of equality and freedom.&lt;/p&gt;
 &lt;p&gt;To classify these measures at scale, we draw upon existing work in various computational fields, notably natural language processing and network analysis, but take this work further in addressing the metrics outlined here. Moreover, beyond merely detecting and measuring mutual recognition, diversity of perspectives, incivility, and intolerance, we propose to study the effects these four phenomena have on users. In doing so, we offer a theoretically and empirically driven approach that will help Twitter diagnose the conversation&amp;rsquo;s relative health on its platform.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>About / Contact</title>
-      <link>https://milanlproc.github.io/contact/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to partecipate</title>
-      <link>https://milanlproc.github.io/data/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://milanlproc.github.io/projects/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/projects/</guid>
-      <description></description>
     </item>
     
   </channel>
