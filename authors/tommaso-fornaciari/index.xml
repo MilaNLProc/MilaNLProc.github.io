@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/tommaso-fornaciari/</link>
       <atom:link href="https://milanlproc.github.io/authors/tommaso-fornaciari/index.xml" rel="self" type="application/rss+xml" />
     <description>Tommaso Fornaciari</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tommaso Fornaciari</title>
       <link>https://milanlproc.github.io/authors/tommaso-fornaciari/</link>
     </image>
+    
+    <item>
+      <title>“You Sound Just Like Your Father” Commercial Machine Translation Systems Include Stylistic Biases</title>
+      <link>https://milanlproc.github.io/publication/2020_mt/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2020_mt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Helpful or Hierarchical? Predicting the Communicative Strategies of Chat Participants, and their Impact on Success</title>
