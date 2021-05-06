@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/bert/</link>
       <atom:link href="https://milanlproc.github.io/tags/bert/index.xml" rel="self" type="application/rss+xml" />
     <description>BERT</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>BERT</title>
       <link>https://milanlproc.github.io/tags/bert/</link>
     </image>
+    
+    <item>
+      <title>Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection</title>
+      <link>https://milanlproc.github.io/publication/2021-zeroshot-crosslingual-hate-speech/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-zeroshot-crosslingual-hate-speech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HONEST: Measuring Hurtful Sentence Completion in Language Models</title>
@@ -46,9 +54,9 @@
     
     <item>
       <title>What the [MASK]? Making Sense of Language-Specific BERT Models</title>
-      <link>https://milanlproc.github.io/publication/2020_bertlang/</link>
+      <link>https://milanlproc.github.io/publication/2020-bertlang-language-specific-bert/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2020_bertlang/</guid>
+      <guid>https://milanlproc.github.io/publication/2020-bertlang-language-specific-bert/</guid>
       <description></description>
     </item>
     
