@@ -24,10 +24,10 @@
   
     
   
-  <meta name="description" content="Prior research has shown that geolocation can be substantially improved by including user network information. While effective, it suffers from the curse of dimensionality, since networks are usually represented as sparse adjacency matrices of connections, which grow exponentially with the number of users. In order to incorporate this information, we therefore need to limit the network size, in turn limiting performance and risking sample bias. In this paper, we address these limitations by instead using dense network representations. We explore two methods to learn continuous node representations from either 1) the network structure with node2vec (Grover and Leskovec, 2016), or 2) textual user mentions via doc2vec (Le and Mikolov, 2014). We combine both methods with input from social media posts in an attention-based convolutional neural network and evaluate the contribution of each component on geolocation performance. Our method enables us to incorporate arbitrarily large networks in a fixed-length vector, without limiting the network size. Our models achieve competitive results with similar state-of-the-art methods, but with much fewer model parameters, while being applicable to networks of virtually any size. ">
+  <meta name="description" content="Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2019_m2v/">
+  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/">
 
   
 
@@ -250,7 +250,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://milanlproc.github.io/publication/2019_m2v/">
+  <link rel="canonical" href="https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/">
 
   
   
@@ -263,15 +263,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="MilaNLP Lab @ Bocconi University">
-  <meta property="og:url" content="https://milanlproc.github.io/publication/2019_m2v/">
-  <meta property="og:title" content="Dense Node Representation for Geolocation | MilaNLP Lab @ Bocconi University">
-  <meta property="og:description" content="Prior research has shown that geolocation can be substantially improved by including user network information. While effective, it suffers from the curse of dimensionality, since networks are usually represented as sparse adjacency matrices of connections, which grow exponentially with the number of users. In order to incorporate this information, we therefore need to limit the network size, in turn limiting performance and risking sample bias. In this paper, we address these limitations by instead using dense network representations. We explore two methods to learn continuous node representations from either 1) the network structure with node2vec (Grover and Leskovec, 2016), or 2) textual user mentions via doc2vec (Le and Mikolov, 2014). We combine both methods with input from social media posts in an attention-based convolutional neural network and evaluate the contribution of each component on geolocation performance. Our method enables us to incorporate arbitrarily large networks in a fixed-length vector, without limiting the network size. Our models achieve competitive results with similar state-of-the-art methods, but with much fewer model parameters, while being applicable to networks of virtually any size. "><meta property="og:image" content="https://milanlproc.github.io/publication/2019_m2v/featured.png">
-  <meta property="twitter:image" content="https://milanlproc.github.io/publication/2019_m2v/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/">
+  <meta property="og:title" content="BERTective: Language Models and Contextual Information for Deception Detection | MilaNLP Lab @ Bocconi University">
+  <meta property="og:description" content="Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations."><meta property="og:image" content="https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/featured.png">
+  <meta property="twitter:image" content="https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-10-31T01:35:54&#43;01:00">
+      <meta property="article:published_time" content="2021-04-09T01:41:26&#43;01:00">
     
-    <meta property="article:modified_time" content="2019-11-03T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-04-09T00:00:00&#43;00:00">
   
 
   
@@ -293,16 +293,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://milanlproc.github.io/publication/2019_m2v/"
+    "@id": "https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/"
   },
-  "headline": "Dense Node Representation for Geolocation",
+  "headline": "BERTective: Language Models and Contextual Information for Deception Detection",
   
   "image": [
-    "https://milanlproc.github.io/publication/2019_m2v/featured.png"
+    "https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/featured.png"
   ],
   
-  "datePublished": "2019-10-31T01:35:54+01:00",
-  "dateModified": "2019-11-03T00:00:00Z",
+  "datePublished": "2021-04-09T01:41:26+01:00",
+  "dateModified": "2021-04-09T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -317,7 +317,7 @@
       "url": "https://milanlproc.github.io/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Prior research has shown that geolocation can be substantially improved by including user network information. While effective, it suffers from the curse of dimensionality, since networks are usually represented as sparse adjacency matrices of connections, which grow exponentially with the number of users. In order to incorporate this information, we therefore need to limit the network size, in turn limiting performance and risking sample bias. In this paper, we address these limitations by instead using dense network representations. We explore two methods to learn continuous node representations from either 1) the network structure with node2vec (Grover and Leskovec, 2016), or 2) textual user mentions via doc2vec (Le and Mikolov, 2014). We combine both methods with input from social media posts in an attention-based convolutional neural network and evaluate the contribution of each component on geolocation performance. Our method enables us to incorporate arbitrarily large networks in a fixed-length vector, without limiting the network size. Our models achieve competitive results with similar state-of-the-art methods, but with much fewer model parameters, while being applicable to networks of virtually any size. "
+  "description": "Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations."
 }
 </script>
 
@@ -335,7 +335,7 @@
 
 
 
-  <title>Dense Node Representation for Geolocation | MilaNLP Lab @ Bocconi University</title>
+  <title>BERTective: Language Models and Contextual Information for Deception Detection | MilaNLP Lab @ Bocconi University</title>
 
 </head>
 
@@ -582,10 +582,12 @@
 
   
   
+    
+  
 
 
 <div class="article-container pt-3">
-  <h1>Dense Node Representation for Geolocation</h1>
+  <h1>BERTective: Language Models and Contextual Information for Deception Detection</h1>
 
   
 
@@ -602,7 +604,7 @@
     
 
   
-  <span><a href="/authors/tommaso-fornaciari/">Tommaso Fornaciari</a></span>, <span><a href="/authors/dirk-hovy/">Dirk Hovy</a></span>
+  <span><a href="/authors/tommaso-fornaciari/">Tommaso Fornaciari</a></span>, <span><a href="/authors/federico-bianchi/">Federico Bianchi</a></span>, <span><a href="/authors/dirk-hovy/">Dirk Hovy</a></span>, <span><a href="/authors/massimo-poesio/">Massimo Poesio</a></span>
   </div>
   
   
@@ -613,7 +615,7 @@
     
       
     
-    November 2019
+    April 2021
   </span>
   
 
@@ -639,8 +641,6 @@
 
 
 
-  
-
 
 
 
@@ -660,21 +660,39 @@
 
 
   
+    
+  
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/2019_m2v/2019_m2v.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.aclweb.org/anthology/2021.eacl-main.232.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2019_m2v/cite.bib">
+        data-filename="/publication/2021_contextualized_improve_topic_models_coherence/cite.bib">
   Cite
 </button>
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.aclweb.org/anthology/attachments/2021.eacl-main.232.Software.zip" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.aclweb.org/anthology/attachments/2021.eacl-main.232.Dataset.zip" target="_blank" rel="noopener">
+  Dataset
+</a>
 
 
 
@@ -694,9 +712,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 621px; max-height: 356px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 405px;">
   <div style="position: relative">
-    <img src="/publication/2019_m2v/featured.png" alt="" class="featured-image">
+    <img src="/publication/2021_contextualized_improve_topic_models_coherence/featured_hu73fa8fe0bd731ca7a08651ff03d9a014_1060632_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -707,7 +725,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Prior research has shown that geolocation can be substantially improved by including user network information. While effective, it suffers from the curse of dimensionality, since networks are usually represented as sparse adjacency matrices of connections, which grow exponentially with the number of users. In order to incorporate this information, we therefore need to limit the network size, in turn limiting performance and risking sample bias. In this paper, we address these limitations by instead using dense network representations. We explore two methods to learn continuous node representations from either 1) the network structure with node2vec (Grover and Leskovec, 2016), or 2) textual user mentions via doc2vec (Le and Mikolov, 2014). We combine both methods with input from social media posts in an attention-based convolutional neural network and evaluate the contribution of each component on geolocation performance. Our method enables us to incorporate arbitrarily large networks in a fixed-length vector, without limiting the network size. Our models achieve competitive results with similar state-of-the-art methods, but with much fewer model parameters, while being applicable to networks of virtually any size.</p>
+    <p class="pub-abstract">Spotting a lie is challenging but has an enormous potential impact on security as well as private and public safety. Several NLP methods have been proposed to classify texts as truthful or deceptive. In most cases, however, the target texts’ preceding context is not considered. This is a severe limitation, as any communication takes place in context, not in a vacuum, and context can help to detect deception. We study a corpus of Italian dialogues containing deceptive statements and implement deep neural models that incorporate various linguistic contexts. We establish a new state-of-the-art identifying deception and find that not all context is equally useful to the task. Only the texts closest to the target, if from the same speaker (rather than questions by an interlocutor), boost performance. We also find that the semantic information in language models such as BERT contributes to the performance. However, BERT alone does not capture the implicit knowledge of deception cues: its contribution is conditional on the concurrent use of attention to learn cues from BERT’s representations.</p>
     
 
     
@@ -737,7 +755,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Proceedings of the 5th Workshop on Noisy User-generated Text (WNUT)</div>
+          <div class="col-12 col-md-9">In Proceedings of <em>The 16th Conference of the European Chapter of the Association for Computational Linguistics</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -755,9 +773,9 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/geolocation/">geolocation</a>
+  <a class="badge badge-light" href="/tags/deception-detection/">deception detection</a>
   
-  <a class="badge badge-light" href="/tags/representation-learning/">representation learning</a>
+  <a class="badge badge-light" href="/tags/dataset/">dataset</a>
   
   <a class="badge badge-light" href="/tags/nlp/">NLP</a>
   
@@ -776,7 +794,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2019_m2v/&amp;text=Dense%20Node%20Representation%20for%20Geolocation" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/&amp;text=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -789,7 +807,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2019_m2v/&amp;t=Dense%20Node%20Representation%20for%20Geolocation" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/&amp;t=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -802,7 +820,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Dense%20Node%20Representation%20for%20Geolocation&amp;body=https://milanlproc.github.io/publication/2019_m2v/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection&amp;body=https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -815,7 +833,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2019_m2v/&amp;title=Dense%20Node%20Representation%20for%20Geolocation" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/&amp;title=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -828,7 +846,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Dense%20Node%20Representation%20for%20Geolocation%20https://milanlproc.github.io/publication/2019_m2v/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection%20https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -841,7 +859,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2019_m2v/&amp;title=Dense%20Node%20Representation%20for%20Geolocation" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/&amp;title=BERTective:%20Language%20Models%20and%20Contextual%20Information%20for%20Deception%20Detection" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -905,7 +923,63 @@
     
 
     <div class="media-body">
+      <h5 class="card-title"><a href="/authors/federico-bianchi/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
       <h5 class="card-title"><a href="/authors/dirk-hovy/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/massimo-poesio/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -933,11 +1007,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/2019_geo_mtl/">Geolocation with Attention-Based Multitask Learning Models</a></li>
+      <li><a href="/publication/2021_eacl_decour/">BERTective: Language Models and Contextual Information for Deception Detection</a></li>
       
-      <li><a href="/publication/2019-gender-bias-part-of-speech-tagging-dependency-parsing/">Women’s Syntactic Resilience and Men’s Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing</a></li>
+      <li><a href="/publication/2021_gap_between_understanding_adoption/">BERTective: Language Models and Contextual Information for Deception Detection</a></li>
       
-      <li><a href="/publication/2019_siri/">Hey Siri. Ok Google. Alexa: A topic modeling of user reviews for smart speakers</a></li>
+      <li><a href="/publication/2020_lre/">Fake opinion detection: how similar are crowdsourced datasets to real data?</a></li>
+      
+      <li><a href="/publication/2021-feelit-italian-sentiment-emotion/">FEEL-IT: Emotion and Sentiment Classification for the Italian Language</a></li>
+      
+      <li><a href="/publication/2021-honest-hurtful-language-model/">HONEST: Measuring Hurtful Sentence Completion in Language Models</a></li>
       
     </ul>
   </div>
