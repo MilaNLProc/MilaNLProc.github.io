@@ -13,11 +13,36 @@
     </image>
     
     <item>
-      <title>ACL acceptance</title>
+      <title>Four papers accepted at ACL</title>
       <link>https://milanlproc.github.io/post/2021-acl-acceptance/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/post/2021-acl-acceptance/</guid>
-      <description></description>
+      <description>&lt;p&gt;We are delighted to announce that our group has four papers accepted at at ACL-IJCNLP 2021 main conference and Findings of ACL!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/publication/publication/2021-contextualized-improve-topic-models-coherence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pre-training is a Hot Topic: Contextualized Document Embeddings Improve Topic Coherence&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/federico-bianchi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federico Bianchi&lt;/a&gt;, Silvia Terragni, 
+&lt;a href=&#34;https://milanlproc.github.io/authors/dirk-hovy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Hovy&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/publication/2021-zeroshot-crosslingual-hate-speech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/debora-nozza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debora Nozza&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/publication/2021-gap-between-understanding-adoption/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On the Gap between Adoption and Understanding in NLP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/federico-bianchi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federico Bianchi&lt;/a&gt;, 
+&lt;a href=&#34;https://milanlproc.github.io/authors/dirk-hovy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Hovy&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/publication/2021-aclfindings-mimac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;We will Reduce Taxes&amp;rsquo; - Identifying Election Pledges with Language Models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/tommaso-fornaciari/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tommaso Fornaciari&lt;/a&gt;, 
+&lt;a href=&#34;https://milanlproc.github.io/authors/dirk-hovy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Hovy&lt;/a&gt;, Elin Naurin, Julia Runeson, Robert Thomson, Pankaj Adhikari&lt;/p&gt;
+&lt;hr&gt;
+</description>
     </item>
     
   </channel>
