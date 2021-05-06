@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/publication_types/1/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://milanlproc.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>On the Gap between Adoption and Understanding in NLP</title>
+      <link>https://milanlproc.github.io/publication/2021_gap_between_understanding_adoption/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021_gap_between_understanding_adoption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-training is a Hot Topic: Contextualized Document EmbeddingsImprove Topic Coherence</title>
+      <link>https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection</title>
@@ -45,10 +61,10 @@
     </item>
     
     <item>
-      <title>BERTective: Language Models and Contextual Information for Deception Detection</title>
-      <link>https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/</link>
-      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/</guid>
+      <title>&#39;We will Reduce Taxes&#39; - Identifying Election Pledges with Language Models</title>
+      <link>https://milanlproc.github.io/publication/2021-aclfindings-mimac/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-aclfindings-mimac/</guid>
       <description></description>
     </item>
     
@@ -57,14 +73,6 @@
       <link>https://milanlproc.github.io/publication/2021_eacl_decour/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2021_eacl_decour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BERTective: Language Models and Contextual Information for Deception Detection</title>
-      <link>https://milanlproc.github.io/publication/2021_gap_between_understanding_adoption/</link>
-      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2021_gap_between_understanding_adoption/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coherence | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/coherence/</link>
+      <atom:link href="https://milanlproc.github.io/tags/coherence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coherence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Coherence</title>
+      <link>https://milanlproc.github.io/tags/coherence/</link>
+    </image>
+    
+    <item>
+      <title>Pre-training is a Hot Topic: Contextualized Document EmbeddingsImprove Topic Coherence</title>
+      <link>https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021_contextualized_improve_topic_models_coherence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
