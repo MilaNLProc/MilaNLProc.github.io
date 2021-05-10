@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational linguistics | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/computational-linguistics/</link>
+      <atom:link href="https://milanlproc.github.io/tags/computational-linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>computational linguistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>computational linguistics</title>
+      <link>https://milanlproc.github.io/tags/computational-linguistics/</link>
+    </image>
+    
+    <item>
+      <title>The Importance of Modeling Social Factors of Language: Theory and Practice</title>
+      <link>https://milanlproc.github.io/publication/2021-importance-modeling-social-factors-language/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-importance-modeling-social-factors-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
