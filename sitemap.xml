@@ -143,6 +143,27 @@
     <loc>https://milanlproc.github.io/post/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/tags/agreement/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/alexandra-uma/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/barbara-plank/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2021-naacl-softlabels/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/dirk-hovy-and-massimo-poesio/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/silviu-paun/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/soft-labels/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/publication/2021_eacl_decour/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -296,13 +317,7 @@
     <loc>https://milanlproc.github.io/publication/2020_aaai_softlabels/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/alexandra-uma/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/annotation/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/barbara-plank/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/disagreement/</loc>
@@ -318,9 +333,6 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/paolo-rosso/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/silviu-paun/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/clustering/</loc>
