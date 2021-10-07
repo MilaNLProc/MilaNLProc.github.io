@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/bias/</link>
       <atom:link href="https://milanlproc.github.io/tags/bias/index.xml" rel="self" type="application/rss+xml" />
     <description>bias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>bias</title>
       <link>https://milanlproc.github.io/tags/bias/</link>
     </image>
+    
+    <item>
+      <title>Five sources of bias in natural language processing</title>
+      <link>https://milanlproc.github.io/publication/2021-five-sources-bias/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-five-sources-bias/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview</title>

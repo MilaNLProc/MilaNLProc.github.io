@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Position Paper | MilaNLP Lab @ Bocconi University</title>
-    <link>https://milanlproc.github.io/tags/position-paper/</link>
-      <atom:link href="https://milanlproc.github.io/tags/position-paper/index.xml" rel="self" type="application/rss+xml" />
-    <description>Position Paper</description>
+    <title>Shrimai Prabhumoye | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/shrimai-prabhumoye/</link>
+      <atom:link href="https://milanlproc.github.io/authors/shrimai-prabhumoye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shrimai Prabhumoye</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Position Paper</title>
-      <link>https://milanlproc.github.io/tags/position-paper/</link>
+      <title>Shrimai Prabhumoye</title>
+      <link>https://milanlproc.github.io/authors/shrimai-prabhumoye/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://milanlproc.github.io/publication/2021-five-sources-bias/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2021-five-sources-bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Gap between Adoption and Understanding in NLP</title>
-      <link>https://milanlproc.github.io/publication/2021-gap-between-understanding-adoption/</link>
-      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2021-gap-between-understanding-adoption/</guid>
       <description></description>
     </item>
     
