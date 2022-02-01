@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/project/</link>
       <atom:link href="https://milanlproc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2021</copyright><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
@@ -34,6 +34,22 @@ What if I wrote that “winning an ERC Grant, Dirk Hovy got a sick result?”. T
       <description>&lt;p&gt;In this inter-disciplinary project, Dirk Hovy and Tommaso Fornaciari team up with an international team of political scientists (led bt the University of Gothenburg) to develop mixed methods for analyzing political parties’ promises to voters during election campaigns. For democracy to function effectively, political parties must offer clear choices to voters during election campaigns. However, as parties’ communication with voters has become increasingly fragmented and targeted, it is much harder for citizens to keep track of what parties are promising. This threatens the quality of democratic representation. It also challenges established research methods for studying parties’ campaign promises. This project will develop new methods for studying parties’ promises in modern election campaigns. The project will integrate existing qualitative methods in political science and develop new research tools based on NLP. These AI-powered tools will enable researchers to examine parties’ campaign promises in large amounts of text and speech. The resulting research will be of significant benefit to citizens, who will receive greater clarity on the choices that parties are offering. These existing and new methods are highly relevant to research on text and speech in a wide range of social science fields. Until now, progress in this field has been stifled by limited dialogue among the proponents of different qualitative and quantitative methods. The project includes established experts on parties’ campaign promises, new media, qualitative and quantitative methods for analyzing political texts, and machine learning and natural language processing.
 The project is funded by the Swedish 
 &lt;a href=&#34;https://www.rj.se/en/anslag/2019/mixed-methods-for-analyzing-political-parties-promises-to-voters-during-election-campaigns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riksbankens Jubileumsfond&lt;/a&gt; for 12M SEK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MONICA</title>
+      <link>https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/</guid>
+      <description>&lt;p&gt;The interdisciplinary MONICA project will create a &lt;strong&gt;digital barometer of Italians’ attitudes towards the government measures implemented in response to COVID-19&lt;/strong&gt;. The pandemic has plunged millions of vulnerable people into abject poverty. The government created financial measures to improve the economic situation and social inclusion. However, it is unclear whether these measures reach those who need them most.
+To find out, we will uncover the public perception of these measures and provide concrete metrics for three related dimensions: 1) coverage of the potential beneficiaries, 2) attitudes of the Italian population stratified by different demographic factors, and 3) accessibility of the information. MONICA will provide citizens with a tool to automatically rank and simplify articles about requirements and steps to access these initiatives. MONICA will enable policymakers to understand which segments of the vulnerable population are not accessing these initiatives and why.&lt;/p&gt;
+&lt;p&gt;See this project featured in the 
+&lt;a href=&#34;https://www.knowledge.unibocconi.eu/notizia.php?idArt=23183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news&lt;/a&gt;. 🗞️🗞️&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;🇮🇹 &lt;em&gt;Italian version&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Per fronteggiare le ripercussioni economiche della pandemia, il governo italiano ha adottato diverse misure finanziarie volte ad arginare gli effetti della crisi, migliorando l’inclusione sociale delle persone che negli ultimi mesi si sono trovate in difficoltà. Tuttavia, tali misure hanno inaspettatamente riscosso una partecipazione inferiore alle aspettative e la loro efficacia, soprattutto in termini di raggiungimento dei soggetti più bisognosi, risulta difficilmente verificabile.
+MONICA, analizzando una grande mole di dati tramite tecniche di data science, fornirà delle metriche atte a valutare tali misure in termini di: 1) capacità di raggiungimento dei soggetti bisognosi, 2) sentiment dell’opinione pubblica, differenziata in base a fattori demografici, 3) accessibilità delle informazioni. MONICA, inoltre, automaticamente cercherà e creerà versioni semplificate di articoli e procedure inerenti alle misure, garantendo l’accessibilità di tali informazioni a tutti i cittadini.&lt;/p&gt;
 </description>
     </item>
     
