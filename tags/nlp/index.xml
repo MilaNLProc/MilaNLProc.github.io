@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/nlp/</link>
       <atom:link href="https://milanlproc.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>NLP</title>
       <link>https://milanlproc.github.io/tags/nlp/</link>
     </image>
+    
+    <item>
+      <title>Language Invariant Properties in Natural Language Processing</title>
+      <link>https://milanlproc.github.io/publication/2021-language-invariant-properties-nlp/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-language-invariant-properties-nlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Five sources of bias in natural language processing</title>
@@ -202,7 +210,13 @@ The project is funded by the Swedish
       <link>https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/</guid>
-      <description>&lt;p&gt;The interdisciplinary MONICA project will create a &lt;strong&gt;digital barometer of Italians’ attitudes towards the government measures implemented in response to COVID-19&lt;/strong&gt;. The pandemic has plunged millions of vulnerable people into abject poverty. The government created financial measures to improve the economic situation and social inclusion. However, it is unclear whether these measures reach those who need them most.
+      <description>&lt;p&gt;PI: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/debora_nozza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debora Nozza&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;co-PI: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/1_dirk_hovy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Hovy&lt;/a&gt; and 
+&lt;a href=&#34;https://didattica.unibocconi.eu/docenti/cv.php?rif=92152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicoletta Balbo&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The interdisciplinary MONICA project will create a &lt;strong&gt;digital barometer of Italians’ attitudes towards the government measures implemented in response to COVID-19&lt;/strong&gt;. The pandemic has plunged millions of vulnerable people into abject poverty. The government created financial measures to improve the economic situation and social inclusion. However, it is unclear whether these measures reach those who need them most.
 To find out, we will uncover the public perception of these measures and provide concrete metrics for three related dimensions: 1) coverage of the potential beneficiaries, 2) attitudes of the Italian population stratified by different demographic factors, and 3) accessibility of the information. MONICA will provide citizens with a tool to automatically rank and simplify articles about requirements and steps to access these initiatives. MONICA will enable policymakers to understand which segments of the vulnerable population are not accessing these initiatives and why.&lt;/p&gt;
 &lt;p&gt;See this project featured in the 
 &lt;a href=&#34;https://www.knowledge.unibocconi.eu/notizia.php?idArt=23183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news&lt;/a&gt;. 🗞️🗞️&lt;/p&gt;
