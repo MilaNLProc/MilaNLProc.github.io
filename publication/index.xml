@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists</title>
+      <link>https://milanlproc.github.io/publication/2022-aclfindings-ear/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-aclfindings-ear/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language Invariant Properties in Natural Language Processing</title>
@@ -121,14 +129,6 @@
       <link>https://milanlproc.github.io/publication/2021_eacl_decour/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2021_eacl_decour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists</title>
-      <link>https://milanlproc.github.io/publication/2022-aclfindings-ear/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2022-aclfindings-ear/</guid>
       <description></description>
     </item>
     
