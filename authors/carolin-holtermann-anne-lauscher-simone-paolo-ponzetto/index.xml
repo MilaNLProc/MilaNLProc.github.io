@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carolin Holtermann, Anne Lauscher, Simone Paolo Ponzetto | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/carolin-holtermann-anne-lauscher-simone-paolo-ponzetto/</link>
+      <atom:link href="https://milanlproc.github.io/authors/carolin-holtermann-anne-lauscher-simone-paolo-ponzetto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carolin Holtermann, Anne Lauscher, Simone Paolo Ponzetto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Carolin Holtermann, Anne Lauscher, Simone Paolo Ponzetto</title>
+      <link>https://milanlproc.github.io/authors/carolin-holtermann-anne-lauscher-simone-paolo-ponzetto/</link>
+    </image>
+    
+    <item>
+      <title>Fair and Argumentative Language Modeling for Computational Argumentation</title>
+      <link>https://milanlproc.github.io/publication/2022-acl-argumentation/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-acl-argumentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
