@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne Lauscher | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/anne-lauscher/</link>
+      <atom:link href="https://milanlproc.github.io/authors/anne-lauscher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anne Lauscher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anne Lauscher</title>
+      <link>https://milanlproc.github.io/authors/anne-lauscher/</link>
+    </image>
+    
+    <item>
+      <title>Measuring Harmful Sentence Completion in Language Models for LGBTQIA&#43; Individuals</title>
+      <link>https://milanlproc.github.io/publication/2022-honest-hurtful-language-model-lgbtqia&#43;/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-honest-hurtful-language-model-lgbtqia&#43;/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

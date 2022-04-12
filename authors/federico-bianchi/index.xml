@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/authors/federico-bianchi/</link>
       <atom:link href="https://milanlproc.github.io/authors/federico-bianchi/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Bianchi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Federico Bianchi</title>
       <link>https://milanlproc.github.io/authors/federico-bianchi/</link>
     </image>
+    
+    <item>
+      <title>Measuring Harmful Sentence Completion in Language Models for LGBTQIA&#43; Individuals</title>
+      <link>https://milanlproc.github.io/publication/2022-honest-hurtful-language-model-lgbtqia&#43;/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-honest-hurtful-language-model-lgbtqia&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipelines for Social Bias Testing of Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2022-pipelines-social-bias-testing-language-models/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-pipelines-social-bias-testing-language-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language Invariant Properties in Natural Language Processing</title>
