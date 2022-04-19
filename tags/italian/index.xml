@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/italian/</link>
       <atom:link href="https://milanlproc.github.io/tags/italian/index.xml" rel="self" type="application/rss+xml" />
     <description>Italian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Italian</title>
       <link>https://milanlproc.github.io/tags/italian/</link>
     </image>
+    
+    <item>
+      <title>XLM-EMO: Multilingual Emotion Prediction in Social Media Text</title>
+      <link>https://milanlproc.github.io/publication/2022-xlmemo-multilingual-emotion-prediction/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-xlmemo-multilingual-emotion-prediction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FEEL-IT: Emotion and Sentiment Classification for the Italian Language</title>
