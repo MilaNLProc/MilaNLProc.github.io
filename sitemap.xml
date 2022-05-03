@@ -3,15 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://milanlproc.github.io/publication_types/1/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/architectures/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/debora-nozza/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/federico-bianchi/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/giuseppe-attanasio/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/meme/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2022-semeval-mami-perceiverio-misogyny-multimodal-meme/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/misogyny/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/multimodal/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/perceiverio/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication_types/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/anne-lauscher/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/annotation/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2022-interpretability-transformer-mysogyny-detection/</loc>
@@ -26,9 +65,6 @@
     <loc>https://milanlproc.github.io/tags/dataset/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/debora-nozza/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,12 +72,6 @@
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/emotion-detection/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/federico-bianchi/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/giuseppe-attanasio/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/hate-speech/</loc>
@@ -56,9 +86,6 @@
     <loc>https://milanlproc.github.io/publication/2022-honest-hurtful-language-model-lgbtqia&#43;/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/multilingual/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,16 +98,7 @@
     <loc>https://milanlproc.github.io/publication/2022-pipelines-social-bias-testing-language-models/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/publication_types/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/sentiment-analysis/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2022-two-contrasting-data-annotation-paradigms-subjective-nlp-tasks/</loc>
