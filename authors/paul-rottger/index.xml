@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Röttger | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/paul-rottger/</link>
+      <atom:link href="https://milanlproc.github.io/authors/paul-rottger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Röttger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Paul Röttger</title>
+      <link>https://milanlproc.github.io/authors/paul-rottger/</link>
+    </image>
+    
+    <item>
+      <title>Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks</title>
+      <link>https://milanlproc.github.io/publication/2022-two-contrasting-data-annotation-paradigms-for-subjective-nlp-tasks/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-two-contrasting-data-annotation-paradigms-for-subjective-nlp-tasks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
