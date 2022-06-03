@@ -485,7 +485,78 @@ Given the concerns about growing polarization and the spread of misinformation, 
       <link>https://milanlproc.github.io/coding_aperitivo/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/coding_aperitivo/</guid>
-      <description>&lt;p&gt;Welcome to the Coding Aperitivo 🍹&lt;/p&gt;
+      <description>&lt;p&gt;The Coding Aperitivo is our take on a weekly seminar series. We end the working week and wind down with some relaxed academic chatter, a drink and some snacks.&lt;/p&gt;
+&lt;h3 id=&#34;dirks-negroni&#34;&gt;Dirk&amp;rsquo;s Negroni&lt;/h3&gt;
+&lt;p&gt;When in Milan, drink as the Milanese. Though the official recipe calls for equal parts gin, Campari and red vermouth, here we opt for a punchier negroni, heavy on the gin.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3-4 parts gin (to taste)&lt;/li&gt;
+&lt;li&gt;2 parts campari&lt;/li&gt;
+&lt;li&gt;1 part red vermouth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour the ingredients into a mixing glass with ice and stir until the glass feels very cold. Strain into a glass with a (very) large ice cube and a twist of orange (and rub the glass rim with it).&lt;/p&gt;
+&lt;h2 id=&#34;format&#34;&gt;Format&lt;/h2&gt;
+&lt;p&gt;The sessions are hybrid (online/in-person), with the guest generally being remote. As well as our guest, we also have an internal whiteboard-only talk about current work or a topic that has been tugging at our heartstrings.&lt;/p&gt;
+&lt;p&gt;We encourage our guests to try different formats with us such as guided discussions, hands-on activities, 
+&lt;a href=&#34;https://en.m.wikipedia.org/wiki/PechaKucha&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PechaKucha&lt;/a&gt;, debates or just a nice academic chat. Got some research ideas you and you want a sounding board? We are very happy to to discuss ongoing or upcoming research.&lt;/p&gt;
+&lt;p&gt;In previous sessions, some guests have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Jigsaw_%28teaching_technique%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jigsaw method&lt;/a&gt; in order to introduce a topic in a hands-on manner.&lt;/li&gt;
+&lt;li&gt;Introduced a premise for debate, then separated the audience into two teams to discuss among ourselves, finally bringing the teams together in order argue their points.&lt;/li&gt;
+&lt;li&gt;Used one existing work as a basis for questioning our assumptions about the research process&lt;/li&gt;
+&lt;li&gt;Briefly presented ongoing work, highlighting challenges or potential research avenues to discuss.&lt;/li&gt;
+&lt;li&gt;Given us a hands-on activity (e.g. data annotation) meant to highlight the challenges of a particular task.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;past-guests&#34;&gt;Past Guests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ewsheng.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emily Sheng&lt;/a&gt; (University of Southern California) on &lt;em&gt;Biases in NLG and Dialogue Systems&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nedjmaou.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nedjma Ousidhoum&lt;/a&gt; (University of Cambridge) on &lt;em&gt;Expectations vs. Reality when Working on Toxic Content Detection in NLP&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nils-reimers.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils Reimers&lt;/a&gt; on &lt;em&gt;Training State-of-the-Art Text Embedding &amp;amp; Neural Search Models&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://homes.cs.washington.edu/~msap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maarten Sap&lt;/a&gt; (Allen AI/CMU) on &lt;em&gt;Detecting and Rewriting Socially Biased Language&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sunipa.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sunipa Dev&lt;/a&gt; (Google Research) on &amp;ldquo;Towards Interpretable, Fair and Socially-Aware of Language Representations&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/albacurry/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alba Curry&lt;/a&gt; (UC Riverside) on &lt;em&gt;Philosophy of Emotion and Sentiment Detection&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://robvanderg.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob van der Goot&lt;/a&gt; (IT University of Copenhagen) on &lt;em&gt;Multi-lingual and Multi-task learning: from Dataset Creation to Modeling&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sblodgett.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Su Lin Blodgett&lt;/a&gt; (Microsoft FATE) on &lt;em&gt;Social and Ethical Implications of NLP Technologies&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gsarti.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Sarti&lt;/a&gt; (University of Groningen) on &lt;em&gt;Interpreting Neural Language Models for Linguistic Complexity Assessment&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.oii.ox.ac.uk/people/profiles/paul-rottger/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Röttger&lt;/a&gt; (University of Oxford) on &lt;em&gt;Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.uni-mannheim.de/dws/people/researchers/phd-students/chia-chien-hung/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chia-Chien Hung&lt;/a&gt; (University of Mannheim) on &lt;em&gt;Multi-domain and Multilingual Dialog&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://annawegmann.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Wegmann&lt;/a&gt; (Utrecht University) on &lt;em&gt;Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cs.cmu.edu/~aravicha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abhilasha Ravichander&lt;/a&gt; (Carnegie Mellon University) on &lt;em&gt;Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://samsontmr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Samson Tan&lt;/a&gt; (AWS AI Research &amp;amp; Education) on &lt;em&gt;Towards Sociolinguistically-Inclusive NLP: An Adversarial Approach&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cst.cam.ac.uk/people/cd700&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christine de Kock&lt;/a&gt; on &lt;em&gt;I Beg to Differ: A study of constructive disagreement in online conversations&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://smartdata.polito.it/members/eliana-pastor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eliana Pastor&lt;/a&gt; (Politecnico di Torino) on &lt;em&gt;Pattern-based algorithms for Explainable AI&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://davehowcroft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dave Howcroft&lt;/a&gt; (Napier University) on &lt;em&gt;Low-Resource NLG&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/zeeraktalat?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zeerak Talat&lt;/a&gt; (Digital Democracies Institute) led a discussion on &lt;em&gt;Ethics, bias&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://chkla.github.io/gitPage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christopher Klamm&lt;/a&gt; (University of Mannheim) on &lt;em&gt;Defining and Measuring Polasiration Across Disciplines&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://swabhs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swabha Swayamdipta&lt;/a&gt; (Allen Institute for AI) on &lt;em&gt;Annotation Challenges in NLP&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://carloschwarz.eu/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carlo Schwarz&lt;/a&gt; (Università Bocconi) on &lt;em&gt;How Polarized are Citizens? Measuring Ideology from the Ground-Up&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://markdingemanse.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark Dingemanse&lt;/a&gt; and 
+&lt;a href=&#34;https://liesenf.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andreas Liesenfeld&lt;/a&gt; on &lt;em&gt;Language Diversity in Conversational AI Research&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ago3.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agostina Calabrese&lt;/a&gt; (University of Edinburgh) on &lt;em&gt;If Data Patterns is the Answer, What was the Question?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
