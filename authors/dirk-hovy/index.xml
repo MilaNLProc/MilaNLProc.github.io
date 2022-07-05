@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
       <atom:link href="https://milanlproc.github.io/authors/dirk-hovy/index.xml" rel="self" type="application/rss+xml" />
     <description>Dirk Hovy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 14:48:20 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dirk Hovy</title>
       <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
     </image>
+    
+    <item>
+      <title>Language Invariant Properties in Natural Language Processing</title>
+      <link>https://milanlproc.github.io/publication/2022-language-invariant-properties-nlp/</link>
+      <pubDate>Tue, 12 Apr 2022 14:48:20 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-language-invariant-properties-nlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benchmarking Post-Hoc Interpretability Approaches for Transformer-based Misogyny Detection</title>
@@ -73,14 +81,6 @@
       <link>https://milanlproc.github.io/publication/2022_nlpss2/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2022_nlpss2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language Invariant Properties in Natural Language Processing</title>
-      <link>https://milanlproc.github.io/publication/2021-language-invariant-properties-nlp/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2021-language-invariant-properties-nlp/</guid>
       <description></description>
     </item>
     
