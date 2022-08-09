@@ -3,30 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://milanlproc.github.io/publication_types/1/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/architectures/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <loc>https://milanlproc.github.io/authors/aul-rottger/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/bert/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/bertie-vidgen/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/debora-nozza/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/federico-bianchi/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/giuseppe-attanasio/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/haitham-seelawi/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/hate-speech/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2022-hate-speech-detection-italian-social-media/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/nlp/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication_types/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/zeerak-talat/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/architectures/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/meme/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2022-semeval-mami-perceiverio-misogyny-multimodal-meme/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/misogyny/</loc>
@@ -36,15 +72,6 @@
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/perceiverio/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication_types/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
@@ -59,9 +86,6 @@
     <loc>https://milanlproc.github.io/tags/meaning/</loc>
     <lastmod>2022-04-12T14:48:20+01:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/nlp/</loc>
-    <lastmod>2022-04-12T14:48:20+01:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/anne-lauscher/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,12 +95,6 @@
     <loc>https://milanlproc.github.io/publication/2022-interpretability-transformer-mysogyny-detection/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/bert/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/bertie-vidgen/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/dataset/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -84,9 +102,6 @@
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/emotion-detection/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/hate-speech/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/italian/</loc>

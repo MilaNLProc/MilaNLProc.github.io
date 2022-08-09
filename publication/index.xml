@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>HATE-ITA: Hate Speech Detection in Italian Social Media Text</title>
+      <link>https://milanlproc.github.io/publication/2022-hate-speech-detection-italian-social-media/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-hate-speech-detection-italian-social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models</title>
+      <link>https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MilaNLP at SemEval-2022 Task 5: Using Perceiver IO for Detecting Misogynous Memes with Text and Image Modalities</title>

@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/bertie-vidgen/</link>
       <atom:link href="https://milanlproc.github.io/authors/bertie-vidgen/index.xml" rel="self" type="application/rss+xml" />
     <description>Bertie Vidgen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bertie Vidgen</title>
       <link>https://milanlproc.github.io/authors/bertie-vidgen/</link>
     </image>
+    
+    <item>
+      <title>Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models</title>
+      <link>https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks</title>
