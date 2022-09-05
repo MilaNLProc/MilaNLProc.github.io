@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MilaNLP Lab @ Bocconi University</title>
-    <link>https://milanlproc.github.io/authors/debora_nozza/</link>
-      <atom:link href="https://milanlproc.github.io/authors/debora_nozza/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milanlproc.github.io/authors/2_debora_nozza/</link>
+      <atom:link href="https://milanlproc.github.io/authors/2_debora_nozza/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
-      <link>https://milanlproc.github.io/authors/debora_nozza/</link>
+      <link>https://milanlproc.github.io/authors/2_debora_nozza/</link>
     </image>
     
   </channel>
