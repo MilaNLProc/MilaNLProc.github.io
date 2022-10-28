@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stats | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/stats/</link>
+      <atom:link href="https://milanlproc.github.io/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <description>stats</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>stats</title>
+      <link>https://milanlproc.github.io/tags/stats/</link>
+    </image>
+    
+    <item>
+      <title>Hard and Soft Evaluation of NLP models with BOOtSTrap SAmpling - BooStSa</title>
+      <link>https://milanlproc.github.io/publication/2022-hard_soft_evaluation_nlp_models_bootstrap_sampling-boostsa/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-hard_soft_evaluation_nlp_models_bootstrap_sampling-boostsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
