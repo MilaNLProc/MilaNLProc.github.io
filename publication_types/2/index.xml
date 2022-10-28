@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication_types/2/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>https://milanlproc.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection</title>
+      <link>https://milanlproc.github.io/publication/2021-learning_from_disagreement_survey/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-learning_from_disagreement_survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Five sources of bias in natural language processing</title>
