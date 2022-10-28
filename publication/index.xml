@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender</title>
+      <link>https://milanlproc.github.io/publication/2022-welcome_modern_world_pronouns_identity-inclusive_natural_language_processing_beyond_gender/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-welcome_modern_world_pronouns_identity-inclusive_natural_language_processing_beyond_gender/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HATE-ITA: Hate Speech Detection in Italian Social Media Text</title>

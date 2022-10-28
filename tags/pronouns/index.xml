@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pronouns | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/pronouns/</link>
+      <atom:link href="https://milanlproc.github.io/tags/pronouns/index.xml" rel="self" type="application/rss+xml" />
+    <description>pronouns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>pronouns</title>
+      <link>https://milanlproc.github.io/tags/pronouns/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender</title>
+      <link>https://milanlproc.github.io/publication/2022-welcome_modern_world_pronouns_identity-inclusive_natural_language_processing_beyond_gender/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-welcome_modern_world_pronouns_identity-inclusive_natural_language_processing_beyond_gender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
