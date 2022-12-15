@@ -5,12 +5,36 @@
     <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
       <atom:link href="https://milanlproc.github.io/authors/dirk-hovy/index.xml" rel="self" type="application/rss+xml" />
     <description>Dirk Hovy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dirk Hovy</title>
       <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
     </image>
+    
+    <item>
+      <title>Data-Efficient Strategies for Expanding Hate Speech Detection into Under-Resourced Languages</title>
+      <link>https://milanlproc.github.io/publication/2022-strategies-hate-speech-detection-under-resourced-languages/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-strategies-hate-speech-detection-under-resourced-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The State of Profanity Obfuscation in Natural Language Processing Scientific Publications</title>
+      <link>https://milanlproc.github.io/publication/2022-prof-profanity-obfuscation-nlp/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-prof-profanity-obfuscation-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is It Worth the (Environmental) Cost? Limited Evidence for the Benefits of Diachronic Continuous Training</title>
+      <link>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interpretability | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/interpretability/</link>
+      <atom:link href="https://milanlproc.github.io/tags/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <description>interpretability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>interpretability</title>
+      <link>https://milanlproc.github.io/tags/interpretability/</link>
+    </image>
+    
+    <item>
+      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
+      <link>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

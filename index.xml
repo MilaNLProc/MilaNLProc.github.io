@@ -5,12 +5,52 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Measuring Harmful Representations in Scandinavian Language Models</title>
+      <link>https://milanlproc.github.io/publication/2022-honest-harmful-scandinavian-language-model/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-honest-harmful-scandinavian-language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</title>
+      <link>https://milanlproc.github.io/publication/2022-text-to-image-stereotypes/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-text-to-image-stereotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Efficient Strategies for Expanding Hate Speech Detection into Under-Resourced Languages</title>
+      <link>https://milanlproc.github.io/publication/2022-strategies-hate-speech-detection-under-resourced-languages/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-strategies-hate-speech-detection-under-resourced-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The State of Profanity Obfuscation in Natural Language Processing Scientific Publications</title>
+      <link>https://milanlproc.github.io/publication/2022-prof-profanity-obfuscation-nlp/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-prof-profanity-obfuscation-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is It Worth the (Environmental) Cost? Limited Evidence for the Benefits of Diachronic Continuous Training</title>
+      <link>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender</title>
@@ -25,6 +65,14 @@
       <link>https://milanlproc.github.io/publication/2022-guiding_release_safer_e2e_conversational_ai_through_value_sensitive_design/</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2022-guiding_release_safer_e2e_conversational_ai_through_value_sensitive_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
+      <link>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</guid>
       <description></description>
     </item>
     
