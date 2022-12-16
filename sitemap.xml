@@ -3,10 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://milanlproc.github.io/publication_types/1/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/anne-lauscher/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2022-bridging_fairness_and_environmental_sustainability_in_natural_language_processing/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/emma-strubell/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/fairness/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/federico-bianchi/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/language-models/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/marius-hessenthaler/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/nlp/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication_types/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/samuel-r.-bowman/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/sociodemographics/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2022-socioprobe_what_when_where_language_models_learn_about_sociodemographics/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/sustainability/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/transformers/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/bert/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
@@ -23,25 +77,10 @@
     <loc>https://milanlproc.github.io/publication/2022-honest-harmful-scandinavian-language-model/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/multilingual/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/nlp/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication_types/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/samia-touileb/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication_types/3/</loc>
@@ -65,9 +104,6 @@
     <loc>https://milanlproc.github.io/authors/faisal-ladhak/</loc>
     <lastmod>2022-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/federico-bianchi/</loc>
-    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/james-zou/</loc>
     <lastmod>2022-11-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,9 +122,6 @@
     <loc>https://milanlproc.github.io/publication/2022-strategies-hate-speech-detection-under-resourced-languages/</loc>
     <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/paul-rottger/</loc>
     <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -101,16 +134,10 @@
     <loc>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/anne-lauscher/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/archie-crowley/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/ethics/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/fairness/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/pronouns/</loc>
@@ -411,9 +438,6 @@
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2021-language-in-a-search-box/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/language-models/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/linguistics/</loc>

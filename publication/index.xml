@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2022</copyright><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Bridging Fairness and Environmental Sustainability in Natural Language Processing</title>
+      <link>https://milanlproc.github.io/publication/2022-bridging_fairness_and_environmental_sustainability_in_natural_language_processing/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-bridging_fairness_and_environmental_sustainability_in_natural_language_processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SocioProbe: What, When, and Where Language Models Learn about Sociodemographics</title>
+      <link>https://milanlproc.github.io/publication/2022-socioprobe_what_when_where_language_models_learn_about_sociodemographics/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-socioprobe_what_when_where_language_models_learn_about_sociodemographics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring Harmful Representations in Scandinavian Language Models</title>
