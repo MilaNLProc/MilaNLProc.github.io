@@ -5,12 +5,54 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Postdoctoral Researcher - Computational Social Science</title>
+      <link>https://milanlproc.github.io/open_positions/postdoc_position_compsocsci/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/open_positions/postdoc_position_compsocsci/</guid>
+      <description>&lt;p&gt;PI: 
+&lt;a href=&#34;https://carloschwarz.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carlo Schwarz&lt;/a&gt;
+co-PI 
+&lt;a href=&#34;https://milanlproc.github.io/authors/1_dirk_hovy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Hovy&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Over the last decade, discontent in democracy, mistrust in institutions, and the rise of populist parties have strained European societies. Underlying these tensions are often increasing inequalities in Western countries, which fuel the discontent of individuals. The Covid pandemic further exacerbated these problems, as anti-Covid measures taken by governments differently impacted societal groups. The MENTALISM project combines modern social media analysis with traditional survey data to track inequality across Italy through the lens of the pandemic.
+Our ground-breaking mixed-methods approach uses machine learning and text analysis to trace online grievances in a vast corpus of social media data. We combine these methods with survey protocols and econometric analysis to validate the findings and provide actionable policy advice. MENTALISM combines the advantages of social media data (high-frequency, individual-level information) with the strength of socio-economic surveys (representativeness). Our novel interdisciplinary approach will critically evaluate the value of social media monitoring for policy feedback. Moreover, it will establish protocols for policymakers to better respond to growing grievances brought on by inequality at various steps in the process.
+Successful candidates will work closely with Profs. Carlo Schwarz (economics), Dirk Hovy (NLP), and the MilaNLP lab.
+Your profile:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a Ph.D. in Computer Science, Computational Linguistics/NLP, Machine Learning, Data Science, or related fields.&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python. Additional languages (C++, R, etc) a plus.&lt;/li&gt;
+&lt;li&gt;Fluency in spoken and written English. Knowledge of Italian is NOT a requirement.&lt;/li&gt;
+&lt;li&gt;Knowledge of current neural network models and implementation tools for neural networks (e.g. PyTorch, Tensorflow, Keras, etc.).&lt;/li&gt;
+&lt;li&gt;Experience with publications in top-tier venues in the field of NLP/Computational Linguistics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Position Details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Starting date: March 1 2023, or any time thereafter&lt;/li&gt;
+&lt;li&gt;Duration: 1 year&lt;/li&gt;
+&lt;li&gt;Deadline: 18th February 2023&lt;/li&gt;
+&lt;li&gt;Salary: 42k EUR p.a. (median salary Milan: 37k EUR). Applicants from outside Italy may qualify for a researcher taxation scheme&lt;/li&gt;
+&lt;li&gt;Date posted: 18th January 2023&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How to apply:&lt;/p&gt;
+&lt;p&gt;Go to the 
+&lt;a href=&#34;https://jobmarket.unibocconi.eu/?type=a&amp;amp;urlBack=/wps/wcm/connect/bocconi/sitopubblico_it/albero&amp;#43;di&amp;#43;navigazione/home/docenti&amp;#43;e&amp;#43;ricerca/docenti/reclutamento&amp;#43;docenti/concorsi/assegni&amp;#43;di&amp;#43;ricerca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bocconi postdoc job market page&lt;/a&gt; and search for &amp;ldquo;&lt;em&gt;BAFFI CAREFIN&lt;/em&gt;&amp;rdquo;. There are two positions, in13/A1 ECONOMICS and 01/B1 INFORMATICS.
+You will then have to click on &amp;ldquo;Apply online&amp;rdquo; for proceeding with the application. See below the screenshot of the application platform.
+Official job description at this 
+&lt;a href=&#34;https://jobmarket.unibocconi.eu/include/dwload.php?a=MzQxXjE1YzQzZDE3NTVmOTdjZTc2ZmUzZDRhYzJiYTMzOWFmXi9kMC9hcGFjaGUvam9ibWFya2V0LnVuaWJvY2NvbmkuZXUvZGF0YS91cGxvYWQvQkFGL3Nlc3Npb25fMjkyLTIwMjMwMTE4Xmpta19zZXNfZmlsZV5qbWZfXmptZl9maWxlXjExMTI=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.
+Candidates should attach publications and a cover letter to their application.
+Online interviews will presumably take place during March 2023.
+Please contact &lt;a href=&#34;mailto:dirk.hovy@unibocconi.it&#34;&gt;dirk.hovy@unibocconi.it&lt;/a&gt; if you have any questions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;how_to_apply.png&#34; alt=&#34;How to apply&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bridging Fairness and Environmental Sustainability in Natural Language Processing</title>
