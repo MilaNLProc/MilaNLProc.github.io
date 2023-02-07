@@ -462,40 +462,6 @@ MONICA, analizzando una grande mole di dati tramite tecniche di data science, fo
     </item>
     
     <item>
-      <title>Postdoctoral Researcher - Hate Speech Detection</title>
-      <link>https://milanlproc.github.io/open_positions/postdoc_position_hate_speech/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/open_positions/postdoc_position_hate_speech/</guid>
-      <description>&lt;p&gt;PI: 
-&lt;a href=&#34;https://milanlproc.github.io/authors/1_dirk_hovy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Hovy&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Online hate speech has resulted in actual hate crimes. INDOMITA offers automated assistance to combat online hate speech. However, hatred is complex. The offensiveness of a phrase is determined by social customs and user demographics: &amp;ldquo;Yo, a**hole!&amp;rdquo; is acceptable among friends but not strangers. Our user-centric approach takes into account social customs and user demographics to enhance detection of nuanced forms of hate speech. We will use three strategies: - modeling a complex problem with socio-demographic context, - automating counter-argument and responding to aggressive users, and - creating evaluation methods to analyze fairness, performance, and subjectivity. Our research will bridge language gaps and shed light on the relationships between online actors and online hatred. We are seeking candidates to work on NLP, machine learning, and neural networks for representation learning, natural language understanding, and hate speech detection in various languages and modalities. Successful candidates will work closely with Prof. Dirk Hovy, Prof. Debora Nozza, and the MilaNLP lab.&lt;/p&gt;
-&lt;p&gt;Your profile:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;a Ph.D. in Computer Science, Computational Linguistics/NLP, Machine Learning, Data Science, or related fields.&lt;/li&gt;
-&lt;li&gt;Excellent programming skills in Python. Additional languages (C++, R, etc) a plus.&lt;/li&gt;
-&lt;li&gt;Fluency in spoken and written English. Knowledge of Italian is NOT a requirement.&lt;/li&gt;
-&lt;li&gt;Knowledge of current neural network models and implementation tools for neural networks (e.g. PyTorch, Tensorflow, Keras, etc.).&lt;/li&gt;
-&lt;li&gt;Experience with publications in top-tier venues in the field of NLP/Computational Linguistics.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Position Details:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Starting date: March 1 2023, or any time thereafter&lt;/li&gt;
-&lt;li&gt;Duration: 2 years, 1 year extension possible&lt;/li&gt;
-&lt;li&gt;Deadline: 23rd January 2023&lt;/li&gt;
-&lt;li&gt;Salary: 42k EUR p.a. (median salary Milan: 37k EUR) Applicants from outside Italy may qualify for a researcher taxation scheme&lt;/li&gt;
-&lt;li&gt;Date posted: 12th December 2022&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;How to apply:&lt;/p&gt;
-&lt;p&gt;Go to the 
-&lt;a href=&#34;https://jobmarket.unibocconi.eu/?type=a&amp;amp;urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero&amp;#43;di&amp;#43;navigazione/Home/docenti&amp;#43;e&amp;#43;ricerca/docenti/Reclutamento&amp;#43;docenti/Concorsi/Assegni&amp;#43;di&amp;#43;Ricerca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bocconi postdoc job market page&lt;/a&gt; and search for &amp;ldquo;&lt;em&gt;INDOMITA&lt;/em&gt;&amp;rdquo;, you will then have to click on &amp;ldquo;Apply online&amp;rdquo; for proceeding with the application. See below the screenshot of the application platform.
-Official job description at this 
-&lt;a href=&#34;https://jobmarket.unibocconi.eu/include/dwload.php?a=NjY5XmM0YTkwM2I1ZjRkNTFmNzk0ODljYjJiZDRlZDkyZjA3Xi9kMC9hcGFjaGUvam9ibWFya2V0LnVuaWJvY2NvbmkuZXUvZGF0YS91cGxvYWQvQklEL3Nlc3Npb25fMjU1LTIwMjIxMTIzXmpta19zZXNfZmlsZV5qbWZfXmptZl9maWxlXjkyOQ==&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;. Candidates should attach publications and a cover letter to their application. Online interviews will take place during February 2023. Please contact &lt;a href=&#34;mailto:dirk.hovy@unibocconi.it&#34;&gt;dirk.hovy@unibocconi.it&lt;/a&gt; if you have any question.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;how_to_apply.png&#34; alt=&#34;How to apply&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Twitter Healthy Conversations</title>
       <link>https://milanlproc.github.io/project/twitterhealth/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
