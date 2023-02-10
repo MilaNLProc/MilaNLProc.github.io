@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincenzo Cutrona | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/vincenzo-cutrona/</link>
+      <atom:link href="https://milanlproc.github.io/authors/vincenzo-cutrona/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincenzo Cutrona</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Vincenzo Cutrona</title>
+      <link>https://milanlproc.github.io/authors/vincenzo-cutrona/</link>
+    </image>
+    
+    <item>
+      <title>Twitter-Demographer: A Flow-based Tool to Enrich Twitter Data</title>
+      <link>https://milanlproc.github.io/publication/2022-twitter_demographer/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-twitter_demographer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
