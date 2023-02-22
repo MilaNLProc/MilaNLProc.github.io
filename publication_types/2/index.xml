@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication_types/2/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>https://milanlproc.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Viewpoint: Artificial Intelligence Accidents Waiting to Happen? </title>
+      <link>https://milanlproc.github.io/publication/2023-ai-normal-accidents-waiting-happen/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-ai-normal-accidents-waiting-happen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning from Disagreement: A Survey</title>
