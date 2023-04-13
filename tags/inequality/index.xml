@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>economics | MilaNLP Lab @ Bocconi University</title>
-    <link>https://milanlproc.github.io/tags/economics/</link>
-      <atom:link href="https://milanlproc.github.io/tags/economics/index.xml" rel="self" type="application/rss+xml" />
-    <description>economics</description>
+    <title>inequality | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/inequality/</link>
+      <atom:link href="https://milanlproc.github.io/tags/inequality/index.xml" rel="self" type="application/rss+xml" />
+    <description>inequality</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>economics</title>
-      <link>https://milanlproc.github.io/tags/economics/</link>
+      <title>inequality</title>
+      <link>https://milanlproc.github.io/tags/inequality/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://milanlproc.github.io/project/mentalism/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/project/mentalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer networks and entrepreneurship: A Pan-African RCT</title>
-      <link>https://milanlproc.github.io/publication/2019_adansonia/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2019_adansonia/</guid>
       <description></description>
     </item>
     
