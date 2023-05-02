@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chia-chien Hung | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/chia-chien-hung/</link>
+      <atom:link href="https://milanlproc.github.io/authors/chia-chien-hung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chia-chien Hung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Chia-chien Hung</title>
+      <link>https://milanlproc.github.io/authors/chia-chien-hung/</link>
+    </image>
+    
+    <item>
+      <title>Can Demographic Factors Improve Text Classification? Revisiting Demographic Adaptation in the Age of Transformers</title>
+      <link>https://milanlproc.github.io/publication/2023-can-demographic-factors-improve-text-classification/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-can-demographic-factors-improve-text-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
