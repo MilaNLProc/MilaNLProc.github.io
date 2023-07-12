@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
       <atom:link href="https://milanlproc.github.io/authors/dirk-hovy/index.xml" rel="self" type="application/rss+xml" />
     <description>Dirk Hovy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dirk Hovy</title>
       <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
     </image>
+    
+    <item>
+      <title>What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</title>
+      <link>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Demographic Factors Improve Text Classification? Revisiting Demographic Adaptation in the Age of Transformers</title>
