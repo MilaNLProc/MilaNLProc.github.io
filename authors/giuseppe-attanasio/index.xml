@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/authors/giuseppe-attanasio/</link>
       <atom:link href="https://milanlproc.github.io/authors/giuseppe-attanasio/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe Attanasio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Giuseppe Attanasio</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Is It Worth the (Environmental) Cost? Limited Evidence for the Benefits of Diachronic Continuous Training</title>
-      <link>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</guid>
+      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
+      <link>https://milanlproc.github.io/publication/2023-ferret-explainers-transformers/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-ferret-explainers-transformers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
-      <link>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</guid>
+      <title>Is It Worth the (Environmental) Cost? Limited Evidence for the Benefits of Diachronic Continuous Training</title>
+      <link>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</guid>
       <description></description>
     </item>
     

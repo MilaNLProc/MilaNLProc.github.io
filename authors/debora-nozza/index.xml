@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>A Multi-dimensional study on Bias in Vision-Language models</title>
+      <link>https://milanlproc.github.io/publication/2023-multidimensional-bias-vision-language-models/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-multidimensional-bias-vision-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech</title>
+      <link>https://milanlproc.github.io/publication/2023-zero-shot-prompting-hate-speech/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-zero-shot-prompting-hate-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The State of Profanity Obfuscation in Natural Language Processing Scientific Publications</title>
+      <link>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</title>
       <link>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
@@ -21,10 +45,26 @@
     </item>
     
     <item>
+      <title>A Cross-Lingual Study of Homotransphobia on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2023-cross-lingual-study-homotransphobia/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-cross-lingual-study-homotransphobia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</title>
       <link>https://milanlproc.github.io/publication/2023-text-to-image-stereotypes/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2023-text-to-image-stereotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
+      <link>https://milanlproc.github.io/publication/2023-ferret-explainers-transformers/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-ferret-explainers-transformers/</guid>
       <description></description>
     </item>
     
@@ -49,14 +89,6 @@
       <link>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
-      <link>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</guid>
       <description></description>
     </item>
     

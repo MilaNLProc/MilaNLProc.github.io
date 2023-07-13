@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/multimodal/</link>
       <atom:link href="https://milanlproc.github.io/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
     <description>Multimodal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Multimodal</title>
       <link>https://milanlproc.github.io/tags/multimodal/</link>
     </image>
+    
+    <item>
+      <title>A Multi-dimensional study on Bias in Vision-Language models</title>
+      <link>https://milanlproc.github.io/publication/2023-multidimensional-bias-vision-language-models/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-multidimensional-bias-vision-language-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MilaNLP at SemEval-2022 Task 5: Using Perceiver IO for Detecting Misogynous Memes with Text and Image Modalities</title>

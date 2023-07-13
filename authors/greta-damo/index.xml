@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greta Damo | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/greta-damo/</link>
+      <atom:link href="https://milanlproc.github.io/authors/greta-damo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Greta Damo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Greta Damo</title>
+      <link>https://milanlproc.github.io/authors/greta-damo/</link>
+    </image>
+    
+    <item>
+      <title>A Cross-Lingual Study of Homotransphobia on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2023-cross-lingual-study-homotransphobia/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-cross-lingual-study-homotransphobia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,6 +5,9 @@
     <loc>https://milanlproc.github.io/publication_types/1/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/publication/2023-multidimensional-bias-vision-language-models/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/authors/anne-lauscher/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,10 +35,22 @@
     <loc>https://milanlproc.github.io/tags/fairness/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/authors/flor-miriam-plaza-del-arco/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/gabriele-ruggeri/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/tags/hate-speech/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/multilingual/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/multimodal/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/nlp/</loc>
@@ -56,11 +71,26 @@
     <loc>https://milanlproc.github.io/publication/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/publication/2023-zero-shot-prompting-hate-speech/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/tags/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2023-cross-lingual-study-homotransphobia/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/davide-locatelli/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/greta-damo/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/aylin-caliskan/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
@@ -101,16 +131,34 @@
     <loc>https://milanlproc.github.io/publication_types/2/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/tags/bert/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/publication/2023-can-demographic-factors-improve-text-classification/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/chia-chien-hung/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/authors/chiara-di-bonaventura/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/tags/demographics/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/authors/eliana-pastor/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2023-ferret-explainers-transformers/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/giuseppe-attanasio/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/authors/goran-glavas/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/interpretability/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/language-models/</loc>
@@ -212,13 +260,7 @@
     <loc>https://milanlproc.github.io/tags/transformers/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/bert/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/publication/2022-honest-harmful-scandinavian-language-model/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/multilingual/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/samia-touileb/</loc>
@@ -231,9 +273,6 @@
     <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication_types/3/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/giuseppe-attanasio/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2022-limitation-diachronic-continuous-training/</loc>
@@ -271,18 +310,6 @@
   </url><url>
     <loc>https://milanlproc.github.io/authors/y-lan-boureau/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/chiara-di-bonaventura/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/eliana-pastor/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication/2022-ferret-explainers-transformers/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/interpretability/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/bertie-vidgen/</loc>
     <lastmod>2022-07-12T00:00:00+00:00</lastmod>
@@ -330,9 +357,6 @@
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/misogyny/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/multimodal/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/perceiverio/</loc>

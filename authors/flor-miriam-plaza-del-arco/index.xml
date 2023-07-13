@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flor Miriam Plaza-del-Arco | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/flor-miriam-plaza-del-arco/</link>
+      <atom:link href="https://milanlproc.github.io/authors/flor-miriam-plaza-del-arco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flor Miriam Plaza-del-Arco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Flor Miriam Plaza-del-Arco</title>
+      <link>https://milanlproc.github.io/authors/flor-miriam-plaza-del-arco/</link>
+    </image>
+    
+    <item>
+      <title>Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech</title>
+      <link>https://milanlproc.github.io/publication/2023-zero-shot-prompting-hate-speech/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-zero-shot-prompting-hate-speech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
