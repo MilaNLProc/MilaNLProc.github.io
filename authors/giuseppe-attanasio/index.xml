@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/giuseppe-attanasio/</link>
       <atom:link href="https://milanlproc.github.io/authors/giuseppe-attanasio/index.xml" rel="self" type="application/rss+xml" />
     <description>Giuseppe Attanasio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Giuseppe Attanasio</title>
       <link>https://milanlproc.github.io/authors/giuseppe-attanasio/</link>
     </image>
+    
+    <item>
+      <title>MilaNLP at SemEval-2023 Task 10: Ensembling Domain-Adapted and Regularized Pretrained Language Models for Robust Sexism Detection</title>
+      <link>https://milanlproc.github.io/publication/2023-milanlp-semeval-2023-task-10-ensembling-domain-adapted-regularized-pretrained-language-models-robust-sexism-detection/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-milanlp-semeval-2023-task-10-ensembling-domain-adapted-regularized-pretrained-language-models-robust-sexism-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
