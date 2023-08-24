@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Leveraging Label Variation in Large Language Models for Zero-Shot TextClassification</title>
+      <link>https://milanlproc.github.io/publication/2023-label-variation-llms/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-label-variation-llms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Multi-dimensional study on Bias in Vision-Language models</title>
