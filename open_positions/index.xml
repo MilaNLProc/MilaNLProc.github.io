@@ -5,12 +5,27 @@
     <link>https://milanlproc.github.io/open_positions/</link>
       <atom:link href="https://milanlproc.github.io/open_positions/index.xml" rel="self" type="application/rss+xml" />
     <description>Open_positions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Open_positions</title>
       <link>https://milanlproc.github.io/open_positions/</link>
     </image>
+    
+    <item>
+      <title>Visiting Researcher</title>
+      <link>https://milanlproc.github.io/open_positions/visiting_researcher/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/open_positions/visiting_researcher/</guid>
+      <description>&lt;p&gt;We love hosting talented researchers for research visits at MilaNLP.
+Please fill out 
+&lt;a href=&#34;https://forms.gle/UVJY5QZm48H1fFZD8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THIS FORM&lt;/a&gt; if you are interested.
+Most of our visitors are PhD students.
+We have two main visiting periods: between April and July, and between September and December.
+We will try to assess all applications for a period together and make a decision with enough time to spare.
+Due to limited space, we will only be able to host 1–2 people per period.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Postdoctoral Researcher - Natural Language Processing</title>
