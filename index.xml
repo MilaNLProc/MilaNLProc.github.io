@@ -962,6 +962,71 @@ Given the concerns about growing polarization and the spread of misinformation, 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;January 11th 2024&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18th&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;25h&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;February 1st&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8th&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15th&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22nd&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;See below for past talks.&lt;/p&gt;
+&lt;!-- - Sep-14, Giuseppe, [The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants](https://arxiv.org/abs/2308.16884)
+- Sep-21, Karina, [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://aclanthology.org/2020.emnlp-main.154.pdf)
+- Sep-28, Debora, [Do Multilingual Language Models Think Better in English?](https://arxiv.org/abs/2308.01223)
+- Oct-5, Amanda, [Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems](https://dl.acm.org/doi/10.1145/3544548.3581025)
+- Oct-12, Kai, [Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://aclanthology.org/N19-1304.pdf)
+- Oct-19, Dirk, [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/pdf/2303.11156.pdf)
+- Oct-26, Lorenzo
+- Nov-2,
+- Nov-9
+- Nov-16, Donya	
+- Nov-23, Paul	
+- Nov-30, Flor	
+- Dec-7, *break (EMNLP)*
+- Dec-14 
+- Dec-21
+- Dec-28, *break (Christmas)* --&gt;
+&lt;p&gt;&lt;img src=&#34;https://storage.googleapis.com/pai-images/4052a8b4bb134ffb953b417e3a03da6e.jpeg&#34; alt=&#34;An AI generated image of two kittens looking at a pile of papers&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;past-talks&#34;&gt;Past Talks&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Presenter&lt;/th&gt;
+&lt;th&gt;Paper&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
 &lt;td&gt;Sep-14&lt;/td&gt;
 &lt;td&gt;Giuseppe&lt;/td&gt;
 &lt;td&gt;
@@ -1027,50 +1092,8 @@ Given the concerns about growing polarization and the spread of misinformation, 
 &lt;td&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2311.08576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Towards Evaluating AI Systems for Moral Status Using Self-Reports&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nov-30&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;break&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dec-7&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;break (EMNLP)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dec-14&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;break (NAACL deadline)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dec-21&lt;/td&gt;
-&lt;td&gt;Flor&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dec-28&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;break (Christmas)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- - Sep-14, Giuseppe, [The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants](https://arxiv.org/abs/2308.16884)
-- Sep-21, Karina, [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://aclanthology.org/2020.emnlp-main.154.pdf)
-- Sep-28, Debora, [Do Multilingual Language Models Think Better in English?](https://arxiv.org/abs/2308.01223)
-- Oct-5, Amanda, [Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems](https://dl.acm.org/doi/10.1145/3544548.3581025)
-- Oct-12, Kai, [Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://aclanthology.org/N19-1304.pdf)
-- Oct-19, Dirk, [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/pdf/2303.11156.pdf)
-- Oct-26, Lorenzo
-- Nov-2,
-- Nov-9
-- Nov-16, Donya	
-- Nov-23, Paul	
-- Nov-30, Flor	
-- Dec-7, *break (EMNLP)*
-- Dec-14 
-- Dec-21
-- Dec-28, *break (Christmas)* --&gt;
-&lt;p&gt;&lt;img src=&#34;https://storage.googleapis.com/pai-images/4052a8b4bb134ffb953b417e3a03da6e.jpeg&#34; alt=&#34;An AI generated image of two kittens looking at a pile of papers&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
