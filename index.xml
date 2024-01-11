@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2023</copyright><lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
@@ -25,6 +25,14 @@ We have two main visiting periods: between April and July, and between September
 We will try to assess all applications for a period together and make a decision with enough time to spare.
 Due to limited space, we will only be able to host 1–2 people per period.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2023-xstest/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-xstest/</guid>
+      <description></description>
     </item>
     
     <item>

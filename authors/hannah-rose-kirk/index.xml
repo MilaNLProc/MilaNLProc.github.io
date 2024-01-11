@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Rose Kirk | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/hannah-rose-kirk/</link>
+      <atom:link href="https://milanlproc.github.io/authors/hannah-rose-kirk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannah Rose Kirk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hannah Rose Kirk</title>
+      <link>https://milanlproc.github.io/authors/hannah-rose-kirk/</link>
+    </image>
+    
+    <item>
+      <title>XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2023-xstest/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-xstest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
