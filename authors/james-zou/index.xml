@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/james-zou/</link>
       <atom:link href="https://milanlproc.github.io/authors/james-zou/index.xml" rel="self" type="application/rss+xml" />
     <description>James Zou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>James Zou</title>
       <link>https://milanlproc.github.io/authors/james-zou/</link>
     </image>
+    
+    <item>
+      <title>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</title>
+      <link>https://milanlproc.github.io/publication/2023-safetyllamas/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-safetyllamas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</title>

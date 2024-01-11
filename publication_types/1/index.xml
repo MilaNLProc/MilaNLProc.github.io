@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/publication_types/1/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://milanlproc.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising &#39;Alignment&#39; in Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2023-alignmentparadigms/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-alignmentparadigms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values</title>
+      <link>https://milanlproc.github.io/publication/2023-human-feedback-learning-survey/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-human-feedback-learning-survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Multi-dimensional study on Bias in Vision-Language models</title>

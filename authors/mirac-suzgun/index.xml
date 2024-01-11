@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirac Suzgun | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/mirac-suzgun/</link>
+      <atom:link href="https://milanlproc.github.io/authors/mirac-suzgun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mirac Suzgun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mirac Suzgun</title>
+      <link>https://milanlproc.github.io/authors/mirac-suzgun/</link>
+    </image>
+    
+    <item>
+      <title>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</title>
+      <link>https://milanlproc.github.io/publication/2023-safetyllamas/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-safetyllamas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

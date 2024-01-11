@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Feedback | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/human-feedback/</link>
+      <atom:link href="https://milanlproc.github.io/tags/human-feedback/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human Feedback</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Human Feedback</title>
+      <link>https://milanlproc.github.io/tags/human-feedback/</link>
+    </image>
+    
+    <item>
+      <title>The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values</title>
+      <link>https://milanlproc.github.io/publication/2023-human-feedback-learning-survey/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-human-feedback-learning-survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
