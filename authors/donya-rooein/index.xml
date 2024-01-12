@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donya Rooein | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/donya-rooein/</link>
+      <atom:link href="https://milanlproc.github.io/authors/donya-rooein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Donya Rooein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Donya Rooein</title>
+      <link>https://milanlproc.github.io/authors/donya-rooein/</link>
+    </image>
+    
+    <item>
+      <title>Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?</title>
+      <link>https://milanlproc.github.io/publication/2023-know-your-audience-education/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-know-your-audience-education/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
