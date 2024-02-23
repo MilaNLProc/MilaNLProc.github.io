@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahyar Habibi | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/mahyar-habibi/</link>
+      <atom:link href="https://milanlproc.github.io/authors/mahyar-habibi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mahyar Habibi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mahyar Habibi</title>
+      <link>https://milanlproc.github.io/authors/mahyar-habibi/</link>
+    </image>
+    
+    <item>
+      <title>DADIT: A Dataset for Demographic Classification of Italian Twitter Users and a Comparison of Prediction Methods</title>
+      <link>https://milanlproc.github.io/publication/2024-dadit/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-dadit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

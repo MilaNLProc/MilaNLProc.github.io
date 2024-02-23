@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>DADIT: A Dataset for Demographic Classification of Italian Twitter Users and a Comparison of Prediction Methods</title>
+      <link>https://milanlproc.github.io/publication/2024-dadit/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-dadit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising &#39;Alignment&#39; in Large Language Models</title>
