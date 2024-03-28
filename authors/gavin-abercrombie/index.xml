@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/authors/gavin-abercrombie/</link>
       <atom:link href="https://milanlproc.github.io/authors/gavin-abercrombie/index.xml" rel="self" type="application/rss+xml" />
     <description>Gavin Abercrombie</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Gavin Abercrombie</title>
       <link>https://milanlproc.github.io/authors/gavin-abercrombie/</link>
     </image>
+    
+    <item>
+      <title>Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution</title>
+      <link>https://milanlproc.github.io/publication/2024-emotion-analysis-survey/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-emotion-analysis-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution</title>
+      <link>https://milanlproc.github.io/publication/2024-emotion-gender-stereotypes/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-emotion-gender-stereotypes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Temporal and Second Language Influence on Intra-Annotator Agreement and Stability in Hate Speech Labelling</title>
