@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/demographics/</link>
       <atom:link href="https://milanlproc.github.io/tags/demographics/index.xml" rel="self" type="application/rss+xml" />
     <description>demographics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>demographics</title>
       <link>https://milanlproc.github.io/tags/demographics/</link>
     </image>
+    
+    <item>
+      <title>Classist Tools: Social Class Correlates with Performance in NLP</title>
+      <link>https://milanlproc.github.io/publication/2024-socialclass/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-socialclass/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Demographic Factors Improve Text Classification? Revisiting Demographic Adaptation in the Age of Transformers</title>
