@@ -89,7 +89,10 @@
     <loc>https://milanlproc.github.io/tags/survey/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/publication/2024-socialclass/</loc>
+    <loc>https://milanlproc.github.io/publication_types/2/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2024-socialclass-experiments/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/demographics/</loc>
@@ -101,11 +104,50 @@
     <loc>https://milanlproc.github.io/authors/giuseppe-attanasio/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/tags/hate-speech/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2024-socialclass-survey/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/tags/nlp/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/offensiveness/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/sexism/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/social-class/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2024-isms/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/subjectivity/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/zeerak-talat/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/anthropomorphism/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/dialogue-systems/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2023-mirages-anthropomorphism/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/tanvi-dinkar/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/trust/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/verena-rieser/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/alignment/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
@@ -212,9 +254,6 @@
     <loc>https://milanlproc.github.io/authors/gabriele-ruggeri/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/hate-speech/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/matthias-orlikowski/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -260,7 +299,13 @@
     <loc>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://milanlproc.github.io/publication/2023-computer-says-no/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/authors/emilio-ferrara/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/empathy/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2023-leveraging-social-interactions-detect-misinformation-social-media/</loc>
@@ -334,9 +379,6 @@
   </url><url>
     <loc>https://milanlproc.github.io/authors/sunipa-dev/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication_types/2/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/bert/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
@@ -507,9 +549,6 @@
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/value-sensitive-design/</loc>
-    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/verena-rieser/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/y-lan-boureau/</loc>

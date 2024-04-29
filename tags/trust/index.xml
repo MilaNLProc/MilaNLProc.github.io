@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trust | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/trust/</link>
+      <atom:link href="https://milanlproc.github.io/tags/trust/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trust</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Trust</title>
+      <link>https://milanlproc.github.io/tags/trust/</link>
+    </image>
+    
+    <item>
+      <title>Mirages. On Anthropomorphism in Dialogue Systems</title>
+      <link>https://milanlproc.github.io/publication/2023-mirages-anthropomorphism/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-mirages-anthropomorphism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer says “No”: The Case Against Empathetic Conversational AI</title>
+      <link>https://milanlproc.github.io/publication/2023-computer-says-no/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-computer-says-no/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

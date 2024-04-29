@@ -30,9 +30,33 @@
     
     <item>
       <title>Classist Tools: Social Class Correlates with Performance in NLP</title>
-      <link>https://milanlproc.github.io/publication/2024-socialclass/</link>
+      <link>https://milanlproc.github.io/publication/2024-socialclass-experiments/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2024-socialclass/</guid>
+      <guid>https://milanlproc.github.io/publication/2024-socialclass-experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impoverished Language Technology: The Lack of (Social) Class in NLP</title>
+      <link>https://milanlproc.github.io/publication/2024-socialclass-survey/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-socialclass-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective ? On the Danger of Conflating Hate and Offence in Abusive Language Detection</title>
+      <link>https://milanlproc.github.io/publication/2024-isms/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-isms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirages. On Anthropomorphism in Dialogue Systems</title>
+      <link>https://milanlproc.github.io/publication/2023-mirages-anthropomorphism/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-mirages-anthropomorphism/</guid>
       <description></description>
     </item>
     
@@ -41,6 +65,14 @@
       <link>https://milanlproc.github.io/publication/2023-milanlp-semeval-2023-task-10-ensembling-domain-adapted-regularized-pretrained-language-models-robust-sexism-detection/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2023-milanlp-semeval-2023-task-10-ensembling-domain-adapted-regularized-pretrained-language-models-robust-sexism-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer says “No”: The Case Against Empathetic Conversational AI</title>
+      <link>https://milanlproc.github.io/publication/2023-computer-says-no/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-computer-says-no/</guid>
       <description></description>
     </item>
     
