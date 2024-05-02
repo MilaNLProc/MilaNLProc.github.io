@@ -5,12 +5,48 @@
     <link>https://milanlproc.github.io/tags/nlp/</link>
       <atom:link href="https://milanlproc.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>nlp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>nlp</title>
       <link>https://milanlproc.github.io/tags/nlp/</link>
     </image>
+    
+    <item>
+      <title>Postdoctoral Researcher - NLP</title>
+      <link>https://milanlproc.github.io/open_positions/postdoc_position_erc_nlp/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/open_positions/postdoc_position_erc_nlp/</guid>
+      <description>&lt;p&gt;PI: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/2_debora_nozza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debora Nozza&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We are seeking two highly motivated and talented individuals to join our research team as Postdoctoral Researchers in the field of Natural Language Processing. The position offers an exciting opportunity to investigate the computational and algorithmic aspects underlying modern Artificial Intelligence systems, with a specific focus on the personalized and subjective approaches to Natural Language Processing. Successful candidates will work closely with Prof. Debora Nozza, Prof. Dirk Hovy, and the MilaNLP lab.&lt;/p&gt;
+&lt;p&gt;Project Overview:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: 
+&lt;a href=&#34;https://www.deboranozza.com/project/personae/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PERSONAE&lt;/a&gt; - Personalized and Subjective approaches to Natural Language Processing&lt;/li&gt;
+&lt;li&gt;Application Deadline:  May 30th, 2024&lt;/li&gt;
+&lt;li&gt;Duration: 2-years postdoc&lt;/li&gt;
+&lt;li&gt;Starting Date: September 1st, 2024, or any time thereafter&lt;/li&gt;
+&lt;li&gt;Total compensation: € 42.000,00 gross per annum up to a maximum of € 50.000,00 gross per annum and varies according the selected candidate’s international profile assessment made by the evaluation Committee.&lt;/li&gt;
+&lt;li&gt;Teaching Commitments: None required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your profile:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a Ph.D. in Computer Science, Computational Linguistics/NLP, Machine Learning, Data Science, or related fields.&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python.&lt;/li&gt;
+&lt;li&gt;Fluency in spoken and written English. Knowledge of Italian is NOT a requirement.&lt;/li&gt;
+&lt;li&gt;Knowledge of current neural network models and implementation tools for neural networks (e.g. PyTorch).&lt;/li&gt;
+&lt;li&gt;Experience with publications in top-tier venues in the field of NLP/Computational Linguistics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Application Process:
+Interested candidates should submit a detailed CV and a cover letter outlining research interests and career goals.&lt;/p&gt;
+&lt;p&gt;To submit your application, please go to the 
+&lt;a href=&#34;https://jobmarket.unibocconi.eu/?id=601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bocconi postdoc job market page&lt;/a&gt;.
+For any questions, please email Debora Nozza at 
+&lt;a href=&#34;mailto:debora.nozza@unibocconi.it&#34;&gt;debora.nozza@unibocconi.it&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Classist Tools: Social Class Correlates with Performance in NLP</title>
@@ -134,7 +170,7 @@ Interested candidates should submit&lt;/p&gt;
 &lt;li&gt;a paper sample of your choice.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;To submit your application, please go to the 
-&lt;a href=&#34;https://jobmarket.unibocconi.eu/?type=a&amp;amp;urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero&amp;#43;di&amp;#43;navigazione/Home/docenti&amp;#43;e&amp;#43;ricerca/docenti/Reclutamento&amp;#43;docenti/Concorsi/Assegni&amp;#43;di&amp;#43;Ricerca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bocconi postdoc job market page&lt;/a&gt;) and search for &lt;strong&gt;“EXPLORING SOCIETAL IMPACT OF MEDIA ECOSYSTEM”&lt;/strong&gt;.
+&lt;a href=&#34;https://jobmarket.unibocconi.eu/?type=a&amp;amp;urlBack=/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero&amp;#43;di&amp;#43;navigazione/Home/docenti&amp;#43;e&amp;#43;ricerca/docenti/Reclutamento&amp;#43;docenti/Concorsi/Assegni&amp;#43;di&amp;#43;Ricerca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bocconi postdoc job market page&lt;/a&gt; and search for &lt;strong&gt;“EXPLORING SOCIETAL IMPACT OF MEDIA ECOSYSTEM”&lt;/strong&gt;.
 For any questions, please email Kai Zhu at 
 &lt;a href=&#34;mailto:kai.zhu@unibocconi.it&#34;&gt;kai.zhu@unibocconi.it&lt;/a&gt;.&lt;/p&gt;
 </description>
