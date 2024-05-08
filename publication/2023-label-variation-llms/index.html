@@ -24,7 +24,7 @@
   
     
   
-  <meta name="description" content="The zero-shot learning capabilities of large language models (LLMs) make them ideal for text classification without annotation or supervised training. Many studies have shown impressive results across multiple tasks. While tasks, data, and results differ widely, their similarities to human annotation can aid us in tackling new tasks with minimal expenses. We evaluate using 5 state-of-the-art LLMs as annotators on 5 different tasks (age, gender, topic, sentiment prediction, and hate speech detection), across 4 languages: English, French, German, and Spanish. No single model excels at all tasks, across languages, or across all labels within a task. However, aggregation techniques designed for human annotators perform substantially better than any one individual model. Overall, though, LLMs do not rival even simple supervised models, so they do not (yet) replace the need for human annotation. We also discuss the tradeoffs between speed, accuracy, cost, and bias when it comes to aggregated model labeling versus human annotation.">
+  <meta name="description" content="Large Language Models (LLMs) exhibit remarkable text classification capabilities, excelling in zero- and few-shot learning (ZSL and FSL) scenarios. However, since they are trained on different datasets, performance varies widely across tasks between those models. Recent studies emphasize the importance of considering human label variation in data annotation. However, how this human label variation also applies to LLMs remains unexplored. Given this likely model specialization, we ask: Do aggregate LLM labels improve over individual models (as for human annotators)? We evaluate four recent instruction-tuned LLMs as annotators on five subjective tasks across four languages. We use ZSL and FSL setups and label aggregation from human annotation. Aggregations are indeed substantially better than any individual model, benefiting from specialization in diverse tasks or languages. Surprisingly, FSL does not surpass ZSL, as it depends on the quality of the selected examples. However, there seems to be no good information-theoretical strategy to select those. We find that no LLM method rivals even simple supervised models. We also discuss the tradeoffs in accuracy, cost, and moral/ethical considerations between LLM and human annotation.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2023-label-variation-llms/">
@@ -265,8 +265,8 @@
   
   <meta property="og:site_name" content="MilaNLP Lab @ Bocconi University">
   <meta property="og:url" content="https://milanlproc.github.io/publication/2023-label-variation-llms/">
-  <meta property="og:title" content="Leveraging Label Variation in Large Language Models for Zero-Shot TextClassification | MilaNLP Lab @ Bocconi University">
-  <meta property="og:description" content="The zero-shot learning capabilities of large language models (LLMs) make them ideal for text classification without annotation or supervised training. Many studies have shown impressive results across multiple tasks. While tasks, data, and results differ widely, their similarities to human annotation can aid us in tackling new tasks with minimal expenses. We evaluate using 5 state-of-the-art LLMs as annotators on 5 different tasks (age, gender, topic, sentiment prediction, and hate speech detection), across 4 languages: English, French, German, and Spanish. No single model excels at all tasks, across languages, or across all labels within a task. However, aggregation techniques designed for human annotators perform substantially better than any one individual model. Overall, though, LLMs do not rival even simple supervised models, so they do not (yet) replace the need for human annotation. We also discuss the tradeoffs between speed, accuracy, cost, and bias when it comes to aggregated model labeling versus human annotation."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:title" content="Wisdom of Instruction-Tuned Language Model Crowds. Exploring Model Label Variation | MilaNLP Lab @ Bocconi University">
+  <meta property="og:description" content="Large Language Models (LLMs) exhibit remarkable text classification capabilities, excelling in zero- and few-shot learning (ZSL and FSL) scenarios. However, since they are trained on different datasets, performance varies widely across tasks between those models. Recent studies emphasize the importance of considering human label variation in data annotation. However, how this human label variation also applies to LLMs remains unexplored. Given this likely model specialization, we ask: Do aggregate LLM labels improve over individual models (as for human annotators)? We evaluate four recent instruction-tuned LLMs as annotators on five subjective tasks across four languages. We use ZSL and FSL setups and label aggregation from human annotation. Aggregations are indeed substantially better than any individual model, benefiting from specialization in diverse tasks or languages. Surprisingly, FSL does not surpass ZSL, as it depends on the quality of the selected examples. However, there seems to be no good information-theoretical strategy to select those. We find that no LLM method rivals even simple supervised models. We also discuss the tradeoffs in accuracy, cost, and moral/ethical considerations between LLM and human annotation."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -296,7 +296,7 @@
     "@type": "WebPage",
     "@id": "https://milanlproc.github.io/publication/2023-label-variation-llms/"
   },
-  "headline": "Leveraging Label Variation in Large Language Models for Zero-Shot TextClassification",
+  "headline": "Wisdom of Instruction-Tuned Language Model Crowds. Exploring Model Label Variation",
   
   "datePublished": "2023-07-24T14:48:20+01:00",
   "dateModified": "2023-07-24T00:00:00Z",
@@ -314,7 +314,7 @@
       "url": "https://milanlproc.github.io/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "The zero-shot learning capabilities of large language models (LLMs) make them ideal for text classification without annotation or supervised training. Many studies have shown impressive results across multiple tasks. While tasks, data, and results differ widely, their similarities to human annotation can aid us in tackling new tasks with minimal expenses. We evaluate using 5 state-of-the-art LLMs as annotators on 5 different tasks (age, gender, topic, sentiment prediction, and hate speech detection), across 4 languages: English, French, German, and Spanish. No single model excels at all tasks, across languages, or across all labels within a task. However, aggregation techniques designed for human annotators perform substantially better than any one individual model. Overall, though, LLMs do not rival even simple supervised models, so they do not (yet) replace the need for human annotation. We also discuss the tradeoffs between speed, accuracy, cost, and bias when it comes to aggregated model labeling versus human annotation."
+  "description": "Large Language Models (LLMs) exhibit remarkable text classification capabilities, excelling in zero- and few-shot learning (ZSL and FSL) scenarios. However, since they are trained on different datasets, performance varies widely across tasks between those models. Recent studies emphasize the importance of considering human label variation in data annotation. However, how this human label variation also applies to LLMs remains unexplored. Given this likely model specialization, we ask: Do aggregate LLM labels improve over individual models (as for human annotators)? We evaluate four recent instruction-tuned LLMs as annotators on five subjective tasks across four languages. We use ZSL and FSL setups and label aggregation from human annotation. Aggregations are indeed substantially better than any individual model, benefiting from specialization in diverse tasks or languages. Surprisingly, FSL does not surpass ZSL, as it depends on the quality of the selected examples. However, there seems to be no good information-theoretical strategy to select those. We find that no LLM method rivals even simple supervised models. We also discuss the tradeoffs in accuracy, cost, and moral/ethical considerations between LLM and human annotation."
 }
 </script>
 
@@ -332,7 +332,7 @@
 
 
 
-  <title>Leveraging Label Variation in Large Language Models for Zero-Shot TextClassification | MilaNLP Lab @ Bocconi University</title>
+  <title>Wisdom of Instruction-Tuned Language Model Crowds. Exploring Model Label Variation | MilaNLP Lab @ Bocconi University</title>
 
 </head>
 
@@ -641,7 +641,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Leveraging Label Variation in Large Language Models for Zero-Shot TextClassification</h1>
+  <h1>Wisdom of Instruction-Tuned Language Model Crowds. Exploring Model Label Variation</h1>
 
   
 
@@ -763,7 +763,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The zero-shot learning capabilities of large language models (LLMs) make them ideal for text classification without annotation or supervised training. Many studies have shown impressive results across multiple tasks. While tasks, data, and results differ widely, their similarities to human annotation can aid us in tackling new tasks with minimal expenses. We evaluate using 5 state-of-the-art LLMs as annotators on 5 different tasks (age, gender, topic, sentiment prediction, and hate speech detection), across 4 languages: English, French, German, and Spanish. No single model excels at all tasks, across languages, or across all labels within a task. However, aggregation techniques designed for human annotators perform substantially better than any one individual model. Overall, though, LLMs do not rival even simple supervised models, so they do not (yet) replace the need for human annotation. We also discuss the tradeoffs between speed, accuracy, cost, and bias when it comes to aggregated model labeling versus human annotation.</p>
+    <p class="pub-abstract">Large Language Models (LLMs) exhibit remarkable text classification capabilities, excelling in zero- and few-shot learning (ZSL and FSL) scenarios. However, since they are trained on different datasets, performance varies widely across tasks between those models. Recent studies emphasize the importance of considering human label variation in data annotation. However, how this human label variation also applies to LLMs remains unexplored. Given this likely model specialization, we ask: Do aggregate LLM labels improve over individual models (as for human annotators)? We evaluate four recent instruction-tuned LLMs as annotators on five subjective tasks across four languages. We use ZSL and FSL setups and label aggregation from human annotation. Aggregations are indeed substantially better than any individual model, benefiting from specialization in diverse tasks or languages. Surprisingly, FSL does not surpass ZSL, as it depends on the quality of the selected examples. However, there seems to be no good information-theoretical strategy to select those. We find that no LLM method rivals even simple supervised models. We also discuss the tradeoffs in accuracy, cost, and moral/ethical considerations between LLM and human annotation.</p>
     
 
     
@@ -815,6 +815,8 @@
   
   <a class="badge badge-light" href="/tags/llms/">LLMs</a>
   
+  <a class="badge badge-light" href="/tags/annotation/">annotation</a>
+  
 </div>
 
 
@@ -830,7 +832,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;text=Leveraging%20Label%20Variation%20in%20Large%20Language%20Models%20for%20Zero-Shot%20TextClassification" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;text=Wisdom%20of%20Instruction-Tuned%20Language%20Model%20Crowds.%20Exploring%20Model%20Label%20Variation" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -843,7 +845,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;t=Leveraging%20Label%20Variation%20in%20Large%20Language%20Models%20for%20Zero-Shot%20TextClassification" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;t=Wisdom%20of%20Instruction-Tuned%20Language%20Model%20Crowds.%20Exploring%20Model%20Label%20Variation" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -856,7 +858,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Leveraging%20Label%20Variation%20in%20Large%20Language%20Models%20for%20Zero-Shot%20TextClassification&amp;body=https://milanlproc.github.io/publication/2023-label-variation-llms/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Wisdom%20of%20Instruction-Tuned%20Language%20Model%20Crowds.%20Exploring%20Model%20Label%20Variation&amp;body=https://milanlproc.github.io/publication/2023-label-variation-llms/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -869,7 +871,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;title=Leveraging%20Label%20Variation%20in%20Large%20Language%20Models%20for%20Zero-Shot%20TextClassification" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;title=Wisdom%20of%20Instruction-Tuned%20Language%20Model%20Crowds.%20Exploring%20Model%20Label%20Variation" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -882,7 +884,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Leveraging%20Label%20Variation%20in%20Large%20Language%20Models%20for%20Zero-Shot%20TextClassification%20https://milanlproc.github.io/publication/2023-label-variation-llms/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Wisdom%20of%20Instruction-Tuned%20Language%20Model%20Crowds.%20Exploring%20Model%20Label%20Variation%20https://milanlproc.github.io/publication/2023-label-variation-llms/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -895,7 +897,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;title=Leveraging%20Label%20Variation%20in%20Large%20Language%20Models%20for%20Zero-Shot%20TextClassification" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2023-label-variation-llms/&amp;title=Wisdom%20of%20Instruction-Tuned%20Language%20Model%20Crowds.%20Exploring%20Model%20Label%20Variation" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1015,15 +1017,15 @@
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/publication/2023-temporal-second-language-influence-intra-annotator-agreement-stability-hate-speech-labelling/">Temporal and Second Language Influence on Intra-Annotator Agreement and Stability in Hate Speech Labelling</a></li>
+      
+      <li><a href="/publication/2023-ecological-fallacy-annotation-modeling-human-label-variation-goes-beyond-sociodemographics/">The Ecological Fallacy in Annotation: Modeling Human Label Variation goes beyond Sociodemographics</a></li>
+      
       <li><a href="/publication/2023-know-your-audience-education/">Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?</a></li>
       
-      <li><a href="/publication/2023-xstest/">XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</a></li>
+      <li><a href="/publication/2021-learning_from_disagreement_survey/">Learning from Disagreement: A Survey</a></li>
       
-      <li><a href="/publication/2023-zero-shot-prompting-hate-speech/">Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech</a></li>
-      
-      <li><a href="/publication/2023-simplesafetytests/">SimpleSafetyTests: a Test Suite for Identifying Critical Safety Risks in Large Language Models</a></li>
-      
-      <li><a href="/publication/2023-commercial-machine-translation-fail-neopronouns/">What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</a></li>
+      <li><a href="/publication/2018-comparing-bayesian-models-annotation/">Comparing Bayesian Models of Annotation</a></li>
       
     </ul>
   </div>
