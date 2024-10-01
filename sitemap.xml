@@ -3,10 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://milanlproc.github.io/publication_types/1/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/alba-curry/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/amanda-cercas-curry/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/bias/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2024-divine-llamas-emotion-bias/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/emotion-attribution/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/flor-miriam-plaza-del-arco/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/large-language-models/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication_types/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/religion/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/stereotypes/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/susanna-paoli/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/carlo-schwarz/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
@@ -15,9 +60,6 @@
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/demographic-prediction/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/language-models/</loc>
@@ -29,22 +71,10 @@
     <loc>https://milanlproc.github.io/authors/mahyar-habibi/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/multimodal-classification/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/paul-bose/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication_types/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/twitter-data/</loc>
@@ -68,19 +98,10 @@
     <loc>https://milanlproc.github.io/tags/education/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/large-language-models/</loc>
-    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/paul-rottger/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/adaptive-learning/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/alba-curry/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/amanda-cercas-curry/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2024-emotion-gender-stereotypes/</loc>
@@ -96,12 +117,6 @@
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2024-emotion-analysis-survey/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/emotion-attribution/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/flor-miriam-plaza-del-arco/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/gavin-abercrombie/</loc>
@@ -354,9 +369,6 @@
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/aylin-caliskan/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/bias/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2023-text-to-image-stereotypes/</loc>
