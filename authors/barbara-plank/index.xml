@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/barbara-plank/</link>
       <atom:link href="https://milanlproc.github.io/authors/barbara-plank/index.xml" rel="self" type="application/rss+xml" />
     <description>Barbara Plank</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Barbara Plank</title>
       <link>https://milanlproc.github.io/authors/barbara-plank/</link>
     </image>
+    
+    <item>
+      <title>My Answer is C: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models</title>
+      <link>https://milanlproc.github.io/publication/2024-myanswerisc/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-myanswerisc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning from Disagreement: A Survey</title>

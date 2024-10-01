@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/authors/federico-bianchi/</link>
       <atom:link href="https://milanlproc.github.io/authors/federico-bianchi/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Bianchi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2024</copyright><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Federico Bianchi</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</title>
-      <link>https://milanlproc.github.io/publication/2023-xstest/</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-xstest/</guid>
+      <link>https://milanlproc.github.io/publication/2024-xstest/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-xstest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</title>
-      <link>https://milanlproc.github.io/publication/2023-safetyllamas/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-safetyllamas/</guid>
+      <link>https://milanlproc.github.io/publication/2024-safetyllamas/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-safetyllamas/</guid>
       <description></description>
     </item>
     

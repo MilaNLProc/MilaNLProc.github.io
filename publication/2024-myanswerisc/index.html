@@ -24,10 +24,10 @@
   
     
   
-  <meta name="description" content="Training large language models to follow instructions makes them perform better on a wide range of tasks, generally becoming more helpful. However, a perfectly helpful model will follow even the most malicious instructions and readily generate harmful content. In this paper, we raise concerns over the safety of models that only emphasize helpfulness, not safety, in their instruction-tuning. We show that several popular instruction-tuned models are highly unsafe. Moreover, we show that adding just 3% safety examples (a few hundred demonstrations) in the training set when fine-tuning a model like LLaMA can substantially improve their safety. Our safety-tuning does not make models significantly less capable or helpful as measured by standard benchmarks. However, we do find a behavior of exaggerated safety, where too much safety-tuning makes models refuse to respond to reasonable prompts that superficially resemble unsafe ones. Our study sheds light on trade-offs in training LLMs to follow instructions and exhibit safe behavior.">
+  <meta name="description" content="The open-ended nature of language generation makes the evaluation of autoregressive large language models (LLMs) challenging. One common evaluation approach uses multiple-choice questions to limit the response space. The model is then evaluated by ranking the candidate answers by the log probability of the first token prediction. However, first-tokens may not consistently reflect the final response output, due to model’s diverse response styles such as starting with “Sure” or refusing to answer. Consequently, first-token evaluation is not indicative of model behaviour when interacting with users. But by how much? We evaluate how aligned first-token evaluation is with the text output along several dimensions, namely final option choice, refusal rate, choice distribution and robustness under prompt perturbation. Our results show that the two approaches are severely misaligned on all dimensions, reaching mismatch rates over 60%. Models heavily fine-tuned on conversational or safety data are especially impacted. Crucially, models remain misaligned even when we increasingly constrain prompts, i.e., force them to start with an option letter or example template. Our findings i) underscore the importance of inspecting the text output as well and ii) caution against relying solely on first-token evaluation.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2023-safetyllamas/">
+  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2024-myanswerisc/">
 
   
 
@@ -250,7 +250,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://milanlproc.github.io/publication/2023-safetyllamas/">
+  <link rel="canonical" href="https://milanlproc.github.io/publication/2024-myanswerisc/">
 
   
   
@@ -263,15 +263,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="MilaNLP Lab @ Bocconi University">
-  <meta property="og:url" content="https://milanlproc.github.io/publication/2023-safetyllamas/">
-  <meta property="og:title" content="Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions | MilaNLP Lab @ Bocconi University">
-  <meta property="og:description" content="Training large language models to follow instructions makes them perform better on a wide range of tasks, generally becoming more helpful. However, a perfectly helpful model will follow even the most malicious instructions and readily generate harmful content. In this paper, we raise concerns over the safety of models that only emphasize helpfulness, not safety, in their instruction-tuning. We show that several popular instruction-tuned models are highly unsafe. Moreover, we show that adding just 3% safety examples (a few hundred demonstrations) in the training set when fine-tuning a model like LLaMA can substantially improve their safety. Our safety-tuning does not make models significantly less capable or helpful as measured by standard benchmarks. However, we do find a behavior of exaggerated safety, where too much safety-tuning makes models refuse to respond to reasonable prompts that superficially resemble unsafe ones. Our study sheds light on trade-offs in training LLMs to follow instructions and exhibit safe behavior."><meta property="og:image" content="https://milanlproc.github.io/publication/2023-safetyllamas/featured.png">
-  <meta property="twitter:image" content="https://milanlproc.github.io/publication/2023-safetyllamas/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://milanlproc.github.io/publication/2024-myanswerisc/">
+  <meta property="og:title" content="My Answer is C: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models | MilaNLP Lab @ Bocconi University">
+  <meta property="og:description" content="The open-ended nature of language generation makes the evaluation of autoregressive large language models (LLMs) challenging. One common evaluation approach uses multiple-choice questions to limit the response space. The model is then evaluated by ranking the candidate answers by the log probability of the first token prediction. However, first-tokens may not consistently reflect the final response output, due to model’s diverse response styles such as starting with “Sure” or refusing to answer. Consequently, first-token evaluation is not indicative of model behaviour when interacting with users. But by how much? We evaluate how aligned first-token evaluation is with the text output along several dimensions, namely final option choice, refusal rate, choice distribution and robustness under prompt perturbation. Our results show that the two approaches are severely misaligned on all dimensions, reaching mismatch rates over 60%. Models heavily fine-tuned on conversational or safety data are especially impacted. Crucially, models remain misaligned even when we increasingly constrain prompts, i.e., force them to start with an option letter or example template. Our findings i) underscore the importance of inspecting the text output as well and ii) caution against relying solely on first-token evaluation."><meta property="og:image" content="https://milanlproc.github.io/publication/2024-myanswerisc/featured.png">
+  <meta property="twitter:image" content="https://milanlproc.github.io/publication/2024-myanswerisc/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-07-12T14:48:20&#43;01:00">
     
-    <meta property="article:modified_time" content="2023-09-25T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-08-11T00:00:00&#43;00:00">
   
 
   
@@ -293,20 +293,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://milanlproc.github.io/publication/2023-safetyllamas/"
+    "@id": "https://milanlproc.github.io/publication/2024-myanswerisc/"
   },
-  "headline": "Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions",
+  "headline": "My Answer is C: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models",
   
   "image": [
-    "https://milanlproc.github.io/publication/2023-safetyllamas/featured.png"
+    "https://milanlproc.github.io/publication/2024-myanswerisc/featured.png"
   ],
   
   "datePublished": "2023-07-12T14:48:20+01:00",
-  "dateModified": "2023-09-25T00:00:00Z",
+  "dateModified": "2024-08-11T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Federico Bianchi"
+    "name": "Xinpeng Wang"
   },
   
   "publisher": {
@@ -317,7 +317,7 @@
       "url": "https://milanlproc.github.io/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Training large language models to follow instructions makes them perform better on a wide range of tasks, generally becoming more helpful. However, a perfectly helpful model will follow even the most malicious instructions and readily generate harmful content. In this paper, we raise concerns over the safety of models that only emphasize helpfulness, not safety, in their instruction-tuning. We show that several popular instruction-tuned models are highly unsafe. Moreover, we show that adding just 3% safety examples (a few hundred demonstrations) in the training set when fine-tuning a model like LLaMA can substantially improve their safety. Our safety-tuning does not make models significantly less capable or helpful as measured by standard benchmarks. However, we do find a behavior of exaggerated safety, where too much safety-tuning makes models refuse to respond to reasonable prompts that superficially resemble unsafe ones. Our study sheds light on trade-offs in training LLMs to follow instructions and exhibit safe behavior."
+  "description": "The open-ended nature of language generation makes the evaluation of autoregressive large language models (LLMs) challenging. One common evaluation approach uses multiple-choice questions to limit the response space. The model is then evaluated by ranking the candidate answers by the log probability of the first token prediction. However, first-tokens may not consistently reflect the final response output, due to model’s diverse response styles such as starting with “Sure” or refusing to answer. Consequently, first-token evaluation is not indicative of model behaviour when interacting with users. But by how much? We evaluate how aligned first-token evaluation is with the text output along several dimensions, namely final option choice, refusal rate, choice distribution and robustness under prompt perturbation. Our results show that the two approaches are severely misaligned on all dimensions, reaching mismatch rates over 60%. Models heavily fine-tuned on conversational or safety data are especially impacted. Crucially, models remain misaligned even when we increasingly constrain prompts, i.e., force them to start with an option letter or example template. Our findings i) underscore the importance of inspecting the text output as well and ii) caution against relying solely on first-token evaluation."
 }
 </script>
 
@@ -335,7 +335,7 @@
 
 
 
-  <title>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions | MilaNLP Lab @ Bocconi University</title>
+  <title>My Answer is C: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models | MilaNLP Lab @ Bocconi University</title>
 
 </head>
 
@@ -653,7 +653,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</h1>
+  <h1>My Answer is C: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models</h1>
 
   
 
@@ -670,7 +670,7 @@
     
 
   
-  <span><a href="/authors/federico-bianchi/">Federico Bianchi</a></span>, <span><a href="/authors/mirac-suzgun/">Mirac Suzgun</a></span>, <span><a href="/authors/giuseppe-attanasio/">Giuseppe Attanasio</a></span>, <span><a href="/authors/paul-rottger/">Paul Röttger</a></span>, <span><a href="/authors/dan-jurafsky/">Dan Jurafsky</a></span>, <span><a href="/authors/tatsunori-hashimoto/">Tatsunori Hashimoto</a></span>, <span><a href="/authors/james-zou/">James Zou</a></span>
+  <span><a href="/authors/xinpeng-wang/">Xinpeng Wang</a></span>, <span><a href="/authors/bolei-ma/">Bolei Ma</a></span>, <span><a href="/authors/chengzhi-hu/">Chengzhi Hu</a></span>, <span><a href="/authors/leon-weber-genzel/">Leon Weber-Genzel</a></span>, <span><a href="/authors/paul-rottger/">Paul Röttger</a></span>, <span><a href="/authors/frauke-kreuter/">Frauke Kreuter</a></span>, <span><a href="/authors/dirk-hovy/">Dirk Hovy</a></span>, <span><a href="/authors/barbara-plank/">Barbara Plank</a></span>
   </div>
   
   
@@ -681,7 +681,7 @@
     
       
     
-    September 2023
+    August 2024
   </span>
   
 
@@ -731,14 +731,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2309.07875" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://aclanthology.org/2024.findings-acl.441/" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2023-safetyllamas/cite.bib">
+        data-filename="/publication/2024-myanswerisc/cite.bib">
   Cite
 </button>
 
@@ -747,17 +747,17 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/integrator/">
-    Project
-  </a>
-  
-
-  
   <a class="btn btn-outline-primary my-1 mr-1" href="/project/indomita/">
     Project
   </a>
   
 
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/integrator/">
+    Project
+  </a>
+  
+
 
 
 
@@ -774,10 +774,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 571px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 582px;">
   <div style="position: relative">
-    <img src="/publication/2023-safetyllamas/featured_hu05a600a6f354a3e9a93f17d79af5a52d_473480_720x0_resize_lanczos_2.png" alt="" class="featured-image">
-    <span class="article-header-caption">Safety-tuned Llamas</span>
+    <img src="/publication/2024-myanswerisc/featured_hu4db66ba761f1ec3d5f41c8f44e8469cd_353367_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <span class="article-header-caption">Mismatch in LLM Evaluation</span>
   </div>
 </div>
 
@@ -787,7 +787,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Training large language models to follow instructions makes them perform better on a wide range of tasks, generally becoming more helpful. However, a perfectly helpful model will follow even the most malicious instructions and readily generate harmful content. In this paper, we raise concerns over the safety of models that only emphasize helpfulness, not safety, in their instruction-tuning. We show that several popular instruction-tuned models are highly unsafe. Moreover, we show that adding just 3% safety examples (a few hundred demonstrations) in the training set when fine-tuning a model like LLaMA can substantially improve their safety. Our safety-tuning does not make models significantly less capable or helpful as measured by standard benchmarks. However, we do find a behavior of exaggerated safety, where too much safety-tuning makes models refuse to respond to reasonable prompts that superficially resemble unsafe ones. Our study sheds light on trade-offs in training LLMs to follow instructions and exhibit safe behavior.</p>
+    <p class="pub-abstract">The open-ended nature of language generation makes the evaluation of autoregressive large language models (LLMs) challenging. One common evaluation approach uses multiple-choice questions to limit the response space. The model is then evaluated by ranking the candidate answers by the log probability of the first token prediction. However, first-tokens may not consistently reflect the final response output, due to model’s diverse response styles such as starting with “Sure” or refusing to answer. Consequently, first-token evaluation is not indicative of model behaviour when interacting with users. But by how much? We evaluate how aligned first-token evaluation is with the text output along several dimensions, namely final option choice, refusal rate, choice distribution and robustness under prompt perturbation. Our results show that the two approaches are severely misaligned on all dimensions, reaching mismatch rates over 60%. Models heavily fine-tuned on conversational or safety data are especially impacted. Crucially, models remain misaligned even when we increasingly constrain prompts, i.e., force them to start with an option letter or example template. Our findings i) underscore the importance of inspecting the text output as well and ii) caution against relying solely on first-token evaluation.</p>
     
 
     
@@ -799,8 +799,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -817,7 +817,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">arXiv</div>
+          <div class="col-12 col-md-9">ACL 2024 (Findings)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -837,7 +837,7 @@
   
   <a class="badge badge-light" href="/tags/large-language-models/">Large Language Models</a>
   
-  <a class="badge badge-light" href="/tags/ai-safety/">AI Safety</a>
+  <a class="badge badge-light" href="/tags/evaluation/">Evaluation</a>
   
   <a class="badge badge-light" href="/tags/nlp/">NLP</a>
   
@@ -856,7 +856,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2023-safetyllamas/&amp;text=Safety-Tuned%20LLaMAs:%20Lessons%20From%20Improving%20the%20Safety%20of%20Large%20Language%20Models%20that%20Follow%20Instructions" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2024-myanswerisc/&amp;text=My%20Answer%20is%20C:%20First-Token%20Probabilities%20Do%20Not%20Match%20Text%20Answers%20in%20Instruction-Tuned%20Language%20Models" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -869,7 +869,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2023-safetyllamas/&amp;t=Safety-Tuned%20LLaMAs:%20Lessons%20From%20Improving%20the%20Safety%20of%20Large%20Language%20Models%20that%20Follow%20Instructions" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2024-myanswerisc/&amp;t=My%20Answer%20is%20C:%20First-Token%20Probabilities%20Do%20Not%20Match%20Text%20Answers%20in%20Instruction-Tuned%20Language%20Models" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -882,7 +882,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Safety-Tuned%20LLaMAs:%20Lessons%20From%20Improving%20the%20Safety%20of%20Large%20Language%20Models%20that%20Follow%20Instructions&amp;body=https://milanlproc.github.io/publication/2023-safetyllamas/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=My%20Answer%20is%20C:%20First-Token%20Probabilities%20Do%20Not%20Match%20Text%20Answers%20in%20Instruction-Tuned%20Language%20Models&amp;body=https://milanlproc.github.io/publication/2024-myanswerisc/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -895,7 +895,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2023-safetyllamas/&amp;title=Safety-Tuned%20LLaMAs:%20Lessons%20From%20Improving%20the%20Safety%20of%20Large%20Language%20Models%20that%20Follow%20Instructions" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2024-myanswerisc/&amp;title=My%20Answer%20is%20C:%20First-Token%20Probabilities%20Do%20Not%20Match%20Text%20Answers%20in%20Instruction-Tuned%20Language%20Models" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -908,7 +908,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Safety-Tuned%20LLaMAs:%20Lessons%20From%20Improving%20the%20Safety%20of%20Large%20Language%20Models%20that%20Follow%20Instructions%20https://milanlproc.github.io/publication/2023-safetyllamas/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=My%20Answer%20is%20C:%20First-Token%20Probabilities%20Do%20Not%20Match%20Text%20Answers%20in%20Instruction-Tuned%20Language%20Models%20https://milanlproc.github.io/publication/2024-myanswerisc/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -921,7 +921,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2023-safetyllamas/&amp;title=Safety-Tuned%20LLaMAs:%20Lessons%20From%20Improving%20the%20Safety%20of%20Large%20Language%20Models%20that%20Follow%20Instructions" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2024-myanswerisc/&amp;title=My%20Answer%20is%20C:%20First-Token%20Probabilities%20Do%20Not%20Match%20Text%20Answers%20in%20Instruction-Tuned%20Language%20Models" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -957,7 +957,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/federico-bianchi/"></a></h5>
+      <h5 class="card-title"><a href="/authors/xinpeng-wang/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -985,7 +985,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/mirac-suzgun/"></a></h5>
+      <h5 class="card-title"><a href="/authors/bolei-ma/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1013,7 +1013,35 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/giuseppe-attanasio/"></a></h5>
+      <h5 class="card-title"><a href="/authors/chengzhi-hu/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/leon-weber-genzel/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1069,7 +1097,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/dan-jurafsky/"></a></h5>
+      <h5 class="card-title"><a href="/authors/frauke-kreuter/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1097,7 +1125,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/tatsunori-hashimoto/"></a></h5>
+      <h5 class="card-title"><a href="/authors/dirk-hovy/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1125,7 +1153,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/james-zou/"></a></h5>
+      <h5 class="card-title"><a href="/authors/barbara-plank/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1153,15 +1181,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/2023-simplesafetytests/">SimpleSafetyTests: a Test Suite for Identifying Critical Safety Risks in Large Language Models</a></li>
+      <li><a href="/publication/2024-compromesso/">Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models</a></li>
       
-      <li><a href="/publication/2023-xstest/">XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</a></li>
+      <li><a href="/publication/2024-xstest/">XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</a></li>
       
-      <li><a href="/publication/2023-human-feedback-learning-survey/">The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values</a></li>
+      <li><a href="/publication/2024-politicalcompass/">Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models</a></li>
       
-      <li><a href="/publication/2023-alignmentparadigms/">The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising &#39;Alignment&#39; in Large Language Models</a></li>
+      <li><a href="/publication/2024-safetyllamas/">Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</a></li>
       
-      <li><a href="/publication/2023-commercial-machine-translation-fail-neopronouns/">What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</a></li>
+      <li><a href="/publication/2024-safetyprompts/">SafetyPrompts: a Systematic Review of Open Datasets for Evaluating and Improving Large Language Model Safety </a></li>
       
     </ul>
   </div>

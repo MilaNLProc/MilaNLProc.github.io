@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>SafetyPrompts: a Systematic Review of Open Datasets for Evaluating and Improving Large Language Model Safety </title>
+      <link>https://milanlproc.github.io/publication/2024-safetyprompts/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-safetyprompts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conversations as a Source for Teaching Scientific Concepts at Different Education Levels</title>
       <link>https://milanlproc.github.io/publication/2024-conversations-data/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
@@ -41,22 +49,6 @@
       <link>https://milanlproc.github.io/publication/2023-simplesafetytests/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2023-simplesafetytests/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</title>
-      <link>https://milanlproc.github.io/publication/2023-xstest/</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-xstest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</title>
-      <link>https://milanlproc.github.io/publication/2023-safetyllamas/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-safetyllamas/</guid>
       <description></description>
     </item>
     

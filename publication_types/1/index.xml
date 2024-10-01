@@ -21,10 +21,50 @@
     </item>
     
     <item>
+      <title>Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2024-compromesso/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-compromesso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Answer is C: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models</title>
+      <link>https://milanlproc.github.io/publication/2024-myanswerisc/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-myanswerisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2024-politicalcompass/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-politicalcompass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2024-xstest/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-xstest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DADIT: A Dataset for Demographic Classification of Italian Twitter Users and a Comparison of Prediction Methods</title>
       <link>https://milanlproc.github.io/publication/2024-dadit/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2024-dadit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</title>
+      <link>https://milanlproc.github.io/publication/2024-safetyllamas/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-safetyllamas/</guid>
       <description></description>
     </item>
     
