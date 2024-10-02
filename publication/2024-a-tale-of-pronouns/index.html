@@ -24,10 +24,10 @@
   
     
   
-  <meta name="description" content="Hate speech detection models are typically evaluated on held-out test sets. However, this risks painting an incomplete and potentially misleading picture of model performance because of increasingly well-documented systematic gaps and biases in hate speech datasets. To enable more targeted diagnostic insights, recent research has thus introduced functional tests for hate speech detection models. However, these tests currently only exist for English-language content, which means that they cannot support the development of more effective models in other languages spoken by billions across the world. To help address this issue, we introduce Multilingual HateCheck (MHC), a suite of functional tests for multilingual hate speech detection models. MHC covers 34 functionalities across ten languages, which is more languages than any other hate speech dataset. To illustrate MHC’s utility, we train and test a high-performing multilingual hate speech detection model, and reveal critical model weaknesses for monolingual and cross-lingual applications.">
+  <meta name="description" content="Recent instruction fine-tuned models can solve multiple NLP tasks when prompted to do so, with machine translation (MT) being a prominent use case. However, current research often focuses on standard performance benchmarks, leaving compelling fairness and ethical considerations behind. In MT, this might lead to misgendered translations, resulting, among other harms, in the perpetuation of stereotypes and prejudices. In this work, we address this gap by investigating whether and to what extent such models exhibit gender bias in machine translation and how we can mitigate it. Concretely, we compute established gender bias metrics on the WinoMT corpus from English to German and Spanish. We discover that IFT models default to male-inflected translations, even disregarding female occupational stereotypes. Next, using interpretability methods, we unveil that models systematically overlook the pronoun indicating the gender of a target occupation in misgendered translations. Finally, based on this finding, we propose an easy-to-implement and effective bias mitigation solution based on few-shot learning that leads to significantly fairer translations.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/">
+  <link rel="alternate" hreflang="en-us" href="https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/">
 
   
 
@@ -250,7 +250,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/">
+  <link rel="canonical" href="https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/">
 
   
   
@@ -263,15 +263,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="MilaNLP Lab @ Bocconi University">
-  <meta property="og:url" content="https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/">
-  <meta property="og:title" content="Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models | MilaNLP Lab @ Bocconi University">
-  <meta property="og:description" content="Hate speech detection models are typically evaluated on held-out test sets. However, this risks painting an incomplete and potentially misleading picture of model performance because of increasingly well-documented systematic gaps and biases in hate speech datasets. To enable more targeted diagnostic insights, recent research has thus introduced functional tests for hate speech detection models. However, these tests currently only exist for English-language content, which means that they cannot support the development of more effective models in other languages spoken by billions across the world. To help address this issue, we introduce Multilingual HateCheck (MHC), a suite of functional tests for multilingual hate speech detection models. MHC covers 34 functionalities across ten languages, which is more languages than any other hate speech dataset. To illustrate MHC’s utility, we train and test a high-performing multilingual hate speech detection model, and reveal critical model weaknesses for monolingual and cross-lingual applications."><meta property="og:image" content="https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/featured.png">
-  <meta property="twitter:image" content="https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/">
+  <meta property="og:title" content="A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation | MilaNLP Lab @ Bocconi University">
+  <meta property="og:description" content="Recent instruction fine-tuned models can solve multiple NLP tasks when prompted to do so, with machine translation (MT) being a prominent use case. However, current research often focuses on standard performance benchmarks, leaving compelling fairness and ethical considerations behind. In MT, this might lead to misgendered translations, resulting, among other harms, in the perpetuation of stereotypes and prejudices. In this work, we address this gap by investigating whether and to what extent such models exhibit gender bias in machine translation and how we can mitigate it. Concretely, we compute established gender bias metrics on the WinoMT corpus from English to German and Spanish. We discover that IFT models default to male-inflected translations, even disregarding female occupational stereotypes. Next, using interpretability methods, we unveil that models systematically overlook the pronoun indicating the gender of a target occupation in misgendered translations. Finally, based on this finding, we propose an easy-to-implement and effective bias mitigation solution based on few-shot learning that leads to significantly fairer translations."><meta property="og:image" content="https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/featured.png">
+  <meta property="twitter:image" content="https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2022-07-12T14:48:20&#43;01:00">
+      <meta property="article:published_time" content="2023-04-12T17:19:53&#43;01:00">
     
-    <meta property="article:modified_time" content="2022-07-12T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-12-28T00:00:00&#43;00:00">
   
 
   
@@ -293,20 +293,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/"
+    "@id": "https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/"
   },
-  "headline": "Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models",
+  "headline": "A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation",
   
   "image": [
-    "https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/featured.png"
+    "https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/featured.png"
   ],
   
-  "datePublished": "2022-07-12T14:48:20+01:00",
-  "dateModified": "2022-07-12T00:00:00Z",
+  "datePublished": "2023-04-12T17:19:53+01:00",
+  "dateModified": "2023-12-28T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Paul Röttger"
+    "name": "Giuseppe Attanasio"
   },
   
   "publisher": {
@@ -317,7 +317,7 @@
       "url": "https://milanlproc.github.io/images/icon_hu6882386df64e8ce891f4c814deb69c77_22011_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Hate speech detection models are typically evaluated on held-out test sets. However, this risks painting an incomplete and potentially misleading picture of model performance because of increasingly well-documented systematic gaps and biases in hate speech datasets. To enable more targeted diagnostic insights, recent research has thus introduced functional tests for hate speech detection models. However, these tests currently only exist for English-language content, which means that they cannot support the development of more effective models in other languages spoken by billions across the world. To help address this issue, we introduce Multilingual HateCheck (MHC), a suite of functional tests for multilingual hate speech detection models. MHC covers 34 functionalities across ten languages, which is more languages than any other hate speech dataset. To illustrate MHC’s utility, we train and test a high-performing multilingual hate speech detection model, and reveal critical model weaknesses for monolingual and cross-lingual applications."
+  "description": "Recent instruction fine-tuned models can solve multiple NLP tasks when prompted to do so, with machine translation (MT) being a prominent use case. However, current research often focuses on standard performance benchmarks, leaving compelling fairness and ethical considerations behind. In MT, this might lead to misgendered translations, resulting, among other harms, in the perpetuation of stereotypes and prejudices. In this work, we address this gap by investigating whether and to what extent such models exhibit gender bias in machine translation and how we can mitigate it. Concretely, we compute established gender bias metrics on the WinoMT corpus from English to German and Spanish. We discover that IFT models default to male-inflected translations, even disregarding female occupational stereotypes. Next, using interpretability methods, we unveil that models systematically overlook the pronoun indicating the gender of a target occupation in misgendered translations. Finally, based on this finding, we propose an easy-to-implement and effective bias mitigation solution based on few-shot learning that leads to significantly fairer translations."
 }
 </script>
 
@@ -335,7 +335,7 @@
 
 
 
-  <title>Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models | MilaNLP Lab @ Bocconi University</title>
+  <title>A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation | MilaNLP Lab @ Bocconi University</title>
 
 </head>
 
@@ -653,7 +653,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models</h1>
+  <h1>A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation</h1>
 
   
 
@@ -670,7 +670,7 @@
     
 
   
-  <span><a href="/authors/paul-rottger/">Paul Röttger</a></span>, <span><a href="/authors/haitham-seelawi/">Haitham Seelawi</a></span>, <span><a href="/authors/debora-nozza/">Debora Nozza</a></span>, <span><a href="/authors/zeerak-talat/">Zeerak Talat</a></span>, <span><a href="/authors/bertie-vidgen/">Bertie Vidgen</a></span>
+  <span><a href="/authors/giuseppe-attanasio/">Giuseppe Attanasio</a></span>, <span><a href="/authors/flor-miriam-plaza-del-arco/">Flor Miriam Plaza-del-Arco</a></span>, <span><a href="/authors/debora-nozza/">Debora Nozza</a></span>, <span><a href="/authors/anne-lauscher/">Anne Lauscher</a></span>
   </div>
   
   
@@ -681,7 +681,7 @@
     
       
     
-    July 2022
+    December 2023
   </span>
   
 
@@ -731,28 +731,30 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://aclanthology.org/2022.woah-1.15.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://aclanthology.org/2023.emnlp-main.243.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/cite.bib">
+        data-filename="/publication/2024-a-tale-of-pronouns/cite.bib">
   Cite
 </button>
 
 
-  
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/rewire-online/multilingual-hatecheck" target="_blank" rel="noopener">
-  Code
-</a>
 
-
-
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/integrator/">
+    Project
+  </a>
+  
 
 
 
@@ -770,10 +772,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 506px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 606px;">
   <div style="position: relative">
-    <img src="/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/featured_hu6c10d12cf5544517df95b889b7543116_379400_720x0_resize_lanczos_2.png" alt="" class="featured-image">
-    <span class="article-header-caption">Functional Tests Examples</span>
+    <img src="/publication/2024-a-tale-of-pronouns/featured_hu944d269c33773711a96c1ea87ffed22b_91551_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <span class="article-header-caption">Model translation suffering from occupational gender bias (top); coreferents underlined</span>
   </div>
 </div>
 
@@ -783,7 +785,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Hate speech detection models are typically evaluated on held-out test sets. However, this risks painting an incomplete and potentially misleading picture of model performance because of increasingly well-documented systematic gaps and biases in hate speech datasets. To enable more targeted diagnostic insights, recent research has thus introduced functional tests for hate speech detection models. However, these tests currently only exist for English-language content, which means that they cannot support the development of more effective models in other languages spoken by billions across the world. To help address this issue, we introduce Multilingual HateCheck (MHC), a suite of functional tests for multilingual hate speech detection models. MHC covers 34 functionalities across ten languages, which is more languages than any other hate speech dataset. To illustrate MHC’s utility, we train and test a high-performing multilingual hate speech detection model, and reveal critical model weaknesses for monolingual and cross-lingual applications.</p>
+    <p class="pub-abstract">Recent instruction fine-tuned models can solve multiple NLP tasks when prompted to do so, with machine translation (MT) being a prominent use case. However, current research often focuses on standard performance benchmarks, leaving compelling fairness and ethical considerations behind. In MT, this might lead to misgendered translations, resulting, among other harms, in the perpetuation of stereotypes and prejudices. In this work, we address this gap by investigating whether and to what extent such models exhibit gender bias in machine translation and how we can mitigate it. Concretely, we compute established gender bias metrics on the WinoMT corpus from English to German and Spanish. We discover that IFT models default to male-inflected translations, even disregarding female occupational stereotypes. Next, using interpretability methods, we unveil that models systematically overlook the pronoun indicating the gender of a target occupation in misgendered translations. Finally, based on this finding, we propose an easy-to-implement and effective bias mitigation solution based on few-shot learning that leads to significantly fairer translations.</p>
     
 
     
@@ -813,7 +815,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><a href="https://www.workshopononlineabuse.com/">Sixth Workshop on Online Abuse and Harms (WOAH) at NAACL 2022</a></div>
+          <div class="col-12 col-md-9">EMNLP 2023</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -831,11 +833,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/hate-speech/">Hate Speech</a>
+  <a class="badge badge-light" href="/tags/interpretability/">Interpretability</a>
   
-  <a class="badge badge-light" href="/tags/bert/">BERT</a>
+  <a class="badge badge-light" href="/tags/gender-bias/">Gender Bias</a>
   
-  <a class="badge badge-light" href="/tags/nlp/">NLP</a>
+  <a class="badge badge-light" href="/tags/machine-translation/">Machine Translation</a>
   
 </div>
 
@@ -852,7 +854,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/&amp;text=Multilingual%20HateCheck:%20Functional%20Tests%20for%20Multilingual%20Hate%20Speech%20Detection%20Models" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/&amp;text=A%20Tale%20of%20Pronouns:%20Interpretability%20Informs%20Gender%20Bias%20Mitigation%20for%20Fairer%20Instruction-Tuned%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -865,7 +867,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/&amp;t=Multilingual%20HateCheck:%20Functional%20Tests%20for%20Multilingual%20Hate%20Speech%20Detection%20Models" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/&amp;t=A%20Tale%20of%20Pronouns:%20Interpretability%20Informs%20Gender%20Bias%20Mitigation%20for%20Fairer%20Instruction-Tuned%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -878,7 +880,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Multilingual%20HateCheck:%20Functional%20Tests%20for%20Multilingual%20Hate%20Speech%20Detection%20Models&amp;body=https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=A%20Tale%20of%20Pronouns:%20Interpretability%20Informs%20Gender%20Bias%20Mitigation%20for%20Fairer%20Instruction-Tuned%20Machine%20Translation&amp;body=https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -891,7 +893,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/&amp;title=Multilingual%20HateCheck:%20Functional%20Tests%20for%20Multilingual%20Hate%20Speech%20Detection%20Models" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/&amp;title=A%20Tale%20of%20Pronouns:%20Interpretability%20Informs%20Gender%20Bias%20Mitigation%20for%20Fairer%20Instruction-Tuned%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -904,7 +906,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Multilingual%20HateCheck:%20Functional%20Tests%20for%20Multilingual%20Hate%20Speech%20Detection%20Models%20https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=A%20Tale%20of%20Pronouns:%20Interpretability%20Informs%20Gender%20Bias%20Mitigation%20for%20Fairer%20Instruction-Tuned%20Machine%20Translation%20https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -917,7 +919,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2022-multilingual-hatecheck-hate-speech-functional-tests/&amp;title=Multilingual%20HateCheck:%20Functional%20Tests%20for%20Multilingual%20Hate%20Speech%20Detection%20Models" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://milanlproc.github.io/publication/2024-a-tale-of-pronouns/&amp;title=A%20Tale%20of%20Pronouns:%20Interpretability%20Informs%20Gender%20Bias%20Mitigation%20for%20Fairer%20Instruction-Tuned%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -953,7 +955,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/paul-rottger/"></a></h5>
+      <h5 class="card-title"><a href="/authors/giuseppe-attanasio/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -981,7 +983,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/haitham-seelawi/"></a></h5>
+      <h5 class="card-title"><a href="/authors/flor-miriam-plaza-del-arco/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1037,35 +1039,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/zeerak-talat/"></a></h5>
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-</ul>
-
-    </div>
-  </div>
-
-
-  
-    
-    
-
-
-
-
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/bertie-vidgen/"></a></h5>
+      <h5 class="card-title"><a href="/authors/anne-lauscher/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1093,15 +1067,7 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/2022-hate-speech-detection-italian-social-media/">HATE-ITA: Hate Speech Detection in Italian Social Media Text</a></li>
-      
-      <li><a href="/publication/2022-pipelines-social-bias-testing-language-models/">Pipelines for Social Bias Testing of Large Language Models</a></li>
-      
-      <li><a href="/publication/2022-interpretability-transformer-mysogyny-detection/">Benchmarking Post-Hoc Interpretability Approaches for Transformer-based Misogyny Detection</a></li>
-      
-      <li><a href="/publication/2022-honest-hurtful-language-model-lgbtqia&#43;/">Measuring Harmful Sentence Completion in Language Models for LGBTQIA&#43; Individuals</a></li>
-      
-      <li><a href="/publication/2021-zeroshot-crosslingual-hate-speech/">Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection</a></li>
+      <li><a href="/publication/2024-emotion-gender-stereotypes/">Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution</a></li>
       
     </ul>
   </div>
