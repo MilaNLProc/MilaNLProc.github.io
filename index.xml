@@ -988,6 +988,24 @@ We encourage our guests to try different formats with us such as guided discussi
 Got some research ideas you and you want a sounding board?
 We are very happy to discuss ongoing or upcoming research.&lt;/p&gt;
 &lt;h2 id=&#34;past-guests&#34;&gt;Past Guests&lt;/h2&gt;
+&lt;details&gt;
+  &lt;summary&gt;Test&lt;/summary&gt;
+&lt;h3 id=&#34;heading&#34;&gt;Heading&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Foo&lt;/li&gt;
+&lt;li&gt;Bar
+&lt;ul&gt;
+&lt;li&gt;Baz&lt;/li&gt;
+&lt;li&gt;Qux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;some-javascript&#34;&gt;Some Javascript&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function logSomething(something) {
+  console.log(&#39;Something&#39;, something);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/details&gt;
 &lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
