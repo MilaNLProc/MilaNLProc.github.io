@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Barrón-Cedeño | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/alberto-barron-cedeno/</link>
+      <atom:link href="https://milanlproc.github.io/authors/alberto-barron-cedeno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Barrón-Cedeño</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alberto Barrón-Cedeño</title>
+      <link>https://milanlproc.github.io/authors/alberto-barron-cedeno/</link>
+    </image>
+    
+    <item>
+      <title>Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompts</title>
+      <link>https://milanlproc.github.io/publication/2024-liswo/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-liswo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
