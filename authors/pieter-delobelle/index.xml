@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pieter Delobelle | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/pieter-delobelle/</link>
+      <atom:link href="https://milanlproc.github.io/authors/pieter-delobelle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pieter Delobelle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pieter Delobelle</title>
+      <link>https://milanlproc.github.io/authors/pieter-delobelle/</link>
+    </image>
+    
+    <item>
+      <title>Metrics for What, Metrics for Whom: Assessing Actionability of Bias Evaluation Metrics in NLP</title>
+      <link>https://milanlproc.github.io/publication/2024-bias-metrics-actionability/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-bias-metrics-actionability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

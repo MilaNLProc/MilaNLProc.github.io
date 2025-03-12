@@ -5,12 +5,36 @@
     <link>https://milanlproc.github.io/authors/debora-nozza/</link>
       <atom:link href="https://milanlproc.github.io/authors/debora-nozza/index.xml" rel="self" type="application/rss+xml" />
     <description>Debora Nozza</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 11 Mar 2025 10:41:45 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Debora Nozza</title>
       <link>https://milanlproc.github.io/authors/debora-nozza/</link>
     </image>
+    
+    <item>
+      <title>MilaNLP@Multilingual Counterspeech Generation: Evaluating Translation and Background Knowledge Filtering</title>
+      <link>https://milanlproc.github.io/publication/2024-counterspeech-generation-translation-evaluation/</link>
+      <pubDate>Tue, 11 Mar 2025 10:41:45 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-counterspeech-generation-translation-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MONICA: Monitoring Coverage and Attitudes of Italian Measures in Response to COVID-19</title>
+      <link>https://milanlproc.github.io/publication/2024-monica-italian-covid-dataset/</link>
+      <pubDate>Mon, 10 Mar 2025 18:25:53 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-monica-italian-covid-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metrics for What, Metrics for Whom: Assessing Actionability of Bias Evaluation Metrics in NLP</title>
+      <link>https://milanlproc.github.io/publication/2024-bias-metrics-actionability/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-bias-metrics-actionability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Countering Hateful and Offensive Speech Online - Open Challenges</title>
