@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alkis Koudounas | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/alkis-koudounas/</link>
+      <atom:link href="https://milanlproc.github.io/authors/alkis-koudounas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alkis Koudounas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 11 Mar 2024 13:52:28 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alkis Koudounas</title>
+      <link>https://milanlproc.github.io/authors/alkis-koudounas/</link>
+    </image>
+    
+    <item>
+      <title>Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features</title>
+      <link>https://milanlproc.github.io/publication/2024-explaining-speech-classification-models-word-level-audio-segments-paralinguistic-features/</link>
+      <pubDate>Mon, 11 Mar 2024 13:52:28 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-explaining-speech-classification-models-word-level-audio-segments-paralinguistic-features/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

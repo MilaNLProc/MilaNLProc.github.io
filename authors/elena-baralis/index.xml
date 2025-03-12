@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/elena-baralis/</link>
       <atom:link href="https://milanlproc.github.io/authors/elena-baralis/index.xml" rel="self" type="application/rss+xml" />
     <description>Elena Baralis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 11 Mar 2024 13:52:28 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Elena Baralis</title>
       <link>https://milanlproc.github.io/authors/elena-baralis/</link>
     </image>
+    
+    <item>
+      <title>Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features</title>
+      <link>https://milanlproc.github.io/publication/2024-explaining-speech-classification-models-word-level-audio-segments-paralinguistic-features/</link>
+      <pubDate>Mon, 11 Mar 2024 13:52:28 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-explaining-speech-classification-models-word-level-audio-segments-paralinguistic-features/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists</title>
