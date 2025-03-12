@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 11 Mar 2025 10:41:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 11 Mar 2025 13:55:26 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Twists, Humps, and Pebbles: Multilingual Speech Recognition Models Exhibit Gender Performance Gaps</title>
+      <link>https://milanlproc.github.io/publication/2024-twists-humps-pebbles-multilingual-speech-recognition-models-exhibit-gender-performance-gaps/</link>
+      <pubDate>Tue, 11 Mar 2025 13:55:26 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-twists-humps-pebbles-multilingual-speech-recognition-models-exhibit-gender-performance-gaps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MilaNLP@Multilingual Counterspeech Generation: Evaluating Translation and Background Knowledge Filtering</title>

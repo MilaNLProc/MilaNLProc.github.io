@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/speech/</link>
+      <atom:link href="https://milanlproc.github.io/tags/speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 11 Mar 2025 13:55:26 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>speech</title>
+      <link>https://milanlproc.github.io/tags/speech/</link>
+    </image>
+    
+    <item>
+      <title>Twists, Humps, and Pebbles: Multilingual Speech Recognition Models Exhibit Gender Performance Gaps</title>
+      <link>https://milanlproc.github.io/publication/2024-twists-humps-pebbles-multilingual-speech-recognition-models-exhibit-gender-performance-gaps/</link>
+      <pubDate>Tue, 11 Mar 2025 13:55:26 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-twists-humps-pebbles-multilingual-speech-recognition-models-exhibit-gender-performance-gaps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
