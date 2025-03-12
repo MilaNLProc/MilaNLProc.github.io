@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/h.-andrew-schwartz/</link>
       <atom:link href="https://milanlproc.github.io/authors/h.-andrew-schwartz/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Andrew Schwartz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 11 Aug 2024 14:17:46 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>H. Andrew Schwartz</title>
       <link>https://milanlproc.github.io/authors/h.-andrew-schwartz/</link>
     </image>
+    
+    <item>
+      <title>Comparing Pre-trained Human Language Models: Is it Better with Human Context as Groups, Individual Traits, or Both?</title>
+      <link>https://milanlproc.github.io/publication/2024-comparing-pre-trained-human-language-models-better-human-context-groups-individual-traits-both/</link>
+      <pubDate>Sun, 11 Aug 2024 14:17:46 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-comparing-pre-trained-human-language-models-better-human-context-groups-individual-traits-both/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview</title>

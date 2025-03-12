@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikita Soni | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/nikita-soni/</link>
+      <atom:link href="https://milanlproc.github.io/authors/nikita-soni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikita Soni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 11 Aug 2024 14:17:46 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nikita Soni</title>
+      <link>https://milanlproc.github.io/authors/nikita-soni/</link>
+    </image>
+    
+    <item>
+      <title>Comparing Pre-trained Human Language Models: Is it Better with Human Context as Groups, Individual Traits, or Both?</title>
+      <link>https://milanlproc.github.io/publication/2024-comparing-pre-trained-human-language-models-better-human-context-groups-individual-traits-both/</link>
+      <pubDate>Sun, 11 Aug 2024 14:17:46 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-comparing-pre-trained-human-language-models-better-human-context-groups-individual-traits-both/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
