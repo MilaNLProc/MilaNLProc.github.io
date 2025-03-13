@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication_types/1/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 11 Mar 2025 10:41:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://milanlproc.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs</title>
+      <link>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MilaNLP@Multilingual Counterspeech Generation: Evaluating Translation and Background Knowledge Filtering</title>
