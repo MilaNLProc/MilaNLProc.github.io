@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/publication_types/2/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Impoverished Language Technology: The Lack of (Social) Class in NLP</title>
-      <link>https://milanlproc.github.io/publication/2024-socialclass-survey/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2024-socialclass-survey/</guid>
+      <title>Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs</title>
+      <link>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Subjective isms? On the Danger of Conflating Hate and Offence in Abusive Language Detection</title>
-      <link>https://milanlproc.github.io/publication/2024-isms/</link>
+      <title>Impoverished Language Technology: The Lack of (Social) Class in NLP</title>
+      <link>https://milanlproc.github.io/publication/2024-socialclass-survey/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2024-isms/</guid>
+      <guid>https://milanlproc.github.io/publication/2024-socialclass-survey/</guid>
       <description></description>
     </item>
     
