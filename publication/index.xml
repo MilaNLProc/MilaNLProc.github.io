@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The AI Gap: How Socioeconomic Status Affects Language Technology Interactions</title>
+      <link>https://milanlproc.github.io/publication/2025-ses-survey/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-ses-survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs</title>

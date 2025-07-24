@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/amanda-cercas-curry/</link>
       <atom:link href="https://milanlproc.github.io/authors/amanda-cercas-curry/index.xml" rel="self" type="application/rss+xml" />
     <description>Amanda Cercas Curry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Amanda Cercas Curry</title>
       <link>https://milanlproc.github.io/authors/amanda-cercas-curry/</link>
     </image>
+    
+    <item>
+      <title>The AI Gap: How Socioeconomic Status Affects Language Technology Interactions</title>
+      <link>https://milanlproc.github.io/publication/2025-ses-survey/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-ses-survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Divine LLaMAs: Bias, Stereotypes, Stigmatization, and Emotion Representation of Religion in Large Language Models</title>

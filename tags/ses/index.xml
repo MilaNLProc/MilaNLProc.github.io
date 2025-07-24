@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ses | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/ses/</link>
+      <atom:link href="https://milanlproc.github.io/tags/ses/index.xml" rel="self" type="application/rss+xml" />
+    <description>ses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ses</title>
+      <link>https://milanlproc.github.io/tags/ses/</link>
+    </image>
+    
+    <item>
+      <title>The AI Gap: How Socioeconomic Status Affects Language Technology Interactions</title>
+      <link>https://milanlproc.github.io/publication/2025-ses-survey/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-ses-survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
