@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
       <atom:link href="https://milanlproc.github.io/authors/dirk-hovy/index.xml" rel="self" type="application/rss+xml" />
     <description>Dirk Hovy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 11 Aug 2025 13:47:24 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dirk Hovy</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Narratives at Conflict: Computational Analysis of News Framing in Multilingual Disinformation Campaigns</title>
-      <link>https://milanlproc.github.io/publication/2024-narratives-conflict-computational-analysis-news-framing-multilingual-disinformation-campaigns/</link>
-      <pubDate>Mon, 11 Aug 2025 13:47:24 +0100</pubDate>
-      <guid>https://milanlproc.github.io/publication/2024-narratives-conflict-computational-analysis-news-framing-multilingual-disinformation-campaigns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The AI Gap: How Socioeconomic Status Affects Language Technology Interactions</title>
       <link>https://milanlproc.github.io/publication/2025-ses-survey/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-ses-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socially Aware Language Technologies: Perspectives and Practices</title>
+      <link>https://milanlproc.github.io/publication/2025-socially-aware-language-technologies-perspectives-practices/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-socially-aware-language-technologies-perspectives-practices/</guid>
       <description></description>
     </item>
     
@@ -49,6 +49,14 @@
       <link>https://milanlproc.github.io/publication/2024-comparing-pre-trained-human-language-models-better-human-context-groups-individual-traits-both/</link>
       <pubDate>Sun, 11 Aug 2024 14:17:46 +0100</pubDate>
       <guid>https://milanlproc.github.io/publication/2024-comparing-pre-trained-human-language-models-better-human-context-groups-individual-traits-both/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narratives at Conflict: Computational Analysis of News Framing in Multilingual Disinformation Campaigns</title>
+      <link>https://milanlproc.github.io/publication/2024-narratives-conflict-computational-analysis-news-framing-multilingual-disinformation-campaigns/</link>
+      <pubDate>Sun, 11 Aug 2024 13:47:24 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-narratives-conflict-computational-analysis-news-framing-multilingual-disinformation-campaigns/</guid>
       <description></description>
     </item>
     
