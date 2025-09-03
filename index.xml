@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 11 Aug 2025 13:47:24 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Narratives at Conflict: Computational Analysis of News Framing in Multilingual Disinformation Campaigns</title>
+      <link>https://milanlproc.github.io/publication/2024-narratives-conflict-computational-analysis-news-framing-multilingual-disinformation-campaigns/</link>
+      <pubDate>Mon, 11 Aug 2025 13:47:24 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-narratives-conflict-computational-analysis-news-framing-multilingual-disinformation-campaigns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The AI Gap: How Socioeconomic Status Affects Language Technology Interactions</title>
@@ -1380,34 +1388,89 @@ Enjoy!&lt;/p&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2411.05527&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How Good is your Wikipedia?&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Mar-20&lt;/td&gt;
-&lt;td&gt;Serena&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mar-27&lt;/td&gt;
-&lt;td&gt;Carolin&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Apr-3&lt;/td&gt;
-&lt;td&gt;Albert&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Apr-10&lt;/td&gt;
-&lt;td&gt;Donya&lt;/td&gt;
+&lt;td&gt;Sep-4&lt;/td&gt;
+&lt;td&gt;Paul&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;https://arxiv.org/pdf/2501.02074&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Comprehensive Framework to Operationalize Social Stereotypes for Responsible AI Evaluations&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2507.13919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Levers of Political Persuasion with Conversational AI&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Apr-17&lt;/td&gt;
+&lt;td&gt;Sep-11&lt;/td&gt;
+&lt;td&gt;Debora&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sep-18&lt;/td&gt;
+&lt;td&gt;Elisa&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sep-25&lt;/td&gt;
+&lt;td&gt;Donya&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oct-2&lt;/td&gt;
+&lt;td&gt;CANCELLED FOR ARR DEADLINE&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oct-9&lt;/td&gt;
 &lt;td&gt;Arianna&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Apr-24&lt;/td&gt;
+&lt;td&gt;Oct-16&lt;/td&gt;
+&lt;td&gt;Joe&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oct-23&lt;/td&gt;
 &lt;td&gt;Dirk&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oct-30&lt;/td&gt;
+&lt;td&gt;Emanuele&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov-6&lt;/td&gt;
+&lt;td&gt;CANCELLED FOR EMNLP&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov-13&lt;/td&gt;
+&lt;td&gt;Anne&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov-20&lt;/td&gt;
+&lt;td&gt;Tanise&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov-27&lt;/td&gt;
+&lt;td&gt;Yujie&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dec-4&lt;/td&gt;
+&lt;td&gt;Pranav&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dec-11&lt;/td&gt;
+&lt;td&gt;Carolin&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dec-18&lt;/td&gt;
+&lt;td&gt;Serena&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dec-25&lt;/td&gt;
+&lt;td&gt;holiday	CANCELLED FOR Holiday&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
