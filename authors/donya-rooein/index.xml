@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/donya-rooein/</link>
       <atom:link href="https://milanlproc.github.io/authors/donya-rooein/index.xml" rel="self" type="application/rss+xml" />
     <description>Donya Rooein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Donya Rooein</title>
       <link>https://milanlproc.github.io/authors/donya-rooein/</link>
     </image>
+    
+    <item>
+      <title>Educators&#39; Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting</title>
+      <link>https://milanlproc.github.io/publication/2025-educators-perceptions-large-language-models-tutors-comparing-human-ai-tutors-blind-text-only-setting/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-educators-perceptions-large-language-models-tutors-comparing-human-ai-tutors-blind-text-only-setting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts</title>
