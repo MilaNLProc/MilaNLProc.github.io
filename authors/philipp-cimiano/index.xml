@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/philipp-cimiano/</link>
       <atom:link href="https://milanlproc.github.io/authors/philipp-cimiano/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Cimiano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Philipp Cimiano</title>
       <link>https://milanlproc.github.io/authors/philipp-cimiano/</link>
     </image>
+    
+    <item>
+      <title>Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals&#39; Subjective Text Perceptions</title>
+      <link>https://milanlproc.github.io/publication/2025-beyond-demographics-fine-tuning-large-language-models-predict-individuals-subjective-text-perceptions/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0100</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-beyond-demographics-fine-tuning-large-language-models-predict-individuals-subjective-text-perceptions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Ecological Fallacy in Annotation: Modeling Human Label Variation goes beyond Sociodemographics</title>
