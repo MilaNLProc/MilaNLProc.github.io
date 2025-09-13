@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/musashi-hinck/</link>
       <atom:link href="https://milanlproc.github.io/authors/musashi-hinck/index.xml" rel="self" type="application/rss+xml" />
     <description>Musashi Hinck</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Musashi Hinck</title>
       <link>https://milanlproc.github.io/authors/musashi-hinck/</link>
     </image>
+    
+    <item>
+      <title>IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance</title>
+      <link>https://milanlproc.github.io/publication/2025-issuebench/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-issuebench/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models</title>

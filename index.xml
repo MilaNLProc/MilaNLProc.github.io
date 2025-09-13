@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance</title>
+      <link>https://milanlproc.github.io/publication/2025-issuebench/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-issuebench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Large Language Models for Education Reliable for All Languages?</title>
+      <link>https://milanlproc.github.io/publication/2025-reliable-llms-education/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-reliable-llms-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Gender Bias in Language Models in Farsi?</title>
+      <link>https://milanlproc.github.io/publication/2025-gender-bias-farsi/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-gender-bias-farsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The AI Gap: How Socioeconomic Status Affects Language Technology Interactions</title>
       <link>https://milanlproc.github.io/publication/2025-ses-survey/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-ses-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2025-hateday/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-hateday/</guid>
       <description></description>
     </item>
     
@@ -41,6 +73,14 @@
       <link>https://milanlproc.github.io/publication/2025-socially-aware-language-technologies-perspectives-practices/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-socially-aware-language-technologies-perspectives-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models Capabilities on Iranian Social Norm Classification</title>
+      <link>https://milanlproc.github.io/publication/2025-iranian-social-norm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-iranian-social-norm/</guid>
       <description></description>
     </item>
     
@@ -73,6 +113,30 @@
       <link>https://milanlproc.github.io/publication/2024-monica-italian-covid-dataset/</link>
       <pubDate>Mon, 10 Mar 2025 18:25:53 +0100</pubDate>
       <guid>https://milanlproc.github.io/publication/2024-monica-italian-covid-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Around the World in 24 Hours: Probing LLM Knowledge of Time and Place</title>
+      <link>https://milanlproc.github.io/publication/2025-geotemp/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-geotemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling language model size yields diminishing returns for single-message political persuasion</title>
+      <link>https://milanlproc.github.io/publication/2025-scaling-persuasion/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-scaling-persuasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</title>
+      <link>https://milanlproc.github.io/publication/2025-llm-survey-simulation/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-llm-survey-simulation/</guid>
       <description></description>
     </item>
     
@@ -1131,7 +1195,7 @@ Talks are mostly virtual, and sometimes in person.
 We encourage our guests to try different formats with us such as guided discussions, hands-on activities, debates or just a nice academic chat.
 Got some research ideas and you want a sounding board?
 We are very happy to discuss ongoing or upcoming research.&lt;/p&gt;
-&lt;h2 id=&#34;past-guests&#34;&gt;Past Guests&lt;/h2&gt;
+&lt;h2 id=&#34;past-speakers&#34;&gt;Past Speakers&lt;/h2&gt;
 &lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1164,6 +1228,24 @@ We are very happy to discuss ongoing or upcoming research.&lt;/p&gt;
 &lt;a href=&#34;https://www.joonsungpark.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joon Sung Park&lt;/a&gt;: &amp;ldquo;Generative Agent Simulations of Human Behavior&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://manueltonneau.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manuel Tonneau&lt;/a&gt;: &amp;ldquo;HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://yongzx.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yong Zheng-Xin&lt;/a&gt;: &amp;ldquo;Crosslingual and Safety Generalization of Reasoning Finetuning&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://deeliu97.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diyi Liu&lt;/a&gt;: &amp;ldquo;Perceived Legitimacy in Borderline Content Moderation: The Impact of Moderation Source, Procedural Contestability, and Outcome Alignment&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://zhijing-jin.com/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhijing Jin&lt;/a&gt;: &amp;ldquo;Testing Moral Reasoning in Large Language Models: Trolley Problem, Political Bias, and Beyond&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://shehzaadzd.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shehzaad Dhuliawala&lt;/a&gt;: &amp;ldquo;Learning to Adapt and Align with Feedback&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.unibo.it/sitoweb/federico.ruggeri6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federico Ruggeri&lt;/a&gt;: &amp;ldquo;The Importance of Integrating and Extracting Textual Knowledge in Hate Speech&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pietrolesci.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pietro Lesci&lt;/a&gt;: &amp;ldquo;The Hidden Cost of a Split: Tokenisation Bias in Language Models&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://miriamschirmer.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miriam Schirmer&lt;/a&gt;: &amp;ldquo;Measuring and Reducing the Psychological Impact of Online Harm&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://tpimentelms.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tiago Pimentel&lt;/a&gt;: &amp;ldquo;How Much Does Tokenisation Impact Language Models?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://suyashfulay.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Suyash Fulay&lt;/a&gt;: &amp;ldquo;Truth, Political Bias, and AI Representation&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
 &lt;details&gt;
@@ -1405,11 +1487,6 @@ Enjoy!&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Sep-11&lt;/td&gt;
-&lt;td&gt;Debora&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Sep-18&lt;/td&gt;
 &lt;td&gt;Elisa&lt;/td&gt;

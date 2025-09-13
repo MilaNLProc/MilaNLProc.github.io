@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helen Margetts | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/helen-margetts/</link>
+      <atom:link href="https://milanlproc.github.io/authors/helen-margetts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Helen Margetts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Helen Margetts</title>
+      <link>https://milanlproc.github.io/authors/helen-margetts/</link>
+    </image>
+    
+    <item>
+      <title>Scaling language model size yields diminishing returns for single-message political persuasion</title>
+      <link>https://milanlproc.github.io/publication/2025-scaling-persuasion/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-scaling-persuasion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

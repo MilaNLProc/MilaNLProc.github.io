@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/authors/scott-a.-hale/</link>
       <atom:link href="https://milanlproc.github.io/authors/scott-a.-hale/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott A. Hale</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Scott A. Hale</title>
       <link>https://milanlproc.github.io/authors/scott-a.-hale/</link>
     </image>
+    
+    <item>
+      <title>HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2025-hateday/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-hateday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling language model size yields diminishing returns for single-message political persuasion</title>
+      <link>https://milanlproc.github.io/publication/2025-scaling-persuasion/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-scaling-persuasion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models</title>

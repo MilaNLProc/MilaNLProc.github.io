@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/authors/debora-nozza/</link>
       <atom:link href="https://milanlproc.github.io/authors/debora-nozza/index.xml" rel="self" type="application/rss+xml" />
     <description>Debora Nozza</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 11 Mar 2025 10:41:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Debora Nozza</title>
       <link>https://milanlproc.github.io/authors/debora-nozza/</link>
     </image>
+    
+    <item>
+      <title>Measuring Gender Bias in Language Models in Farsi?</title>
+      <link>https://milanlproc.github.io/publication/2025-gender-bias-farsi/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-gender-bias-farsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models Capabilities on Iranian Social Norm Classification</title>
+      <link>https://milanlproc.github.io/publication/2025-iranian-social-norm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-iranian-social-norm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MilaNLP@Multilingual Counterspeech Generation: Evaluating Translation and Background Knowledge Filtering</title>

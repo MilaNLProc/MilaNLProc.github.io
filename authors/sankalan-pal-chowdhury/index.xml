@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/sankalan-pal-chowdhury/</link>
       <atom:link href="https://milanlproc.github.io/authors/sankalan-pal-chowdhury/index.xml" rel="self" type="application/rss+xml" />
     <description>Sankalan Pal Chowdhury</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sankalan Pal Chowdhury</title>
       <link>https://milanlproc.github.io/authors/sankalan-pal-chowdhury/</link>
     </image>
+    
+    <item>
+      <title>Are Large Language Models for Education Reliable for All Languages?</title>
+      <link>https://milanlproc.github.io/publication/2025-reliable-llms-education/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-reliable-llms-education/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Educators&#39; Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting</title>

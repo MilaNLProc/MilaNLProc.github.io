@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/authors/paul-rottger/</link>
       <atom:link href="https://milanlproc.github.io/authors/paul-rottger/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Röttger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Paul Röttger</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance</title>
+      <link>https://milanlproc.github.io/publication/2025-issuebench/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-issuebench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2025-hateday/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-hateday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals&#39; Subjective Text Perceptions</title>
       <link>https://milanlproc.github.io/publication/2025-beyond-demographics-fine-tuning-large-language-models-predict-individuals-subjective-text-perceptions/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0100</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-beyond-demographics-fine-tuning-large-language-models-predict-individuals-subjective-text-perceptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Around the World in 24 Hours: Probing LLM Knowledge of Time and Place</title>
+      <link>https://milanlproc.github.io/publication/2025-geotemp/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-geotemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling language model size yields diminishing returns for single-message political persuasion</title>
+      <link>https://milanlproc.github.io/publication/2025-scaling-persuasion/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-scaling-persuasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</title>
+      <link>https://milanlproc.github.io/publication/2025-llm-survey-simulation/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-llm-survey-simulation/</guid>
       <description></description>
     </item>
     

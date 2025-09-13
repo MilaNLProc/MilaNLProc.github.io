@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/publication_types/1/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Are Large Language Models for Education Reliable for All Languages?</title>
+      <link>https://milanlproc.github.io/publication/2025-reliable-llms-education/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-reliable-llms-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Gender Bias in Language Models in Farsi?</title>
+      <link>https://milanlproc.github.io/publication/2025-gender-bias-farsi/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-gender-bias-farsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The AI Gap: How Socioeconomic Status Affects Language Technology Interactions</title>
       <link>https://milanlproc.github.io/publication/2025-ses-survey/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-ses-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2025-hateday/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-hateday/</guid>
       <description></description>
     </item>
     
@@ -33,6 +57,14 @@
       <link>https://milanlproc.github.io/publication/2025-educators-perceptions-large-language-models-tutors-comparing-human-ai-tutors-blind-text-only-setting/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0100</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-educators-perceptions-large-language-models-tutors-comparing-human-ai-tutors-blind-text-only-setting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models Capabilities on Iranian Social Norm Classification</title>
+      <link>https://milanlproc.github.io/publication/2025-iranian-social-norm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-iranian-social-norm/</guid>
       <description></description>
     </item>
     
@@ -57,6 +89,22 @@
       <link>https://milanlproc.github.io/publication/2024-monica-italian-covid-dataset/</link>
       <pubDate>Mon, 10 Mar 2025 18:25:53 +0100</pubDate>
       <guid>https://milanlproc.github.io/publication/2024-monica-italian-covid-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Around the World in 24 Hours: Probing LLM Knowledge of Time and Place</title>
+      <link>https://milanlproc.github.io/publication/2025-geotemp/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-geotemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</title>
+      <link>https://milanlproc.github.io/publication/2025-llm-survey-simulation/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-llm-survey-simulation/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/diyi-liu/</link>
       <atom:link href="https://milanlproc.github.io/authors/diyi-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Diyi Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Diyi Liu</title>
       <link>https://milanlproc.github.io/authors/diyi-liu/</link>
     </image>
+    
+    <item>
+      <title>HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2025-hateday/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-hateday/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Languages to Geographies: Towards Evaluating Cultural Bias in Hate Speech Datasets</title>

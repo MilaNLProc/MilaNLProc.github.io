@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niyati Malhotra | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/niyati-malhotra/</link>
+      <atom:link href="https://milanlproc.github.io/authors/niyati-malhotra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Niyati Malhotra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Niyati Malhotra</title>
+      <link>https://milanlproc.github.io/authors/niyati-malhotra/</link>
+    </image>
+    
+    <item>
+      <title>HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2025-hateday/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-hateday/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/culture/</link>
       <atom:link href="https://milanlproc.github.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     <description>culture</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>culture</title>
       <link>https://milanlproc.github.io/tags/culture/</link>
     </image>
+    
+    <item>
+      <title>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models Capabilities on Iranian Social Norm Classification</title>
+      <link>https://milanlproc.github.io/publication/2025-iranian-social-norm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-iranian-social-norm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)</title>
