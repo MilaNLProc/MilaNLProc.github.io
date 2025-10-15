@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mrinmaya Sachan | MilaNLP Lab @ Bocconi University</title>
+    <title> Mrinmaya Sachan | MilaNLP Lab @ Bocconi University</title>
     <link>https://milanlproc.github.io/authors/mrinmaya-sachan/</link>
       <atom:link href="https://milanlproc.github.io/authors/mrinmaya-sachan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mrinmaya Sachan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <description> Mrinmaya Sachan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Mrinmaya Sachan</title>
+      <title> Mrinmaya Sachan</title>
       <link>https://milanlproc.github.io/authors/mrinmaya-sachan/</link>
     </image>
+    
+    <item>
+      <title>Co-DETECT: Collaborative Discovery of Edge Cases in Text Classification?</title>
+      <link>https://milanlproc.github.io/publication/2025-co-detect/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-co-detect/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Are Large Language Models for Education Reliable for All Languages?</title>

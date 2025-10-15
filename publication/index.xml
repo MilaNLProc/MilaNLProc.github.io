@@ -5,12 +5,36 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Leveraging Media Frames to Improve Normative Diversity in News Recommendations</title>
+      <link>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-DETECT: Collaborative Discovery of Edge Cases in Text Classification?</title>
+      <link>https://milanlproc.github.io/publication/2025-co-detect/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-co-detect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased Tales: Cultural and Topic Bias in Generating Children’s Stories?</title>
+      <link>https://milanlproc.github.io/publication/2025-biased-tales/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-biased-tales/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance</title>
@@ -85,18 +109,18 @@
     </item>
     
     <item>
-      <title>Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs</title>
-      <link>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</link>
+      <title>Toeing the Party Line: Election Manifestos as a Key to Understand Political Discourse on Twitter</title>
+      <link>https://milanlproc.github.io/publication/2024-toeing-the-party-line/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</guid>
+      <guid>https://milanlproc.github.io/publication/2024-toeing-the-party-line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toeing the Party Line: Election Manifestos as a Key to Understand Political Discourse on Twitter</title>
-      <link>https://milanlproc.github.io/publication/2024-toeing-the-party-line/</link>
+      <link>https://milanlproc.github.io/publication/2025-leveraging-media-frames/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2024-toeing-the-party-line/</guid>
+      <guid>https://milanlproc.github.io/publication/2025-leveraging-media-frames/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/authors/vilem-zouhar/</link>
       <atom:link href="https://milanlproc.github.io/authors/vilem-zouhar/index.xml" rel="self" type="application/rss+xml" />
     <description>Vilém Zouhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Vilém Zouhar</title>
       <link>https://milanlproc.github.io/authors/vilem-zouhar/</link>
     </image>
+    
+    <item>
+      <title>Co-DETECT: Collaborative Discovery of Edge Cases in Text Classification?</title>
+      <link>https://milanlproc.github.io/publication/2025-co-detect/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-co-detect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased Tales: Cultural and Topic Bias in Generating Children’s Stories?</title>
+      <link>https://milanlproc.github.io/publication/2025-biased-tales/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-biased-tales/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Are Large Language Models for Education Reliable for All Languages?</title>

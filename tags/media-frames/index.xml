@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media frames | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/media-frames/</link>
+      <atom:link href="https://milanlproc.github.io/tags/media-frames/index.xml" rel="self" type="application/rss+xml" />
+    <description>media frames</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>media frames</title>
+      <link>https://milanlproc.github.io/tags/media-frames/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Media Frames to Improve Normative Diversity in News Recommendations</title>
+      <link>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,16 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://milanlproc.github.io/publication_types/1/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/agnese-daffara/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/diversity/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/media-frames/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/news-recommenders/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication_types/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/sourabh-dattawad/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/tanise-ceron/</loc>
+    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/mrinmaya-sachan/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/alexander-hoyle/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/chenfei-xiong/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/co-detect/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2025-co-detect/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/donya-rooein/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/edge-cases/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/elliott-ash/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/jingwei-ni/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/llms/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/lorena-calvo-bartolome/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/markus-leippold/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/mennatallah-el-assady/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/text-classification/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/vilem-zouhar/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/yu-fan/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/zhijing-jin/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/publication/2025-biased-tales/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/children/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/cultural-bias/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/authors/debora-nozza/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/story-generation/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/publication_types/2/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/ai-alignment/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/dirk-hovy/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/faeze-brahman/</loc>
@@ -26,9 +128,6 @@
     <loc>https://milanlproc.github.io/tags/large-language-models/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/musashi-hinck/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,31 +137,13 @@
     <loc>https://milanlproc.github.io/authors/paul-rottger/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/publication_types/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/valentin-hofmann/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/valentina-pyatkin/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/publication_types/1/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/publication/2025-reliable-llms-education/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/debora-nozza/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/donya-rooein/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/education/</loc>
@@ -77,16 +158,10 @@
     <loc>https://milanlproc.github.io/authors/hamidreza-saffari/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/llms/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/publication/2025-gender-bias-farsi/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/mohammadamin-shafiei/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/mrinmaya-sachan/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/multilingual/</loc>
@@ -99,9 +174,6 @@
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/vansh-gupta/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/vilem-zouhar/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/amanda-cercas-curry/</loc>
@@ -203,31 +275,13 @@
     <loc>https://milanlproc.github.io/tags/social-norm/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/ana-baric/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/authors/dmitry-nikolaev/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/evaluation/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/gabriella-lapesa/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/maximilian-maurer/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/neele-falk/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/party-positions/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/political-bias/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/political-text/</loc>
@@ -236,10 +290,10 @@
     <loc>https://milanlproc.github.io/authors/sebastian-pado/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/authors/tanise-ceron/</loc>
+    <loc>https://milanlproc.github.io/publication/2024-toeing-the-party-line/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/publication/2024-toeing-the-party-line/</loc>
+    <loc>https://milanlproc.github.io/publication/2025-leveraging-media-frames/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/arianna-muti/</loc>
@@ -495,6 +549,9 @@
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2024-compromesso/</loc>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/evaluation/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/frauke-kreuter/</loc>
@@ -1473,9 +1530,6 @@
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/retrofitting/</loc>
-    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/text-classification/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/udo-kruschwitz/</loc>
