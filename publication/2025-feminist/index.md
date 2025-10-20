@@ -47,8 +47,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-socialmedia_post: “Blue-haired, misandriche, rabiata” analyzes how feminist vs feminists
-  are portrayed across 🇬🇧🇮🇹🇸🇪 and platforms (Twitter, Reddit, Incel forums).
+socialmedia_post: “Blue-haired, misandriche, rabiata” by Muti et al. (2025) analyzes how feminists
+  are portrayed across languages and platforms.
 image:
   caption: ''
   focal_point: Center
