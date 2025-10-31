@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Untangling Hate Speech Definitions: A Semantic Componential Analysis Across Cultures and Domains</title>
+      <link>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leveraging Media Frames to Improve Normative Diversity in News Recommendations</title>
