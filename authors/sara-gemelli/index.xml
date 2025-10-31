@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Gemelli | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/sara-gemelli/</link>
+      <atom:link href="https://milanlproc.github.io/authors/sara-gemelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Gemelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sara Gemelli</title>
+      <link>https://milanlproc.github.io/authors/sara-gemelli/</link>
+    </image>
+    
+    <item>
+      <title>Blue-haired, misandriche, rabiata: Tracing the Connotation of ‘Feminist(s)’ Across Time, Languages and Domains</title>
+      <link>https://milanlproc.github.io/publication/2025-feminist/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-feminist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
