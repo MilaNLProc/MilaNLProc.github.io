@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/debora-nozza/</link>
       <atom:link href="https://milanlproc.github.io/authors/debora-nozza/index.xml" rel="self" type="application/rss+xml" />
     <description>Debora Nozza</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Debora Nozza</title>
       <link>https://milanlproc.github.io/authors/debora-nozza/</link>
     </image>
+    
+    <item>
+      <title>Detoxify-IT: An Italian Parallel Dataset for Text Detoxification</title>
+      <link>https://milanlproc.github.io/publication/2025-detoxify/index-2/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-detoxify/index-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biased Tales: Cultural and Topic Bias in Generating Children’s Stories?</title>

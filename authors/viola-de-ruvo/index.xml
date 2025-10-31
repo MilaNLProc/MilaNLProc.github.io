@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viola De Ruvo | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/viola-de-ruvo/</link>
+      <atom:link href="https://milanlproc.github.io/authors/viola-de-ruvo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viola De Ruvo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Viola De Ruvo</title>
+      <link>https://milanlproc.github.io/authors/viola-de-ruvo/</link>
+    </image>
+    
+    <item>
+      <title>Detoxify-IT: An Italian Parallel Dataset for Text Detoxification</title>
+      <link>https://milanlproc.github.io/publication/2025-detoxify/index-2/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-detoxify/index-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
