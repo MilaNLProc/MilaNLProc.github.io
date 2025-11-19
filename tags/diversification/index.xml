@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diversification | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/diversification/</link>
+      <atom:link href="https://milanlproc.github.io/tags/diversification/index.xml" rel="self" type="application/rss+xml" />
+    <description>diversification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>diversification</title>
+      <link>https://milanlproc.github.io/tags/diversification/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Media Frames to Improve Normative Diversity in News Recommendations</title>
+      <link>https://milanlproc.github.io/publication/2025-leveraging-media-frames/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-leveraging-media-frames/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
