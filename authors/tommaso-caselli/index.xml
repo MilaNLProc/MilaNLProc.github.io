@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/tommaso-caselli/</link>
       <atom:link href="https://milanlproc.github.io/authors/tommaso-caselli/index.xml" rel="self" type="application/rss+xml" />
     <description>Tommaso Caselli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tommaso Caselli</title>
       <link>https://milanlproc.github.io/authors/tommaso-caselli/</link>
     </image>
+    
+    <item>
+      <title>The “r” in “woman” stands for rights. Auditing LLMs in Uncovering Social Dynamics in Implicit Misogyny</title>
+      <link>https://milanlproc.github.io/publication/2025-social-dynamics/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-social-dynamics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompts</title>
