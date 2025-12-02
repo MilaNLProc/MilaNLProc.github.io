@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/gavin-abercrombie/</link>
       <atom:link href="https://milanlproc.github.io/authors/gavin-abercrombie/index.xml" rel="self" type="application/rss+xml" />
     <description>Gavin Abercrombie</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Gavin Abercrombie</title>
       <link>https://milanlproc.github.io/authors/gavin-abercrombie/</link>
     </image>
+    
+    <item>
+      <title>Consistency is Key: Disentangling Label Variation in Natural Language Processing with Intra-Annotator Agreement</title>
+      <link>https://milanlproc.github.io/publication/2025-consistency-key-disentangling-label-variation-nlp-intra-annotator-agreement/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-consistency-key-disentangling-label-variation-nlp-intra-annotator-agreement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution</title>

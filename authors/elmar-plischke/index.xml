@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elmar Plischke | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/elmar-plischke/</link>
+      <atom:link href="https://milanlproc.github.io/authors/elmar-plischke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elmar Plischke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Elmar Plischke</title>
+      <link>https://milanlproc.github.io/authors/elmar-plischke/</link>
+    </image>
+    
+    <item>
+      <title>No for Some, Yes for Others: Persona Prompts and Other Sources of False Refusal in Language Models</title>
+      <link>https://milanlproc.github.io/publication/2025-no-for-some-yes-for-others-persona-prompts-and-other-sources-of-false-refusal-in-language-models/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-no-for-some-yes-for-others-persona-prompts-and-other-sources-of-false-refusal-in-language-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
