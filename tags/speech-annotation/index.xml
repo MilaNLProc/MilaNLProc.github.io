@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech annotation | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/speech-annotation/</link>
+      <atom:link href="https://milanlproc.github.io/tags/speech-annotation/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech annotation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>speech annotation</title>
+      <link>https://milanlproc.github.io/tags/speech-annotation/</link>
+    </image>
+    
+    <item>
+      <title>TOLD</title>
+      <link>https://milanlproc.github.io/project/told/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/project/told/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TOLD – Thinking Out Loud: A Speech-Based Data Collection Framework&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Funded by: 
+&lt;a href=&#34;https://tef.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tech Europe Foundation (TEF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recent advances in language modeling show that the quality of training data matters more than its quantity. Yet collecting meaningful and representative language data remains costly and slow because annotation still relies almost entirely on written text. Voice-based feedback offers a powerful alternative: it elicits richer and more natural descriptions, reflects personal experiences and subjective perspectives, and conveys paralinguistic cues such as prosody and timing that written text cannot capture. Despite this potential, voice is still largely underused in annotation.&lt;/p&gt;
+&lt;p&gt;TOLD aims to show that a voice-based annotation paradigm can outperform traditional written feedback in NLP. Speaking rather than typing produces more informative and expressive data, enables faster and more efficient collection, and can lead to models that learn more effectively from the resulting annotations.&lt;/p&gt;
+&lt;p&gt;By shifting data collection from text to voice, TOLD introduces a new way of capturing how people think, react, and interpret information. The project seeks to establish voice as a natural, scalable, and more powerful medium for annotating language data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

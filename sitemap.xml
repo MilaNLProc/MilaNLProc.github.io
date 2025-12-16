@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://milanlproc.github.io/tags/alignment/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/categories/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/computational-social-sciences/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/data-collection/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/interactive-learning/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/large-language-models/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/machine-learning/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/categories/machine-learning/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/natural-language-processing/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/categories/nlp/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/open_positions/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/open_positions/postdoc_position_tef_nlp/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/project/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/project/salmon/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/social-reasoning/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/speech-annotation/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/subjective-nlp/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/project/told/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milanlproc.github.io/tags/voice/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://milanlproc.github.io/publication_types/1/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,9 +86,6 @@
     <loc>https://milanlproc.github.io/tags/implicitness/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/</loc>
-    <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/misogyny/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -39,9 +99,6 @@
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/social-knowledge/</loc>
-    <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2025-social-dynamics/</loc>
@@ -90,9 +147,6 @@
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/authors/jan-philip-wahle/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/large-language-models/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/llms/</loc>
@@ -788,9 +842,6 @@
     <loc>https://milanlproc.github.io/publication/2024-emotion-analysis-survey/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/natural-language-processing/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/authors/alkis-koudounas/</loc>
     <lastmod>2024-03-11T13:52:28+01:00</lastmod>
   </url><url>
@@ -851,9 +902,6 @@
     <loc>https://milanlproc.github.io/tags/trust/</loc>
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/tags/alignment/</loc>
-    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/publication/2023-alignmentparadigms/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -865,12 +913,6 @@
   </url><url>
     <loc>https://milanlproc.github.io/publication/2023-simplesafetytests/</loc>
     <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/open_positions/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/open_positions/visiting_researcher/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/tags/human-feedback/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
@@ -1016,9 +1058,6 @@
     <loc>https://milanlproc.github.io/authors/simone-paolo-ponzetto/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://milanlproc.github.io/categories/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://milanlproc.github.io/tags/demographic/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -1026,12 +1065,6 @@
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/project/indomita/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/categories/nlp/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/project/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/publication/2023-know-your-audience-education/</loc>
@@ -1492,9 +1525,6 @@
   </url><url>
     <loc>https://milanlproc.github.io/publication/2020-bertlang-language-specific-bert/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://milanlproc.github.io/tags/computational-social-sciences/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://milanlproc.github.io/categories/demographic/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>

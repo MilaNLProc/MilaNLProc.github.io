@@ -5,12 +5,102 @@
     <link>https://milanlproc.github.io/</link>
       <atom:link href="https://milanlproc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MilaNLP Lab @ Bocconi University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MilaNLP Lab @ Bocconi University</title>
       <link>https://milanlproc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Postdoctoral Researcher – NLP (2 positions)</title>
+      <link>https://milanlproc.github.io/open_positions/postdoc_position_tef_nlp/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/open_positions/postdoc_position_tef_nlp/</guid>
+      <description>&lt;p&gt;We are seeking two highly motivated and talented individuals to join our MilaNLP research team as Postdoctoral Researchers in the field of Natural Language Processing. The call includes two positions, each associated with a different research project and supervised by a different Principal Investigator.&lt;/p&gt;
+&lt;div style=&#34;display:flex; gap:20px; flex-wrap:wrap;&#34;&gt;
+&lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#fff4ec;&#34;&gt;
+&lt;h3&gt;
+  🐟 SALMON
+&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;Social Awareness for better Large Language Model Learning&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;PI: Prof. Dirk Hovy&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;
+    Developing socially aware LLMs that can interpret social cues and cultural norms 
+    through interactive training environments.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#eef5ff;&#34;&gt;
+  &lt;h3&gt;🎤 TOLD&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;Thinking Out Loud: A Speech-Based Data Collection Framework&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;PI: Prof. Debora Nozza&lt;/strong&gt; &lt;em&gt;(with Dr. Giuseppe Attanasio)&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;
+    Introducing speech-based annotation to produce richer, subjective, and expressive 
+    data for next-generation NLP models.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;position-details&#34;&gt;Position Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Number of positions:&lt;/strong&gt; 2 (one on each project)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2 years (renewable)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Earliest starting date:&lt;/strong&gt; March 1st, 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; €55,500 gross/year (13 monthly installments)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Additional research budget:&lt;/strong&gt; €2,000/year&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching requirements:&lt;/strong&gt; None (optional up to 48 hours/semester)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Tech Europe Foundation (TEF)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;your-profile&#34;&gt;Your Profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD in Computer Science, NLP/Computational Linguistics, Machine Learning, Data Science, or related fields&lt;/li&gt;
+&lt;li&gt;Strong programming skills in Python&lt;/li&gt;
+&lt;li&gt;Experience with neural network models (e.g., PyTorch)&lt;/li&gt;
+&lt;li&gt;Solid publication record in NLP/CL or related areas&lt;/li&gt;
+&lt;li&gt;Fluency in English (Italian not required)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;Applications must be submitted through the Bocconi University online platform:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jobmarket.unibocconi.eu/?id=889&#34;&gt;https://jobmarket.unibocconi.eu/?id=889&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Deadline: January 31st, 2026 – 23:59 (Italian time)&lt;/p&gt;
+&lt;p&gt;Required documents include a CV, publication list (or thesis link), up to ten publications, a cover letter, a research statement indicating which project(s) the candidate is applying for, and up to two academic referees.&lt;/p&gt;
+&lt;p&gt;For technical issues with the upload system, please contact: &lt;a href=&#34;mailto:faculty@unibocconi.it&#34;&gt;faculty@unibocconi.it&lt;/a&gt;&lt;br&gt;
+For scientific questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SALMON: &lt;a href=&#34;mailto:dirk.hovy@unibocconi.it&#34;&gt;dirk.hovy@unibocconi.it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TOLD: &lt;a href=&#34;mailto:debora.nozza@unibocconi.it&#34;&gt;debora.nozza@unibocconi.it&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SALMON</title>
+      <link>https://milanlproc.github.io/project/salmon/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/project/salmon/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;SALMON – Social Awareness for better Large Language Model Learning&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Funded by: 
+&lt;a href=&#34;https://tef.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tech Europe Foundation (TEF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite consuming massive amounts of textual data, current large language models (LLMs) still struggle with tasks that require social awareness, such as understanding moral values and making decisions in sensitive situations. As a result, models are ill-aligned with human values and lack actionable social knowledge (i.e., &amp;ldquo;reading the room&amp;rdquo;). This gap is critical, as LLMs are increasingly used in sensitive areas, such as intercultural business negotiations, educational applications, and mental health support, that require social awareness.&lt;/p&gt;
+&lt;p&gt;However, it is impossible to learn true social awareness through passive consumption of text. Current training approaches do not explicitly address critical social elements or explicitly represent social awareness as an objective, but approximate its effects through post-hoc instruction fine-tuning. Continuing a text-only training paradigm and hoping that social awareness will somehow emerge limits performance, potentially harming users by catastrophically misreading situations. Instead, models need to acquire social awareness as an integral part of their pre-training to match the areas they are already expected to cover. To develop genuine social understanding&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TOLD</title>
+      <link>https://milanlproc.github.io/project/told/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/project/told/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TOLD – Thinking Out Loud: A Speech-Based Data Collection Framework&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Funded by: 
+&lt;a href=&#34;https://tef.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tech Europe Foundation (TEF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Recent advances in language modeling show that the quality of training data matters more than its quantity. Yet collecting meaningful and representative language data remains costly and slow because annotation still relies almost entirely on written text. Voice-based feedback offers a powerful alternative: it elicits richer and more natural descriptions, reflects personal experiences and subjective perspectives, and conveys paralinguistic cues such as prosody and timing that written text cannot capture. Despite this potential, voice is still largely underused in annotation.&lt;/p&gt;
+&lt;p&gt;TOLD aims to show that a voice-based annotation paradigm can outperform traditional written feedback in NLP. Speaking rather than typing produces more informative and expressive data, enables faster and more efficient collection, and can lead to models that learn more effectively from the resulting annotations.&lt;/p&gt;
+&lt;p&gt;By shifting data collection from text to voice, TOLD introduces a new way of capturing how people think, react, and interpret information. The project seeks to establish voice as a natural, scalable, and more powerful medium for annotating language data.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The “r” in “woman” stands for rights. Auditing LLMs in Uncovering Social Dynamics in Implicit Misogyny</title>
@@ -469,20 +559,6 @@
     </item>
     
     <item>
-      <title>Visiting Researcher</title>
-      <link>https://milanlproc.github.io/open_positions/visiting_researcher/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/open_positions/visiting_researcher/</guid>
-      <description>&lt;p&gt;We love hosting talented researchers for research visits at MilaNLP. If you would like to apply for a visit, read on.&lt;/p&gt;
-&lt;p&gt;We have two main visiting periods: between &lt;strong&gt;April and July&lt;/strong&gt;, and between &lt;strong&gt;September and December&lt;/strong&gt;.
-We try to assess all applications for a period together and make a decision with enough time to spare, usually in &lt;strong&gt;January and July&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Most of our visitors are PhD students or postdocs, i.e., people who do not have their own funding. This program is designed to help them come for a visit. If you do have your own funding, please feel free to reach out directly.&lt;/p&gt;
-&lt;p&gt;Due to limited office space, we will only be able to host 1–2 people per period.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NOTE: Due to the overwhelming response, we have already filled all slots for 2024, but will run another round in 2025. Please keep an eye out on social media for the announcement.&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values</title>
       <link>https://milanlproc.github.io/publication/2023-human-feedback-learning-survey/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
@@ -800,7 +876,10 @@ It will generate revolutionary insights of the complex dynamics between online a
       <link>https://milanlproc.github.io/project/mentalism/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/project/mentalism/</guid>
-      <description>&lt;p&gt;Over the last decade, discontent in democracy, mistrust in institutions, and the rise of populist parties have strained European societies. Underlying these tensions are often increasing inequalities in Western countries, which fuel the discontent of individuals. The Covid pandemic further exacerbated these problems, as anti-Covid measures taken by governments differently impacted societal groups.&lt;/p&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;This research project has officially concluded and is no longer active.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Over the last decade, discontent in democracy, mistrust in institutions, and the rise of populist parties have strained European societies. Underlying these tensions are often increasing inequalities in Western countries, which fuel the discontent of individuals. The Covid pandemic further exacerbated these problems, as anti-Covid measures taken by governments differently impacted societal groups.&lt;/p&gt;
 &lt;p&gt;The MENTALISM project, funded by Fondazione Cariplo under grant agreement 2022-1480, combines modern social media analysis with traditional survey data to track inequality across Italy through the lens of the pandemic.&lt;/p&gt;
 &lt;p&gt;Our ground-breaking mixed-methods approach uses machine learning and text analysis to trace online grievances in a vast corpus of social media data. We combine these methods with survey protocols and econometric analysis to validate the findings and provide actionable policy advice. MENTALISM combines the advantages of social media data (high-frequency, individual-level information) with the strength of socio-economic surveys (representativeness). Our novel interdisciplinary approach will critically evaluate the value of social media monitoring for policy feedback. Moreover, it will establish protocols for policymakers to better respond to growing grievances brought on by inequality at various steps in the process.&lt;/p&gt;
 &lt;p&gt;This interdisciplinary project is led by Profs. Carlo Schwarz (economics), and Dirk Hovy (NLP).&lt;/p&gt;
@@ -1107,7 +1186,10 @@ What if I wrote that “winning an ERC Grant, Dirk Hovy got a sick result?”. T
       <link>https://milanlproc.github.io/project/mimac/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/project/mimac/</guid>
-      <description>&lt;p&gt;In this inter-disciplinary project, Dirk Hovy and Tommaso Fornaciari team up with an international team of political scientists (led bt the University of Gothenburg) to develop mixed methods for analyzing political parties’ promises to voters during election campaigns. For democracy to function effectively, political parties must offer clear choices to voters during election campaigns. However, as parties’ communication with voters has become increasingly fragmented and targeted, it is much harder for citizens to keep track of what parties are promising. This threatens the quality of democratic representation. It also challenges established research methods for studying parties’ campaign promises. This project will develop new methods for studying parties’ promises in modern election campaigns. The project will integrate existing qualitative methods in political science and develop new research tools based on NLP. These AI-powered tools will enable researchers to examine parties’ campaign promises in large amounts of text and speech. The resulting research will be of significant benefit to citizens, who will receive greater clarity on the choices that parties are offering. These existing and new methods are highly relevant to research on text and speech in a wide range of social science fields. Until now, progress in this field has been stifled by limited dialogue among the proponents of different qualitative and quantitative methods. The project includes established experts on parties’ campaign promises, new media, qualitative and quantitative methods for analyzing political texts, and machine learning and natural language processing.
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;This research project has officially concluded and is no longer active.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this inter-disciplinary project, Dirk Hovy and Tommaso Fornaciari team up with an international team of political scientists (led bt the University of Gothenburg) to develop mixed methods for analyzing political parties’ promises to voters during election campaigns. For democracy to function effectively, political parties must offer clear choices to voters during election campaigns. However, as parties’ communication with voters has become increasingly fragmented and targeted, it is much harder for citizens to keep track of what parties are promising. This threatens the quality of democratic representation. It also challenges established research methods for studying parties’ campaign promises. This project will develop new methods for studying parties’ promises in modern election campaigns. The project will integrate existing qualitative methods in political science and develop new research tools based on NLP. These AI-powered tools will enable researchers to examine parties’ campaign promises in large amounts of text and speech. The resulting research will be of significant benefit to citizens, who will receive greater clarity on the choices that parties are offering. These existing and new methods are highly relevant to research on text and speech in a wide range of social science fields. Until now, progress in this field has been stifled by limited dialogue among the proponents of different qualitative and quantitative methods. The project includes established experts on parties’ campaign promises, new media, qualitative and quantitative methods for analyzing political texts, and machine learning and natural language processing.
 The project is funded by the Swedish 
 &lt;a href=&#34;https://www.rj.se/en/anslag/2019/mixed-methods-for-analyzing-political-parties-promises-to-voters-during-election-campaigns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riksbankens Jubileumsfond&lt;/a&gt; for 12M SEK.&lt;/p&gt;
 </description>
@@ -1118,7 +1200,10 @@ The project is funded by the Swedish
       <link>https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/</guid>
-      <description>&lt;p&gt;PI: 
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;This research project has officially concluded and is no longer active.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;PI: 
 &lt;a href=&#34;https://milanlproc.github.io/authors/debora_nozza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debora Nozza&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;co-PI: 
 &lt;a href=&#34;https://milanlproc.github.io/authors/1_dirk_hovy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Hovy&lt;/a&gt; and 
@@ -1140,7 +1225,10 @@ MONICA, analizzando una grande mole di dati tramite tecniche di data science, fo
       <link>https://milanlproc.github.io/project/twitterhealth/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/project/twitterhealth/</guid>
-      <description>&lt;p&gt;Echo chambers and online abuse are two significant problems affecting the health of conversations on social media. This interdisciplinary, multi-institutional project (led by George Washington University) helps Twitter tackle these issues by developing metrics and algorithms to measure various uncivil behaviors.
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;This research project has officially concluded and is no longer active.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Echo chambers and online abuse are two significant problems affecting the health of conversations on social media. This interdisciplinary, multi-institutional project (led by George Washington University) helps Twitter tackle these issues by developing metrics and algorithms to measure various uncivil behaviors.
 Given the concerns about growing polarization and the spread of misinformation, our first two metrics, mutual recognition and diversity of perspectives, will help Twitter diagnose issues that arise when users isolate themselves from those who hold differing opinions. Mutual recognition measures whether and to what extent people on opposing sides of an issue acknowledge and engage with rival claims. When recognition occurs, a public sphere is established. When there is no recognition, echo chambers result. Diversity of perspectives measures the range of claims made on the platform, how likely users are to encounter (as opposed to engaging with) divergent and unfamiliar claims, and how polarized the debate is.&lt;/p&gt;
 &lt;p&gt;Our second two metrics, incivility, and intolerance, will help Twitter identify and address abuse and targeted harassment. Incivility measures the presence of anti-normative intensity in conversation, including the use of profanity and vulgarity. However, recognizing that such anti-normative communication sometimes serves justifiable&amp;ndash;and in some cases, even beneficial&amp;ndash;ends, we distinguish this concept from intolerance. Targeted attacks on individuals or groups, particularly when carried out based on gender, sexuality, race, ethnicity, religion, or ability, threaten the fundamental democratic principles of equality and freedom.&lt;/p&gt;
 &lt;p&gt;To classify these measures at scale, we draw upon existing work in various computational fields, notably natural language processing and network analysis, but take this work further in addressing the metrics outlined here. Moreover, beyond merely detecting and measuring mutual recognition, diversity of perspectives, incivility, and intolerance, we propose to study the effects these four phenomena have on users. In doing so, we offer a theoretically and empirically driven approach that will help Twitter diagnose the conversation&amp;rsquo;s relative health on its platform.&lt;/p&gt;

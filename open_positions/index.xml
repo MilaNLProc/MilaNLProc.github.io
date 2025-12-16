@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/open_positions/</link>
       <atom:link href="https://milanlproc.github.io/open_positions/index.xml" rel="self" type="application/rss+xml" />
     <description>Open_positions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2025</copyright><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Open_positions</title>
@@ -13,16 +13,65 @@
     </image>
     
     <item>
-      <title>Visiting Researcher</title>
-      <link>https://milanlproc.github.io/open_positions/visiting_researcher/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/open_positions/visiting_researcher/</guid>
-      <description>&lt;p&gt;We love hosting talented researchers for research visits at MilaNLP. If you would like to apply for a visit, read on.&lt;/p&gt;
-&lt;p&gt;We have two main visiting periods: between &lt;strong&gt;April and July&lt;/strong&gt;, and between &lt;strong&gt;September and December&lt;/strong&gt;.
-We try to assess all applications for a period together and make a decision with enough time to spare, usually in &lt;strong&gt;January and July&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Most of our visitors are PhD students or postdocs, i.e., people who do not have their own funding. This program is designed to help them come for a visit. If you do have your own funding, please feel free to reach out directly.&lt;/p&gt;
-&lt;p&gt;Due to limited office space, we will only be able to host 1–2 people per period.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NOTE: Due to the overwhelming response, we have already filled all slots for 2024, but will run another round in 2025. Please keep an eye out on social media for the announcement.&lt;/strong&gt;&lt;/p&gt;
+      <title>Postdoctoral Researcher – NLP (2 positions)</title>
+      <link>https://milanlproc.github.io/open_positions/postdoc_position_tef_nlp/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/open_positions/postdoc_position_tef_nlp/</guid>
+      <description>&lt;p&gt;We are seeking two highly motivated and talented individuals to join our MilaNLP research team as Postdoctoral Researchers in the field of Natural Language Processing. The call includes two positions, each associated with a different research project and supervised by a different Principal Investigator.&lt;/p&gt;
+&lt;div style=&#34;display:flex; gap:20px; flex-wrap:wrap;&#34;&gt;
+&lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#fff4ec;&#34;&gt;
+&lt;h3&gt;
+  🐟 SALMON
+&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;Social Awareness for better Large Language Model Learning&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;PI: Prof. Dirk Hovy&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;
+    Developing socially aware LLMs that can interpret social cues and cultural norms 
+    through interactive training environments.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#eef5ff;&#34;&gt;
+  &lt;h3&gt;🎤 TOLD&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;Thinking Out Loud: A Speech-Based Data Collection Framework&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;PI: Prof. Debora Nozza&lt;/strong&gt; &lt;em&gt;(with Dr. Giuseppe Attanasio)&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;
+    Introducing speech-based annotation to produce richer, subjective, and expressive 
+    data for next-generation NLP models.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;position-details&#34;&gt;Position Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Number of positions:&lt;/strong&gt; 2 (one on each project)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2 years (renewable)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Earliest starting date:&lt;/strong&gt; March 1st, 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; €55,500 gross/year (13 monthly installments)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Additional research budget:&lt;/strong&gt; €2,000/year&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching requirements:&lt;/strong&gt; None (optional up to 48 hours/semester)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; Tech Europe Foundation (TEF)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;your-profile&#34;&gt;Your Profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD in Computer Science, NLP/Computational Linguistics, Machine Learning, Data Science, or related fields&lt;/li&gt;
+&lt;li&gt;Strong programming skills in Python&lt;/li&gt;
+&lt;li&gt;Experience with neural network models (e.g., PyTorch)&lt;/li&gt;
+&lt;li&gt;Solid publication record in NLP/CL or related areas&lt;/li&gt;
+&lt;li&gt;Fluency in English (Italian not required)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;Applications must be submitted through the Bocconi University online platform:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jobmarket.unibocconi.eu/?id=889&#34;&gt;https://jobmarket.unibocconi.eu/?id=889&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Deadline: January 31st, 2026 – 23:59 (Italian time)&lt;/p&gt;
+&lt;p&gt;Required documents include a CV, publication list (or thesis link), up to ten publications, a cover letter, a research statement indicating which project(s) the candidate is applying for, and up to two academic referees.&lt;/p&gt;
+&lt;p&gt;For technical issues with the upload system, please contact: &lt;a href=&#34;mailto:faculty@unibocconi.it&#34;&gt;faculty@unibocconi.it&lt;/a&gt;&lt;br&gt;
+For scientific questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SALMON: &lt;a href=&#34;mailto:dirk.hovy@unibocconi.it&#34;&gt;dirk.hovy@unibocconi.it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TOLD: &lt;a href=&#34;mailto:debora.nozza@unibocconi.it&#34;&gt;debora.nozza@unibocconi.it&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
