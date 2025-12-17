@@ -19,26 +19,30 @@
       <guid>https://milanlproc.github.io/open_positions/postdoc_position_tef_nlp/</guid>
       <description>&lt;p&gt;We are seeking two highly motivated and talented individuals to join our MilaNLP research team as Postdoctoral Researchers in the field of Natural Language Processing. The call includes two positions, each associated with a different research project and supervised by a different Principal Investigator.&lt;/p&gt;
 &lt;div style=&#34;display:flex; gap:20px; flex-wrap:wrap;&#34;&gt;
-&lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#fff4ec;&#34;&gt;
-&lt;h3&gt;
-  🐟 SALMON
-&lt;/h3&gt;
-  &lt;p&gt;&lt;em&gt;Social Awareness for better Large Language Model Learning&lt;/em&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;PI: Prof. Dirk Hovy&lt;/strong&gt;&lt;/p&gt;
-  &lt;p&gt;
-    Developing socially aware LLMs that can interpret social cues and cultural norms 
-    through interactive training environments.
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#eef5ff;&#34;&gt;
-  &lt;h3&gt;🎤 TOLD&lt;/h3&gt;
-  &lt;p&gt;&lt;em&gt;Thinking Out Loud: A Speech-Based Data Collection Framework&lt;/em&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;PI: Prof. Debora Nozza&lt;/strong&gt; &lt;em&gt;(with Dr. Giuseppe Attanasio)&lt;/em&gt;&lt;/p&gt;
-  &lt;p&gt;
-    Introducing speech-based annotation to produce richer, subjective, and expressive 
-    data for next-generation NLP models.
-  &lt;/p&gt;
-&lt;/div&gt;
+  &lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#fff4ec;&#34;&gt;
+    &lt;h3&gt;🐟 SALMON&lt;/h3&gt;
+    &lt;p&gt;&lt;em&gt;Social Awareness for better Large Language Model Learning&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;PI: Prof. Dirk Hovy&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;
+      Developing socially aware LLMs that can interpret social cues and cultural norms 
+      through interactive training environments.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://milanlproc.github.io/project/salmon/&#34;&gt;Learn more →&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex:1; min-width:280px; padding:1rem; border-radius:10px; background:#eef5ff;&#34;&gt;
+    &lt;h3&gt;🎤 TOLD&lt;/h3&gt;
+    &lt;p&gt;&lt;em&gt;Thinking Out Loud: A Speech-Based Data Collection Framework&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;PI: Prof. Debora Nozza&lt;/strong&gt; &lt;em&gt;(with Dr. Giuseppe Attanasio)&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;
+      Introducing speech-based annotation to produce richer, subjective, and expressive 
+      data for next-generation NLP models.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;a href=&#34;https://milanlproc.github.io/project/told/&#34;&gt;Learn more →&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;position-details&#34;&gt;Position Details&lt;/h2&gt;
@@ -67,7 +71,15 @@
 &lt;div style=&#34;margin:1.5rem 0; padding:0.75rem 1rem; border-radius:8px; background:#fff4ec; font-weight:600;&#34;&gt;
   ⏰ Deadline – January 31st, 2026, 23:59 (Italian time)
 &lt;/div&gt;
-&lt;p&gt;Required documents include a CV, publication list (or thesis link), up to ten publications, a cover letter, a research statement indicating which project(s) the candidate is applying for, and up to two academic referees.&lt;/p&gt;
+&lt;p&gt;Required documents include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a CV&lt;/li&gt;
+&lt;li&gt;publication list (or thesis link)&lt;/li&gt;
+&lt;li&gt;up to ten publications&lt;/li&gt;
+&lt;li&gt;a cover letter&lt;/li&gt;
+&lt;li&gt;a research statement indicating which project(s) the candidate is applying for&lt;/li&gt;
+&lt;li&gt;up to two academic referees&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;For technical issues with the upload system, please contact: &lt;a href=&#34;mailto:faculty@unibocconi.it&#34;&gt;faculty@unibocconi.it&lt;/a&gt;&lt;br&gt;
 For scientific questions:&lt;/p&gt;
 &lt;ul&gt;
@@ -98,6 +110,8 @@ For scientific questions:&lt;/p&gt;
       <description>&lt;p&gt;&lt;strong&gt;TOLD – Thinking Out Loud: A Speech-Based Data Collection Framework&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Funded by: 
 &lt;a href=&#34;https://tef.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tech Europe Foundation (TEF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This project is in collaboration with 
+&lt;a href=&#34;https://gattanasio.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Giuseppe Attanasio&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Recent advances in language modeling show that the quality of training data matters more than its quantity. Yet collecting meaningful and representative language data remains costly and slow because annotation still relies almost entirely on written text. Voice-based feedback offers a powerful alternative: it elicits richer and more natural descriptions, reflects personal experiences and subjective perspectives, and conveys paralinguistic cues such as prosody and timing that written text cannot capture. Despite this potential, voice is still largely underused in annotation.&lt;/p&gt;
 &lt;p&gt;TOLD aims to show that a voice-based annotation paradigm can outperform traditional written feedback in NLP. Speaking rather than typing produces more informative and expressive data, enables faster and more efficient collection, and can lead to models that learn more effectively from the resulting annotations.&lt;/p&gt;
 &lt;p&gt;By shifting data collection from text to voice, TOLD introduces a new way of capturing how people think, react, and interpret information. The project seeks to establish voice as a natural, scalable, and more powerful medium for annotating language data.&lt;/p&gt;
