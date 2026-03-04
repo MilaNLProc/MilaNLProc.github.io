@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication_types/1/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://milanlproc.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Generalizability of Media Frames: Corpus creation and analysis across countries</title>
+      <link>https://milanlproc.github.io/publication/2025-media-frames-generalization/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-media-frames-generalization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The “r” in “woman” stands for rights. Auditing LLMs in Uncovering Social Dynamics in Implicit Misogyny</title>
@@ -73,14 +81,6 @@
       <link>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leveraging Media Frames to Improve Normative Diversity in News Recommendations</title>
-      <link>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</link>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2024-beyond-prompt-brittleness-evaluating/</guid>
       <description></description>
     </item>
     
@@ -225,14 +225,6 @@
       <link>https://milanlproc.github.io/publication/2024-liswo/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2024-liswo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalizability of Media Frames: Corpus creation and analysis across countries</title>
-      <link>https://milanlproc.github.io/publication/2025-media-frames-generalization/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-media-frames-generalization/</guid>
       <description></description>
     </item>
     
