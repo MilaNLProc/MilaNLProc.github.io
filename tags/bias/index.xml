@@ -5,20 +5,12 @@
     <link>https://milanlproc.github.io/tags/bias/</link>
       <atom:link href="https://milanlproc.github.io/tags/bias/index.xml" rel="self" type="application/rss+xml" />
     <description>bias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>bias</title>
       <link>https://milanlproc.github.io/tags/bias/</link>
     </image>
-    
-    <item>
-      <title>Probing Feminist Representations: A Study of Bias in LLMs and Word Embeddings</title>
-      <link>https://milanlproc.github.io/publication/clicit-25-feminists/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/clicit-25-feminists/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Metrics for What, Metrics for Whom: Assessing Actionability of Bias Evaluation Metrics in NLP</title>
