@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics in NLP | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/ethics-in-nlp/</link>
+      <atom:link href="https://milanlproc.github.io/tags/ethics-in-nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ethics in NLP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ethics in NLP</title>
+      <link>https://milanlproc.github.io/tags/ethics-in-nlp/</link>
+    </image>
+    
+    <item>
+      <title>The Pluralistic Moral Gap: Understanding Moral Judgment and Value Differences between Humans and Large Language Models</title>
+      <link>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

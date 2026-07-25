@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication_types/5/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>5</title>
       <link>https://milanlproc.github.io/publication_types/5/</link>
     </image>
+    
+    <item>
+      <title>The Proceedings for the 15th Workshop on Computational Approaches to Subjectivity, Sentiment &amp; Social Media Analysis (WASSA 2026)</title>
+      <link>https://milanlproc.github.io/publication/2026-wassa-proceedings/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wassa-proceedings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Text Analysis in Python for Social Scientists – Prediction and Classification</title>

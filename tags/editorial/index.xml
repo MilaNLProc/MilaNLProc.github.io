@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editorial | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/editorial/</link>
+      <atom:link href="https://milanlproc.github.io/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Editorial</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Editorial</title>
+      <link>https://milanlproc.github.io/tags/editorial/</link>
+    </image>
+    
+    <item>
+      <title>The Proceedings for the 15th Workshop on Computational Approaches to Subjectivity, Sentiment &amp; Social Media Analysis (WASSA 2026)</title>
+      <link>https://milanlproc.github.io/publication/2026-wassa-proceedings/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wassa-proceedings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

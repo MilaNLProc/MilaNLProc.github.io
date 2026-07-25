@@ -5,12 +5,28 @@
     <link>https://milanlproc.github.io/publication_types/3/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>3</title>
       <link>https://milanlproc.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Generative AI Practices, Literacy, and Divides: An Empirical Analysis in the Italian Context</title>
+      <link>https://milanlproc.github.io/publication/2025-genai-literacy-divides-italy/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-genai-literacy-divides-italy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
+      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts</title>
