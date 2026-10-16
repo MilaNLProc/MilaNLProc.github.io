@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open_positions | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/open_positions/</link>
+      <atom:link href="https://milanlproc.github.io/open_positions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open_positions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Open_positions</title>
+      <link>https://milanlproc.github.io/open_positions/</link>
+    </image>
+    
+    <item>
+      <title>Postdoctoral Researcher - NLP</title>
+      <link>https://milanlproc.github.io/open_positions/postdoc_erc_nlp/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/open_positions/postdoc_erc_nlp/</guid>
+      <description>&lt;p&gt;PI: 
+&lt;a href=&#34;https://milanlproc.github.io/authors/2_debora_nozza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debora Nozza&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We are seeking a highly motivated and talented individual interested in working on personalized and subjective approaches to Natural Language Processing, with a particular interest in understanding how people use language technologies in everyday life and in the ethical implications of NLP and AI systems.&lt;/p&gt;
+&lt;p&gt;The position offers an exciting opportunity to investigate the computational and algorithmic aspects underlying modern Artificial Intelligence systems, with a specific focus on the personalized and subjective approaches to Natural Language Processing.&lt;/p&gt;
+&lt;p&gt;The successful candidate will work closely with Prof. Debora Nozza and the MilaNLP lab.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Title:&lt;/strong&gt; 
+&lt;a href=&#34;https://www.deboranozza.com/project/personae/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PERSONAE&lt;/a&gt; - Personalized and Subjective approaches to Natural Language Processing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt; November 15th, 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2-years postdoc&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Starting Date:&lt;/strong&gt; To be agreed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching Commitments:&lt;/strong&gt; None required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;your-profile&#34;&gt;Your Profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;a Ph.D. in Computer Science, Computational Linguistics/NLP, Machine Learning, Data Science, or related fields.&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python.&lt;/li&gt;
+&lt;li&gt;Fluency in spoken and written English. Knowledge of Italian is NOT a requirement.&lt;/li&gt;
+&lt;li&gt;Knowledge of current neural network models and implementation tools for neural networks (e.g. PyTorch).&lt;/li&gt;
+&lt;li&gt;Experience with publications in top-tier venues in the field of NLP/Computational Linguistics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;Interested candidates should submit a detailed CV and a cover letter outlining research interests and career goals.&lt;/p&gt;
+&lt;p&gt;To submit your application, please go to the 
+&lt;a href=&#34;https://jobmarket.unibocconi.eu/?id=1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bocconi postdoc job market page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For any questions, please email Debora Nozza at 
+&lt;a href=&#34;mailto:debora.nozza@unibocconi.it&#34;&gt;debora.nozza@unibocconi.it&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
