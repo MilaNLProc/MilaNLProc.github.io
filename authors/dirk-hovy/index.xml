@@ -69,14 +69,6 @@
     </item>
     
     <item>
-      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
-      <link>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</link>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Pluralistic Moral Gap: Understanding Moral Judgment and Value Differences between Humans and Large Language Models</title>
       <link>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
@@ -333,14 +325,6 @@
     </item>
     
     <item>
-      <title>Wisdom of Instruction-Tuned Language Model Crowds: Exploring Model Label Variation</title>
-      <link>https://milanlproc.github.io/publication/2023-label-variation-llms/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-label-variation-llms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MilaNLP at SemEval-2023 Task 10: Ensembling Domain-Adapted and Regularized Pretrained Language Models for Robust Sexism Detection</title>
       <link>https://milanlproc.github.io/publication/2023-milanlp-semeval-2023-task-10-ensembling-domain-adapted-regularized-pretrained-language-models-robust-sexism-detection/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
@@ -377,14 +361,6 @@
       <link>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</title>
-      <link>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</guid>
       <description></description>
     </item>
     

@@ -130,14 +130,6 @@
     </item>
     
     <item>
-      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
-      <link>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</link>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Pluralistic Moral Gap: Understanding Moral Judgment and Value Differences between Humans and Large Language Models</title>
       <link>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
@@ -150,14 +142,6 @@
       <link>https://milanlproc.github.io/publication/2026-wassa-proceedings/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-wassa-proceedings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probing Feminist Representations: A Study of Bias in LLMs and Word Embeddings</title>
-      <link>https://milanlproc.github.io/publication/2025-clic-it/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-clic-it/</guid>
       <description></description>
     </item>
     
@@ -711,14 +695,6 @@
     </item>
     
     <item>
-      <title>Wisdom of Instruction-Tuned Language Model Crowds: Exploring Model Label Variation</title>
-      <link>https://milanlproc.github.io/publication/2023-label-variation-llms/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-label-variation-llms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Multi-dimensional study on Bias in Vision-Language models</title>
       <link>https://milanlproc.github.io/publication/2023-multidimensional-bias-vision-language-models/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
@@ -763,14 +739,6 @@
       <link>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</title>
-      <link>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</guid>
       <description></description>
     </item>
     
