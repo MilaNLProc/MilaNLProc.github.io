@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/tags/ai-safety/</link>
       <atom:link href="https://milanlproc.github.io/tags/ai-safety/index.xml" rel="self" type="application/rss+xml" />
     <description>AI Safety</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>AI Safety</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
+      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent</title>
       <link>https://milanlproc.github.io/publication/2025-principled-personas/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-principled-personas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSTS: A Multimodal Safety Test Suite for Vision-Language Models</title>
+      <link>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</guid>
       <description></description>
     </item>
     

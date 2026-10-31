@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berat Cabuk | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/berat-cabuk/</link>
+      <atom:link href="https://milanlproc.github.io/authors/berat-cabuk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Berat Cabuk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Berat Cabuk</title>
+      <link>https://milanlproc.github.io/authors/berat-cabuk/</link>
+    </image>
+    
+    <item>
+      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
+      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

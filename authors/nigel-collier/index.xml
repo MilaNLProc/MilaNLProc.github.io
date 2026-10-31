@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nigel Collier | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/nigel-collier/</link>
+      <atom:link href="https://milanlproc.github.io/authors/nigel-collier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nigel Collier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nigel Collier</title>
+      <link>https://milanlproc.github.io/authors/nigel-collier/</link>
+    </image>
+    
+    <item>
+      <title>SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors</title>
+      <link>https://milanlproc.github.io/publication/2026-simbench/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-simbench/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

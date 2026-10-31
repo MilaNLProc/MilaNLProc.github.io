@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>evaluation | MilaNLP Lab @ Bocconi University</title>
+    <title>Evaluation | MilaNLP Lab @ Bocconi University</title>
     <link>https://milanlproc.github.io/tags/evaluation/</link>
       <atom:link href="https://milanlproc.github.io/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
-    <description>evaluation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <description>Evaluation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>evaluation</title>
+      <title>Evaluation</title>
       <link>https://milanlproc.github.io/tags/evaluation/</link>
     </image>
+    
+    <item>
+      <title>Responsible Evaluation of AI for Mental Health</title>
+      <link>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Principled Personas: Defining and Measuring the Intended Effects of Persona Prompting on Task Performance</title>
@@ -33,6 +41,14 @@
       <link>https://milanlproc.github.io/publication/2024-myanswerisc/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2024-myanswerisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We Need to Consider Disagreement in Evaluation</title>
+      <link>https://milanlproc.github.io/publication/2021-consider-disagreement-evaluation/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-consider-disagreement-evaluation/</guid>
       <description></description>
     </item>
     

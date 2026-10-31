@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Teaching Strategies | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/teaching-strategies/</link>
+      <atom:link href="https://milanlproc.github.io/tags/teaching-strategies/index.xml" rel="self" type="application/rss+xml" />
+    <description> Teaching Strategies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title> Teaching Strategies</title>
+      <link>https://milanlproc.github.io/tags/teaching-strategies/</link>
+    </image>
+    
+    <item>
+      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
+      <link>https://milanlproc.github.io/publication/2026-pats/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

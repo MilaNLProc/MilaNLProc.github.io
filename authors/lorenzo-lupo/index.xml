@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/lorenzo-lupo/</link>
       <atom:link href="https://milanlproc.github.io/authors/lorenzo-lupo/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Lupo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lorenzo Lupo</title>
       <link>https://milanlproc.github.io/authors/lorenzo-lupo/</link>
     </image>
+    
+    <item>
+      <title>SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors</title>
+      <link>https://milanlproc.github.io/publication/2026-simbench/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-simbench/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DADIT: A Dataset for Demographic Classification of Italian Twitter Users and a Comparison of Prediction Methods</title>

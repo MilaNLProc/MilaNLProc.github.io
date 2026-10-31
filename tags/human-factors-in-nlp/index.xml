@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human factors in NLP | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/tags/human-factors-in-nlp/</link>
+      <atom:link href="https://milanlproc.github.io/tags/human-factors-in-nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>human factors in NLP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>human factors in NLP</title>
+      <link>https://milanlproc.github.io/tags/human-factors-in-nlp/</link>
+    </image>
+    
+    <item>
+      <title>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</title>
+      <link>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,52 @@
     <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
       <atom:link href="https://milanlproc.github.io/authors/dirk-hovy/index.xml" rel="self" type="application/rss+xml" />
     <description>Dirk Hovy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dirk Hovy</title>
       <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
     </image>
+    
+    <item>
+      <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
+      <link>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
+      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsible Evaluation of AI for Mental Health</title>
+      <link>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors</title>
+      <link>https://milanlproc.github.io/publication/2026-simbench/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-simbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Large Language Models Adapt to Language Variation across Socioeconomic Status?</title>
+      <link>https://milanlproc.github.io/publication/2026-language-variation-socioeconomic-status/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-language-variation-socioeconomic-status/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</title>
@@ -37,6 +77,14 @@
     </item>
     
     <item>
+      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
+      <link>https://milanlproc.github.io/publication/2026-pats/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Consistency is Key: Disentangling Label Variation in Natural Language Processing with Intra-Annotator Agreement</title>
       <link>https://milanlproc.github.io/publication/2025-consistency-key-disentangling-label-variation-nlp-intra-annotator-agreement/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
@@ -57,6 +105,14 @@
       <link>https://milanlproc.github.io/publication/2025-trojanstego/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-trojanstego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</title>
+      <link>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</guid>
       <description></description>
     </item>
     
@@ -113,6 +169,14 @@
       <link>https://milanlproc.github.io/publication/2025-socially-aware-language-technologies-perspectives-practices/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-socially-aware-language-technologies-perspectives-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSTS: A Multimodal Safety Test Suite for Vision-Language Models</title>
+      <link>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</guid>
       <description></description>
     </item>
     
@@ -553,6 +617,14 @@
       <link>https://milanlproc.github.io/publication/2021-aclfindings-mimac/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2021-aclfindings-mimac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We Need to Consider Disagreement in Evaluation</title>
+      <link>https://milanlproc.github.io/publication/2021-consider-disagreement-evaluation/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-consider-disagreement-evaluation/</guid>
       <description></description>
     </item>
     

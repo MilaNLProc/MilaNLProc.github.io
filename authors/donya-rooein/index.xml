@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/donya-rooein/</link>
       <atom:link href="https://milanlproc.github.io/authors/donya-rooein/index.xml" rel="self" type="application/rss+xml" />
     <description>Donya Rooein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Donya Rooein</title>
       <link>https://milanlproc.github.io/authors/donya-rooein/</link>
     </image>
+    
+    <item>
+      <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
+      <link>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</title>
@@ -25,6 +33,22 @@
       <link>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
+      <link>https://milanlproc.github.io/publication/2026-pats/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</title>
+      <link>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</guid>
       <description></description>
     </item>
     
@@ -73,6 +97,14 @@
       <link>https://milanlproc.github.io/publication/2025-iranian-social-norm/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-iranian-social-norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSTS: A Multimodal Safety Test Suite for Vision-Language Models</title>
+      <link>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</guid>
       <description></description>
     </item>
     

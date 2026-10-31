@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/publication_types/1/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Responsible Evaluation of AI for Mental Health</title>
+      <link>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors</title>
+      <link>https://milanlproc.github.io/publication/2026-simbench/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-simbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Do Political Opinions Transfer Between Western Languages? An Analysis of Unaligned and Aligned Multilingual LLMs</title>
       <link>https://milanlproc.github.io/publication/2026-political-opinions-multilingual/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-political-opinions-multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Large Language Models Adapt to Language Variation across Socioeconomic Status?</title>
+      <link>https://milanlproc.github.io/publication/2026-language-variation-socioeconomic-status/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-language-variation-socioeconomic-status/</guid>
       <description></description>
     </item>
     
@@ -41,6 +65,22 @@
       <link>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Feminist Representations: A Study of Bias in LLMs and Word Embeddings</title>
+      <link>https://milanlproc.github.io/publication/2025-clic-it/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-clic-it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
+      <link>https://milanlproc.github.io/publication/2026-pats/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pats/</guid>
       <description></description>
     </item>
     
@@ -113,6 +153,14 @@
       <link>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</title>
+      <link>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-reasoning-disagreement/</guid>
       <description></description>
     </item>
     
@@ -745,6 +793,14 @@
       <link>https://milanlproc.github.io/publication/2021-aclfindings-mimac/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2021-aclfindings-mimac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We Need to Consider Disagreement in Evaluation</title>
+      <link>https://milanlproc.github.io/publication/2021-consider-disagreement-evaluation/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2021-consider-disagreement-evaluation/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/chiara-di-bonaventura/</link>
       <atom:link href="https://milanlproc.github.io/authors/chiara-di-bonaventura/index.xml" rel="self" type="application/rss+xml" />
     <description>Chiara Di Bonaventura</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Chiara Di Bonaventura</title>
       <link>https://milanlproc.github.io/authors/chiara-di-bonaventura/</link>
     </image>
+    
+    <item>
+      <title>MSTS: A Multimodal Safety Test Suite for Vision-Language Models</title>
+      <link>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-msts-multimodal-safety-test-suite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>

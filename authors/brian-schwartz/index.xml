@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Schwartz | MilaNLP Lab @ Bocconi University</title>
+    <link>https://milanlproc.github.io/authors/brian-schwartz/</link>
+      <atom:link href="https://milanlproc.github.io/authors/brian-schwartz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Schwartz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Brian Schwartz</title>
+      <link>https://milanlproc.github.io/authors/brian-schwartz/</link>
+    </image>
+    
+    <item>
+      <title>Responsible Evaluation of AI for Mental Health</title>
+      <link>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
