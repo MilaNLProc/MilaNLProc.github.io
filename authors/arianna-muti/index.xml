@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/authors/arianna-muti/</link>
       <atom:link href="https://milanlproc.github.io/authors/arianna-muti/index.xml" rel="self" type="application/rss+xml" />
     <description>Arianna Muti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Arianna Muti</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>ACID: On the Perception of Online Classism</title>
-      <link>https://milanlproc.github.io/publication/2026-acid-online-classism/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-acid-online-classism/</guid>
+      <title>Probing Feminist Representations: A Study of Bias in LLMs and Word Embeddings</title>
+      <link>https://milanlproc.github.io/publication/2025-clic-it/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-clic-it/</guid>
       <description></description>
     </item>
     
@@ -38,9 +38,9 @@
     
     <item>
       <title>Detoxify-IT: An Italian Parallel Dataset for Text Detoxification</title>
-      <link>https://milanlproc.github.io/publication/2025-detoxify/index-2/</link>
+      <link>https://milanlproc.github.io/publication/2025-detoxify/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-detoxify/index-2/</guid>
+      <guid>https://milanlproc.github.io/publication/2025-detoxify/</guid>
       <description></description>
     </item>
     

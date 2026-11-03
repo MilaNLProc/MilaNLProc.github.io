@@ -5,12 +5,36 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
+      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE</title>
+      <link>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
+      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
@@ -21,26 +45,10 @@
     </item>
     
     <item>
-      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
-      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Responsible Evaluation of AI for Mental Health</title>
       <link>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ACID: On the Perception of Online Classism</title>
-      <link>https://milanlproc.github.io/publication/2026-acid-online-classism/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-acid-online-classism/</guid>
       <description></description>
     </item>
     
@@ -85,6 +93,14 @@
     </item>
     
     <item>
+      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
+      <link>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Pluralistic Moral Gap: Understanding Moral Judgment and Value Differences between Humans and Large Language Models</title>
       <link>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
@@ -97,6 +113,14 @@
       <link>https://milanlproc.github.io/publication/2026-wassa-proceedings/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-wassa-proceedings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Feminist Representations: A Study of Bias in LLMs and Word Embeddings</title>
+      <link>https://milanlproc.github.io/publication/2025-clic-it/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-clic-it/</guid>
       <description></description>
     </item>
     
@@ -166,9 +190,9 @@
     
     <item>
       <title>Detoxify-IT: An Italian Parallel Dataset for Text Detoxification</title>
-      <link>https://milanlproc.github.io/publication/2025-detoxify/index-2/</link>
+      <link>https://milanlproc.github.io/publication/2025-detoxify/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-detoxify/index-2/</guid>
+      <guid>https://milanlproc.github.io/publication/2025-detoxify/</guid>
       <description></description>
     </item>
     
@@ -193,14 +217,6 @@
       <link>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
-      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
       <description></description>
     </item>
     
@@ -621,6 +637,14 @@
     </item>
     
     <item>
+      <title>Wisdom of Instruction-Tuned Language Model Crowds: Exploring Model Label Variation</title>
+      <link>https://milanlproc.github.io/publication/2023-label-variation-llms/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-label-variation-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Multi-dimensional study on Bias in Vision-Language models</title>
       <link>https://milanlproc.github.io/publication/2023-multidimensional-bias-vision-language-models/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
@@ -665,6 +689,14 @@
       <link>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</title>
+      <link>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</guid>
       <description></description>
     </item>
     

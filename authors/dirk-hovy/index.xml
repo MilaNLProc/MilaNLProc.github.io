@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
       <atom:link href="https://milanlproc.github.io/authors/dirk-hovy/index.xml" rel="self" type="application/rss+xml" />
     <description>Dirk Hovy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dirk Hovy</title>
       <link>https://milanlproc.github.io/authors/dirk-hovy/</link>
     </image>
+    
+    <item>
+      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
+      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
@@ -21,26 +29,10 @@
     </item>
     
     <item>
-      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
-      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Responsible Evaluation of AI for Mental Health</title>
       <link>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-responsible-evaluation-ai-mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ACID: On the Perception of Online Classism</title>
-      <link>https://milanlproc.github.io/publication/2026-acid-online-classism/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-acid-online-classism/</guid>
       <description></description>
     </item>
     
@@ -65,6 +57,14 @@
       <link>https://milanlproc.github.io/publication/2026-wassa-subjective-tasks-farsi/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-wassa-subjective-tasks-farsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
+      <link>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pats-teaching-strategies/</guid>
       <description></description>
     </item>
     
@@ -325,6 +325,14 @@
     </item>
     
     <item>
+      <title>Wisdom of Instruction-Tuned Language Model Crowds: Exploring Model Label Variation</title>
+      <link>https://milanlproc.github.io/publication/2023-label-variation-llms/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-label-variation-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MilaNLP at SemEval-2023 Task 10: Ensembling Domain-Adapted and Regularized Pretrained Language Models for Robust Sexism Detection</title>
       <link>https://milanlproc.github.io/publication/2023-milanlp-semeval-2023-task-10-ensembling-domain-adapted-regularized-pretrained-language-models-robust-sexism-detection/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
@@ -361,6 +369,14 @@
       <link>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2023-prof-profanity-obfuscation-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What about &#39;&#39;em&#39;&#39;? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns</title>
+      <link>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2023-commercial-machine-translation-fail-neopronouns/</guid>
       <description></description>
     </item>
     
