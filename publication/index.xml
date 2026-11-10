@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/publication/</link>
       <atom:link href="https://milanlproc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://milanlproc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>RAGing Against Misogyny: Improving Implicit Misogyny Explanations</title>
+      <link>https://milanlproc.github.io/publication/2026-raging-against-misogyny/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-raging-against-misogyny/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
@@ -25,6 +33,14 @@
       <link>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Am Multitudes: A Survey and Roadmap for Rethinking Identity in NLP</title>
+      <link>https://milanlproc.github.io/publication/2026-i-am-multitudes/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-i-am-multitudes/</guid>
       <description></description>
     </item>
     
@@ -101,6 +117,14 @@
     </item>
     
     <item>
+      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
+      <link>https://milanlproc.github.io/publication/2026-pats/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-pats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Pluralistic Moral Gap: Understanding Moral Judgment and Value Differences between Humans and Large Language Models</title>
       <link>https://milanlproc.github.io/publication/2026-pluralistic-moral-gap/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
@@ -113,14 +137,6 @@
       <link>https://milanlproc.github.io/publication/2026-wassa-proceedings/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-wassa-proceedings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</title>
-      <link>https://milanlproc.github.io/publication/2026-pats/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-pats/</guid>
       <description></description>
     </item>
     
