@@ -5,7 +5,7 @@
     <link>https://milanlproc.github.io/authors/tanise-ceron/</link>
       <atom:link href="https://milanlproc.github.io/authors/tanise-ceron/index.xml" rel="self" type="application/rss+xml" />
     <description>Tanise Ceron</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tanise Ceron</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
-      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE</title>
-      <link>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
       <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
       <description></description>
     </item>
@@ -49,6 +33,14 @@
       <link>https://milanlproc.github.io/publication/2025-media-frames-generalization/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-media-frames-generalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
+      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
       <description></description>
     </item>
     

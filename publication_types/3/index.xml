@@ -5,20 +5,12 @@
     <link>https://milanlproc.github.io/publication_types/3/</link>
       <atom:link href="https://milanlproc.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>3</title>
       <link>https://milanlproc.github.io/publication_types/3/</link>
     </image>
-    
-    <item>
-      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
-      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
@@ -29,10 +21,26 @@
     </item>
     
     <item>
+      <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
+      <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Generative AI Practices, Literacy, and Divides: An Empirical Analysis in the Italian Context</title>
       <link>https://milanlproc.github.io/publication/2025-genai-literacy-divides-italy/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-genai-literacy-divides-italy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
+      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
       <description></description>
     </item>
     
