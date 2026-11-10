@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Information Seeking | MilaNLP Lab @ Bocconi University</title>
+    <title>information seeking | MilaNLP Lab @ Bocconi University</title>
     <link>https://milanlproc.github.io/tags/information-seeking/</link>
       <atom:link href="https://milanlproc.github.io/tags/information-seeking/index.xml" rel="self" type="application/rss+xml" />
-    <description>Information Seeking</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <description>information seeking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Information Seeking</title>
+      <title>information seeking</title>
       <link>https://milanlproc.github.io/tags/information-seeking/</link>
     </image>
     
     <item>
       <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
       <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
       <description></description>
     </item>

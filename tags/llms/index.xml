@@ -5,12 +5,20 @@
     <link>https://milanlproc.github.io/tags/llms/</link>
       <atom:link href="https://milanlproc.github.io/tags/llms/index.xml" rel="self" type="application/rss+xml" />
     <description>LLMs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© MilaNLP, 2026</copyright><lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>LLMs</title>
       <link>https://milanlproc.github.io/tags/llms/</link>
     </image>
+    
+    <item>
+      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
+      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
@@ -49,14 +57,6 @@
       <link>https://milanlproc.github.io/publication/2025-no-for-some-yes-for-others-persona-prompts-and-other-sources-of-false-refusal-in-language-models/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025-no-for-some-yes-for-others-persona-prompts-and-other-sources-of-false-refusal-in-language-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
-      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
       <description></description>
     </item>
     

@@ -105,18 +105,34 @@ For scientific questions: &lt;a href=&#34;mailto:dirk.hovy@unibocconi.it&#34;&gt
     </item>
     
     <item>
-      <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
-      <link>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</guid>
+      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
+      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE</title>
+      <link>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-democratizing-news-recommenders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WildSEEK: Evaluating Language Models for Information-Seeking</title>
       <link>https://milanlproc.github.io/publication/2026-wildseek/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2026-wildseek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</title>
+      <link>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://milanlproc.github.io/publication/2026-demographic-signals-student-assessment/</guid>
       <description></description>
     </item>
     
@@ -287,9 +303,9 @@ For scientific questions: &lt;a href=&#34;mailto:dirk.hovy@unibocconi.it&#34;&gt
     
     <item>
       <title>Detoxify-IT: An Italian Parallel Dataset for Text Detoxification</title>
-      <link>https://milanlproc.github.io/publication/2025-detoxify/index-2/</link>
+      <link>https://milanlproc.github.io/publication/2025-detoxify/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-detoxify/index-2/</guid>
+      <guid>https://milanlproc.github.io/publication/2025-detoxify/</guid>
       <description></description>
     </item>
     
@@ -314,14 +330,6 @@ For scientific questions: &lt;a href=&#34;mailto:dirk.hovy@unibocconi.it&#34;&gt
       <link>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://milanlproc.github.io/publication/2025_hate-speech-definitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Is The Political Content in LLMs&#39; Pre- and Post-Training Data?</title>
-      <link>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://milanlproc.github.io/publication/2025-political-content-llm-training-data/</guid>
       <description></description>
     </item>
     
